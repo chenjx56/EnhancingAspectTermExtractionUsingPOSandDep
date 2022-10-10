@@ -1,0 +1,800 @@
+The bread is top notch as well .	O B-AS O O O O O O	DT NN VBZ JJ NN RB RB .
+I have to say they have one of the fastest delivery times in the city .	O O O O O O O O O O B-AS I-AS O O O O	PRP VBP TO VB PRP VBP CD IN DT JJS NN NNS IN DT NN .
+Food is always fresh and hot - ready to eat !	B-AS O O O O O O O O O O	NNP VBZ RB JJ CC JJ : JJ TO VB .
+Did I mention that the coffee is OUTSTANDING ?	O O O O O B-AS O O O	VBD PRP VB IN DT NN VBZ NNP .
+Certainly not the best sushi in New York , however , it is always fresh , and the place is very clean , sterile .	O O O O B-AS O O O O O O O O O O O O O B-AS O O O O O O	RB RB DT JJS NN IN NNP NNP , RB , PRP VBZ RB JJ , CC DT NN VBZ RB JJ , JJ .
+I trust the people at Go Sushi , it never disappoints .	O O O B-AS O O O O O O O O	PRP VBP DT NNS IN NNP NNP , PRP RB VBZ .
+Straight-forward , no surprises , very decent Japanese food .	O O O O O O O B-AS I-AS O	JJ , DT NNS , RB JJ JJ NN .
+BEST spicy tuna roll , great asian salad .	O B-AS I-AS I-AS O O B-AS I-AS O	JJS NN NN NN , JJ JJ NN .
+Try the rose roll -LRB- not on menu -RRB- .	O O B-AS I-AS O O O B-AS O O	VB DT NN NN -LRB- RB IN NN -RRB- .
+I love the drinks , esp lychee martini , and the food is also VERY good .	O O O B-AS O O B-AS I-AS O O O B-AS O O O O O	PRP VBP DT NNS , NN NN NN , CC DT NN VBZ RB RB JJ .
+In fact , this was not a Nicoise salad and was barely eatable .	O O O O O O O B-AS I-AS O O O O O	IN NN , DT VBD RB DT NNP NN CC VBD RB JJ .
+While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .	O O O O O B-AS O O O O O O O O O O B-AS O O O O B-AS I-AS O	IN EX VBZ DT JJ NN , PRP MD RB VB CD NNS TO VB PRP$ NNS CC CD IN DT NN NN .
+Once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .	O O O O O O B-AS O B-AS I-AS O O O O O O O	RB PRP VBD , DT JJ NN CC VB NN VBD PRP IN DT JJ NN .
+Our waiter was horrible ; so rude and disinterested .	O B-AS O O O O O O O O	PRP$ NN VBD JJ : RB JJ CC JJ .
+The sangria 's - watered down .	O B-AS O O O O O	DT NN POS : VBN RP .
+menu - uneventful , small .	B-AS O O O O O	NN : JJ , JJ .
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .	O O O O O O O O O O O O O O O O O B-AS O O B-AS O O O O B-AS O	RB CC RB PRP VBP PRP IN DT NN PRP MD VB TO NNP NNP IN JJ NN CC JJ NNS DT IN DT JJ NN .
+Great food but the service was dreadful !	O B-AS O O B-AS O O O	JJ NN CC DT NN VBD JJ .
+The portions of the food that came out were mediocre .	O B-AS I-AS I-AS I-AS O O O O O O	DT NNS IN DT NN WDT VBD RP VBD JJ .
+the two waitress 's looked like they had been sucking on lemons .	O O B-AS I-AS O O O O O O O O O	DT CD NN POS VBD IN PRP VBD VBN VBG IN NNS .
+From the beginning , we were met by friendly staff memebers , and the convienent parking at Chelsea Piers made it easy for us to get to the boat .	O O O O O O O O O B-AS I-AS O O O O B-AS O O O O O O O O O O O O O O	IN DT NN , PRP VBD VBN IN JJ NN NNS , CC DT JJ NN IN NNP NNP VBD PRP JJ IN PRP TO VB TO DT NN .
+We enjoyed ourselves thoroughly and will be going back for the desserts ...	O O O O O O O O O O O B-AS O	PRP VBD PRP RB CC MD VB VBG RB IN DT NNS :
+Desserts are almost incredible : my personal favorite is their Tart of the Day .	B-AS O O O O O O O O O B-AS I-AS I-AS I-AS O	NNS VBP RB JJ : PRP$ JJ NN VBZ PRP$ NNP IN DT NN .
+I am surprised at the lower reviews because it is definitely better than other places I have tried with higher ratings .	O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN IN DT JJR NNS IN PRP VBZ RB JJR IN JJ NNS PRP VBP VBN IN JJR NNS .
+Maybe the secret was that we went on a Sunday night and everything was great .	O O O O O O O O O O O O O O O O	RB DT NN VBD IN PRP VBD IN DT NNP NN CC NN VBD JJ .
+The food was extremely tasty , creatively presented and the wine excellent .	O B-AS O O O O O O O O B-AS O O	DT NN VBD RB JJ , RB VBN CC DT NN JJ .
+WE ENDED UP IN LITTLE ITALY IN LATE AFTERNOON .	O O O O O O O O O O	NNP VBD RP IN NNP NNP IN JJ NN .
+WE WERE PLEASANTLY SURPRISED WITH OUR CHOICE .	O O O O O O O O	NNP NNP NNP VBD IN NN NN .
+THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED .	O B-AS O O O O O O O O	DT NNP NNP NNP DT JJS PRP VBP VBN .
+Harumi Sushi has the freshest and most delicious array of sushi in NYC .	O O O O O O O O B-AS I-AS I-AS O O O	NNP NNP VBZ DT JJS CC RBS JJ NN IN NN IN NNP .
+I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .	O O O O O O O O O B-AS O O O O O O B-AS O B-AS O	PRP RB VB PRP IN RB RB PRP$ JJ NN , CC RB IN PRP$ JJ NNS CC NN .
+If you 're craving some serious indian food and desire a cozy ambiance , this is quite and exquisite choice .	O O O O O O B-AS I-AS O O O O B-AS O O O O O O O O	IN PRP VBP NN DT JJ JJ NN CC NN DT JJ NN , DT VBZ RB CC JJ NN .
+I definitely enjoyed the food as well .	O O O O B-AS O O O	PRP RB VBD DT NN RB RB .
+have always had a great time here .	O O O O O O O O	VB RB VBD DT JJ NN RB .
+It was pleasantly uncrowded , the service was delightful , the garden adorable , the food -LRB- from appetizers to entrees -RRB- was delectable .	O O O O O O B-AS O O O O B-AS O O O B-AS O O B-AS O B-AS O O O O	PRP VBD RB JJ , DT NN VBD JJ , DT NN JJ , DT NN -LRB- IN NNS TO NNS -RRB- VBD JJ .
+You will be very happy with the experience .	O O O O O O O O O	PRP MD VB RB JJ IN DT NN .
+The food is surprisingly good , and the decor is nice .	O B-AS O O O O O O B-AS O O O	DT NN VBZ RB JJ , CC DT NN VBZ JJ .
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners !	O O O O O O O O O O O O O B-AS O B-AS O	WRB JJ CC JJ IN NNP NNP TO VB IN PRP VBZ NN NN CC NNS .
+Two wasted steaks -- what a crime !	O O B-AS O O O O O	CD VBN NNS : WP DT NN .
+The staff should be a bit more friendly .	O B-AS O O O O O O O	DT NN MD VB DT NN RBR JJ .
+I absolutely suggest this place .	O O O O O O	PRP RB VBP DT NN .
+I think the meatball parm is good .	O O O B-AS I-AS O O O	PRP VBP DT NN NN VBZ JJ .
+If you want good tasting , well seasoned latin food eat at Cabana and you ca n't go wrong .	O O O O O O O O B-AS I-AS O O O O O O O O O O	IN PRP VBP JJ NN , RB JJ NN NN VB IN NNP CC PRP MD RB VB JJ .
+Definitely try the taglierini with truffles - it was incredible .	O O O B-AS I-AS I-AS O O O O O	RB VB DT NNS IN NNS : PRP VBD JJ .
+Also , the staff is very attentive and really personable .	O O O B-AS O O O O O O O	RB , DT NN VBZ RB JJ CC RB JJ .
+Overall , this is a great new restaurant that has been consistently good every time I have been .	O O O O O O O O O O O O O O O O O O O	RB , DT VBZ DT JJ JJ NN WDT VBZ VBN RB JJ DT NN PRP VBP VBN .
+The gnocchi literally melts in your mouth !	O B-AS O O O O O O	DT NN RB VBZ IN PRP$ NN .
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .	O O O O O O O B-AS O O O B-AS O O O O O B-AS I-AS O O O O O O B-AS I-AS O O B-AS I-AS O	VBD DT JJ NN IN NNP : NN VBD JJ : NN VBD JJ CC JJ IN NN NN : PRP MD RB VB DT NN NN CC DT NN NN .
+Entrees include classics like lasagna , fettuccine Alfredo and chicken parmigiana .	B-AS O O O B-AS O B-AS I-AS O B-AS I-AS O	NNS VBP NNS IN NN , NN NNP CC NN NN .
+The food is good , the teriyaki I recommend .	O B-AS O O O O B-AS O O O	DT NN VBZ JJ , DT NN PRP VBP .
+Meal was very expensive for what you get .	B-AS O O O O O O O O	NN VBD RB JJ IN WP PRP VBP .
+Try the Peanut Butter Sorbet and the pizza with soy cheese !	O O B-AS I-AS I-AS O O B-AS I-AS I-AS I-AS O	VB DT NNP NN NNP CC DT NN IN NN NN .
+Good food at the right price , what more can you ask for .	O B-AS O O O B-AS O O O O O O O O	JJ NN IN DT JJ NN , WDT RBR MD PRP VB IN .
+We love it , and took buses and cabs to get there .	O O O O O O O O O O O O O	PRP VBP PRP , CC VBD NNS CC NNS TO VB RB .
+If you ' re in New York , you do not want to miss this place .	O O O O O O O O O O O O O O O O O	IN PRP '' VB IN NNP NNP , PRP VBP RB VB TO VB DT NN .
+The food is top notch , the service is attentive , and the atmosphere is great .	O B-AS O O O O O B-AS O O O O O B-AS O O O	DT NN VBZ JJ NN , DT NN VBZ JJ , CC DT NN VBZ JJ .
+I 've been coming here on and off for the past five years and I have to say that La Lanterna has never , ever dissapointed me .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN VBG RB IN CC IN IN DT JJ CD NNS CC PRP VBP TO VB IN NNP NNP VBZ RB , RB VBD PRP .
+Great food , great waitstaff , great atmosphere , and best of all GREAT beer !	O B-AS O O B-AS O O B-AS O O O O O O B-AS O	JJ NN , JJ NN , JJ NN , CC JJS IN DT JJ NN .
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good -LRB- kimono shrimp special was excellent -RRB- and has a great atmosphere .	O O O O O O O O O O O O O B-AS O O O O O O B-AS I-AS I-AS O O O O O O O B-AS O	DT VBZ RB CD IN PRP$ RBS JJ NNS IN DT NN DT NN VBZ JJ CC RB JJ -LRB- NN NN NN VBD JJ -RRB- CC VBZ DT JJ NN .
+My husband and I moved to Nolita 6 years ago and for as long as we have lived here , Peasant has been our favorite !	O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP$ NN CC PRP VBD TO NNP CD NNS RB CC IN RB JJ IN PRP VBP VBN RB , NNP VBZ VBN PRP$ JJ .
+The whole experience was satisfying .	O O O O O O	DT JJ NN VBD VBG .
+However , it was worth the visit .	O O O O O O O O	RB , PRP VBD JJ DT NN .
+The menu is interesting and quite reasonably priced .	O B-AS O O O O O B-AS O	DT NN VBZ JJ CC RB RB VBN .
+The food was delicious and clearly fresh ingredients were used .	O B-AS O O O O O B-AS O O O	DT NN VBD JJ CC RB JJ NNS VBD VBN .
+This made it obvious that the food was n't cooked fresh ; it was obviously made before hand and then reheated .	O O O O O O B-AS O O O O O O O O O O O O O O O	DT VBD PRP JJ IN DT NN VBD RB VBN JJ : PRP VBD RB VBN IN NN CC RB VBN .
+Appetizer are excellent here ; you can make a great -LRB- and inexpensive -RRB- meal out of them .	B-AS O O O O O O O O O O O O O B-AS O O O O	NN VBP JJ RB : PRP MD VB DT JJ -LRB- CC JJ -RRB- NN IN IN PRP .
+The spicy mussels are a highlight .	O B-AS I-AS O O O O	DT JJ NNS VBP DT NN .
+Also get the Onion Rings -- best we 've ever had .	O O O B-AS I-AS O O O O O O O	RB VB DT NNP NNPS : JJS PRP VBP RB VBN .
+Would not return for the amount we paid .	O O O O O O O O O	MD RB VB IN DT NN PRP VBD .
+However , being foodies , we were utterly disappointed with the food .	O O O O O O O O O O O B-AS O	RB , VBG NNS , PRP VBD RB VBN IN DT NN .
+Huge portions , great and attentive service , and pretty good prices .	O B-AS O O O O B-AS O O O O B-AS O	JJ NNS , JJ CC JJ NN , CC RB JJ NNS .
+I was highly disappointed by their service and food .	O O O O O O B-AS O B-AS O	PRP VBD RB VBN IN PRP$ NN CC NN .
+I complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .	O O O O B-AS O O O O B-AS O O O O O O O O O O O O	PRP VBD TO DT NN CC RB TO DT NN , CC DT NN IN NN IN PRP RB VBD RB .
+The food is great and the milkshakes are even better !	O B-AS O O O O B-AS O O O O	DT NN VBZ JJ CC DT NNS VBP RB RBR .
+Stay away if you 're claustrophobic	O O O O O O	NNP RB IN PRP VBP JJ
+If you 're in the ` hood , definitely stop in .	O O O O O O O O O O O O	IN PRP VBP IN DT `` NN , RB VB RP .
+the mushroom barley soup is amazing .	O B-AS I-AS I-AS O O O	DT NN NN NN VBZ JJ .
+On the recommendation of a friend , I checked out Arezzo with my wife .	O O O O O O O O O O O O O O O	IN DT NN IN DT NN , PRP VBD RP NNP IN PRP$ NN .
+I 'm glad I did as the food was very good and the staff was friendly , courteous and efficient .	O O O O O O O B-AS O O O O O B-AS O O O O O O O	PRP VBP JJ PRP VBD IN DT NN VBD RB JJ CC DT NN VBD JJ , JJ CC JJ .
+Their duck here is also absolutely delicious .	O B-AS O O O O O O	PRP$ NN RB VBZ RB RB JJ .
+This is definitely one of the places that I have continued to come back to over the years .	O O O O O O O O O O O O O O O O O O O	DT VBZ RB CD IN DT NNS IN PRP VBP VBN TO VB RB TO IN DT NNS .
+While it was large and a bit noisy , the drinks were fantastic , and the food was superb .	O O O O O O O O O O B-AS O O O O O B-AS O O O	IN PRP VBD JJ CC DT NN JJ , DT NNS VBD JJ , CC DT NN VBD JJ .
+One caveat : Some of the curried casseroles can be a trifle harsh .	O O O O O O B-AS I-AS O O O O O O	CD NN : DT IN DT JJ NNS MD VB DT RB JJ .
+I was n't impressed and it was n't SPICEY ????	O O O O O O O O O O	PRP VBD RB JJ CC PRP VBD RB JJ IN
+The food was almost always EXCELLENT .	O B-AS O O O O O	DT NN VBD RB RB JJ .
+I was pleasently surprised at the taste .	O O O O O O B-AS O	PRP VBD RB VBN IN DT NN .
+A nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers .	O O B-AS O O O O O O O O O O O O O O O O O B-AS O O O O O O B-AS O O	DT JJ NN , RB RB IN PRP VBZ RB VB RB JJ CC DT JJ NN TO PRP$ VBN NN VBP NNP DT JJ NN IN NN NNS .
+I never had an orange donut before so I gave it a shot .	O O O O B-AS I-AS O O O O O O O O	PRP RB VBD DT JJ NN IN IN PRP VBD PRP DT NN .
+they really provide a relaxing , laid-back atmosphere .	O O O O O O O B-AS O	PRP RB VBP DT NN , JJ NN .
+This particular location certainly uses substandard meats .	O O O O O O B-AS O	DT JJ NN RB VBZ JJ NNS .
+I stumbled upon this resteraunt on my way home from the subway .	O O O O O O O O O O O O O	PRP VBD IN DT NN IN PRP$ NN NN IN DT NN .
+The Management was less than accomodating .	O B-AS O O O O O	DT NN VBD JJR IN VBG .
+The ambience is also more laid-back and relaxed .	O B-AS O O O O O O O	DT NN VBZ RB RBR JJ CC VBN .
+the teas are great and all the sweets are homemade .	O B-AS O O O O O B-AS O O O	DT NNS VBP JJ CC PDT DT NNS VBP NN .
+mojitos and the service are the best part in there	B-AS O O B-AS O O O O O O	NNS CC DT NN VBP DT JJS NN IN EX
+Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .	B-AS O B-AS O B-AS O O O B-AS I-AS O O O O O	NNS , NNS CC NNS , IN DT JJ NN , VBP JJ NNS .
+this restaurant is absolutely beautiful .	O O O O O O	DT NN VBZ RB JJ .
+The design is very intimate and romantic .	O B-AS O O O O O O	DT NN VBZ RB JJ CC JJ .
+The food was wonderful and imaginative .	O B-AS O O O O O	DT NN VBD JJ CC JJ .
+The staff is very sharp and they look good too .	O B-AS O O O O O O O O O	DT NN VBZ RB JJ CC PRP VBP JJ RB .
+The worst though was the taste .	O O O O O B-AS O	DT JJS IN VBD DT NN .
+They were dry , stale and pretty flavorless .	O O O O O O O O O	PRP VBD JJ , JJ CC RB JJ .
+The fajita we tried was tasteless and burned and the mole sauce was way too sweet .	O B-AS O O O O O O O O B-AS I-AS O O O O O	DT NN PRP VBD VBD JJ CC JJ CC DT NN NN VBD RB RB JJ .
+Stay with the roasted chickens and you 'll be fine .	O O O B-AS I-AS O O O O O O	NNP IN DT JJ NNS CC PRP MD VB JJ .
+The atmosphere is warm , comfortable , artsy and sexy .	O B-AS O O O O O O O O O	DT NN VBZ JJ , JJ , JJ CC JJ .
+The food is great -LRB- big selection , reasonable prices -RRB- and the drinks are really good .	O B-AS O O O O B-AS O O B-AS O O O B-AS O O O O	DT NN VBZ JJ -LRB- JJ NN , JJ NNS -RRB- CC DT NNS VBP RB JJ .
+The steak melted in my mouth .	O B-AS O O O O O	DT NN VBN IN PRP$ NN .
+The food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .	O B-AS O O O O O O O O O O O O B-AS O O O O O O O O O	DT NN VBD VB DT JJ JJ NNS TO VB , CC DT JJ NNS POS NNS CC NN VBD RP IN PRP .
+Most importantly , it is reasonably priced .	O O O O O O B-AS O	RBS RB , PRP VBZ RB VBN .
+The selection of food is excellent -LRB- I 'm not used to having much choice at restaurants -RRB- , and the atmosphere is great .	O B-AS I-AS I-AS O O O O O O O O O O O O O O O O O B-AS O O O	DT NN IN NN VBZ JJ -LRB- PRP VBP RB VBN TO VBG JJ NN IN NNS -RRB- , CC DT NN VBZ JJ .
+Only suggestion is that you skip the dessert , it was overpriced and fell short on taste .	O O O O O O O B-AS O O O O O O O O B-AS O	RB NN VBZ IN PRP VBP DT NN , PRP VBD VBN CC VBD RB IN NN .
+Food was decent , but not great .	B-AS O O O O O O O	NNP VBD JJ , CC RB JJ .
+I have no idea why this restaurant is so often overlooked .	O O O O O O O O O O O O	PRP VBP DT NN WRB DT NN VBZ RB RB VBN .
+From the moment you walk in , you feel like you 're in the perfect place .	O O O O O O O O O O O O O O O O O	IN DT NN PRP VBP IN , PRP VBP IN PRP VBP IN DT JJ NN .
+i dont know what some people who rave about this hot dog are talking about .	O O O O O O O O O O B-AS I-AS O O O O	FW FW VBP WP DT NNS WP VBP IN DT JJ NN VBP VBG RB .
+it is a hidden delight complete with a quaint bar and good food .	O O O O O O O O O B-AS O O B-AS O	PRP VBZ DT JJ NN JJ IN DT JJ NN CC JJ NN .
+I find that most Kosher restaurants are average to good , but this has been the best I 've eaten so far .	O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP IN JJS NNP NNS VBP JJ TO JJ , CC DT VBZ VBN DT JJS PRP VBP VBN RB RB .
+The waiters ALWAYS look angry and even ignore their high-tipping regulars .	O B-AS O O O O O O O O O O	DT NNS RB VBP JJ CC RB VB PRP$ JJ NNS .
+the atmosphere is very nice , and a welcome escape from the rest of the SI mall .	O B-AS O O O O O O O O O O O O O O O O	DT NN VBZ RB JJ , CC DT JJ NN IN DT NN IN DT NNP NN .
+Yes , they 're a bit more expensive then typical , but then again , so is their food .	O O O O O O O O O O O O O O O O O O B-AS O	UH , PRP VBP DT NN RBR JJ RB JJ , CC RB RB , RB VBZ PRP$ NN .
+Not terrible , but not the restaurant in the reviews of 2002 .	O O O O O O O O O O O O O	RB JJ , CC RB DT NN IN DT NNS IN CD .
+I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .	O O O O O B-AS O B-AS O B-AS O O O O O O O B-AS I-AS O O O O O O O O O	PRP MD VB IN DT VBZ , NNS CC NNS VBD DT JJ , JJ CC DT NN NN IN $ CD VBD RB JJ DT NN .
+It was delicious and large !	O O O O O O	PRP VBD JJ CC JJ .
+Anywhere else , the prices would be 3x as high !	O O O O B-AS O O O O O O	RB RB , DT NNS MD VB RB RB JJ .
+The service we experienced was friendly and good .	O B-AS O O O O O O O	DT NN PRP VBD VBD JJ CC JJ .
+Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .	O B-AS O O O O O O O O O O O O O B-AS O O O O	PRP$ NN VBD JJ CC PRP VBZ DT NN IN PRP VB VB DT JJ NN TO VB IN .
+The folding chair I was seated at was uncomfortable .	O B-AS I-AS O O O O O O O	DT JJ NN PRP VBD VBN IN VBD JJ .
+As we waited I watched 3 seperate groups of diners discuss how dissapointed they also were .	O O O O O O O O O O O O O O O O O	IN PRP VBD PRP VBD CD JJ NNS IN NNS VBP WRB JJ PRP RB VBD .
+An excellent choice in midtown .	O O O O O O	DT JJ NN IN NN .
+Service was among the best I have ever had in NYC .	B-AS O O O O O O O O O O O	NNP VBD IN DT JJS PRP VBP RB VBN IN NNP .
+The fettucino alfredo was amazing .	O B-AS I-AS O O O	DT NN NN VBD JJ .
+The food was very good and I was pleasantly surprised to see so many vegan options .	O B-AS O O O O O O O O O O O O B-AS I-AS O	DT NN VBD RB JJ CC PRP VBD RB VBN TO VB RB JJ JJ NNS .
+I know real Indian food and this was n't it .	O O O B-AS I-AS O O O O O O	PRP VBP JJ JJ NN CC DT VBD RB PRP .
+Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...	O O O O O B-AS I-AS O B-AS I-AS O B-AS I-AS O B-AS O O B-AS I-AS O O O O O O O	VB JJ TO VB DT NNP NNP : NNP NNP , NNP NNP , NNP , DT NN NN , IN CC IN CC IN :
+Even when the chef is not in the house , the food and service are right on target .	O O O B-AS O O O O O O O B-AS O B-AS O O O O O	RB WRB DT NN VBZ RB IN DT NN , DT NN CC NN VBP JJ IN NN .
+Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .	O O O B-AS I-AS O O B-AS O O O B-AS O O O O O O O	NN IN DT NNS NN TO DT NNS CC RB DT NN VBD VBN RB CC RB JJ .
+The waiters were very professional , courteous and attentive .	O B-AS O O O O O O O O	DT NNS VBD RB JJ , JJ CC JJ .
+My boyfriend and I went here last night and LOVED it !	O O O O O O O O O O O O	PRP$ NN CC PRP VBD RB JJ NN CC VBD PRP .
+The falafal was rather over cooked and dried but the chicken was fine .	O B-AS O O O O O O O O B-AS O O O	DT NN VBD RB IN VBN CC VBN CC DT NN VBD JJ .
+I highly reccomend the grand marnier shrimp , it 's insanely good .	O O O O B-AS I-AS I-AS O O O O O O	PRP RB VBD DT JJ NN NN , PRP VBZ RB JJ .
+We been there and we really enjoy the food , was areally great food , and the service was really good .	O O O O O O O O B-AS O O O O B-AS O O O B-AS O O O O	PRP VBN RB CC PRP RB VBP DT NN , VBD RB JJ NN , CC DT NN VBD RB JJ .
+Desserts include flan and sopaipillas .	B-AS O B-AS O B-AS O	NNS VBP NN CC NNS .
+I was starving and the small portions were driving me crazy !	O O O O O O B-AS O O O O O	PRP VBD VBG CC DT JJ NNS VBD VBG PRP JJ .
+The wait staff was loud and inconsiderate .	O B-AS I-AS O O O O O	DT NN NN VBD JJ CC JJ .
+However , the food and service and dramatically lacking .	O O O B-AS O B-AS O O O O	RB , DT NN CC NN CC RB VBG .
+The sushi is cut in blocks bigger than my cell phone .	O B-AS O O O O O O O O O O	DT NN VBZ VBN IN NNS JJR IN PRP$ NN NN .
+The service is great , my soup always arrives nice and hot .	O B-AS O O O O B-AS O O O O O O	DT NN VBZ JJ , PRP$ NN RB VBZ JJ CC JJ .
+It had been awhile and I forgot just how delicious crepes can be .	O O O O O O O O O O B-AS O O O	PRP VBD VBN RB CC PRP VBD RB WRB JJ NNS MD VB .
+Montparnasse 's desserts -- especially the silken creme brulee and paper-thin apple tart -- are good enough on their own to make the restaurant worth the trip .	O O B-AS O O O O B-AS I-AS O O B-AS I-AS O O O O O O O O O O O O O O O	NNP POS NNS : RB DT JJ NN NN CC JJ NN JJ : VBP JJ RB IN PRP$ JJ TO VB DT NN IN DT NN .
+My friend told me about this restaurant for a year before he finally took me this weekend .	O O O O O O O O O O O O O O O O O O	PRP$ NN VBD PRP IN DT NN IN DT NN IN PRP RB VBD PRP DT NN .
+i had a delicious shrimp creole .	O O O O B-AS I-AS O	LS VBD DT JJ NN NN .
+The chicken dinner was real good .	O B-AS I-AS O O O O	DT NN NN VBD JJ JJ .
+Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth .	O O O B-AS I-AS I-AS I-AS O O O O O O O O O O O O O O O O O	VB IN DT NNS VBD NN NNS RB IN PRP VBP TO VB DT NN NN TO VB DT NNS IN PRP$ NN .
+The decor is designed in a contemporary Japanese style restaurant .	O B-AS O O O O O O O O O	DT NN VBZ VBN IN DT JJ JJ NN NN .
+but the food was delicious .	O O B-AS O O O	CC DT NN VBD JJ .
+Try the ribs , sizzling beef and couple it with coconut rice .	O O B-AS O O B-AS O O O O B-AS I-AS O	VB DT NNS , VBG NN CC NN PRP IN NN NN .
+The only drawback is that it 's a little pricey .	O O O O O O O O O O O	DT JJ NN VBZ IN PRP VBZ DT JJ JJ .
+Everything about this place was wonderful .	O O O O O O O	NN IN DT NN VBD JJ .
+The avocado salad is a personal fave .	O B-AS I-AS O O O O O	DT NN NN VBZ DT JJ NN .
+And , the honey BBQ rib tips are yummy !	O O O B-AS I-AS I-AS I-AS O O O	CC , DT NN NN NN NNS VBP JJ .
+The BEST Chinese food Uptown !	O O B-AS I-AS O O	DT NNP NNPS NN JJ .
+Service is known for bending over backwards to make everyone happy .	B-AS O O O O O O O O O O O	NNP VBZ VBN IN VBG IN RB TO VB NN JJ .
+The atmosphere is attractive , but a little uncomfortable .	O B-AS O O O O O O O O	DT NN VBZ JJ , CC DT JJ JJ .
+The staff is very friendly .	O B-AS O O O O	DT NN VBZ RB JJ .
+Waiters are very friendly and the pasta is out of this world .	B-AS O O O O O B-AS O O O O O O	NNS VBP RB JJ CC DT NN VBZ IN IN DT NN .
+Great wine list and great cocktail menu .	O B-AS I-AS O O B-AS I-AS O	JJ NN NN CC JJ NN NN .
+The crab cakes are delicious and the BBQ rib was perfect .	O B-AS I-AS O O O O B-AS I-AS O O O	DT NN NNS VBP JJ CC DT NNP NN VBD JJ .
+The food is wonderful , artfully done and simply delicious .	O B-AS O O O O O O O O O	DT NN VBZ JJ , RB VBN CC RB JJ .
+Tiny restaurant with very fast service .	O O O O O B-AS O	NNP NN IN RB JJ NN .
+The sauce may not be for everyone , since it is distintive .	O B-AS O O O O O O O O O O O	DT NN MD RB VB IN NN , IN PRP VBZ JJ .
+My husband and I have been there at least 6 times and we 've always been given the highest service and often free desserts .	O O O O O O O O O O O O O O O O O O O B-AS O O O B-AS O	PRP$ NN CC PRP VBP VBN RB IN JJS CD NNS CC PRP VBP RB VBN VBN DT JJS NN CC RB JJ NNS .
+A beautiful atmosphere , perfect for drinks and/or appetizers .	O O B-AS O O O B-AS O B-AS O	DT JJ NN , JJ IN NNS CC NNS .
+Curioni 's Pizza has been around since the 1920 's .	O O O O O O O O O O O	NNP POS NNP VBZ VBN IN IN DT CD POS .
+They make the best pizza in New Jersey .	O O O O B-AS O O O O	PRP VBP DT JJS NN IN NNP NNP .
+I recently visited over this past summer after being away for a year .	O O O O O O O O O O O O O O	PRP RB VBD IN DT JJ NN IN VBG RB IN DT NN .
+What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .	O O O O O B-AS O O O O O B-AS O O O O O O O O O O O O O O O O B-AS I-AS O	WP DT NN , DT NN VBD RB JJ CC DT NN VBD JJR IN NN , CC WP RB VBD RP VBD JJ DT JJ CC JJ NN NN .
+Frankly , the chinese food here is something I can make better at home .	O O O B-AS I-AS O O O O O O O O O O	RB , DT JJ NN RB VBZ NN PRP MD VB JJR IN NN .
+There was only one waiter for the whole restaurant upstairs .	O O O O B-AS O O O O O O	EX VBD RB CD NN IN DT JJ NN NN .
+We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .	O O O O B-AS O B-AS O O O O B-AS I-AS I-AS O O O O B-AS I-AS O	PRP VBD IN DT NNS CC NN CC RB VBD DT JJ NN NN RB RB IN DT NN NN .
+Not to be overlooked , the service is excellent .	O O O O O O B-AS O O O	RB TO VB VBN , DT NN VBZ JJ .
+this without question is one of the worst hotdogs i have ever had .	O O O O O O O O B-AS O O O O O	DT IN NN VBZ CD IN DT JJS NNS FW VBP RB VBN .
+The staff is unbelievably friendly , and I dream about their Saag gosht ... so good .	O B-AS O O O O O O O O O B-AS I-AS O O O O	DT NN VBZ RB JJ , CC PRP VBP IN PRP$ NNP NN : RB JJ .
+I also recommend the garlic knots .	O O O O B-AS I-AS O	PRP RB VBP DT JJ NNS .
+Best Indian food I have ever eaten .	O B-AS I-AS O O O O O	JJS JJ NN PRP VBP RB VBN .
+You wo n't be dissapointed .	O O O O O O	PRP MD RB VB VBN .
+This place has the best pizza .	O O O O O B-AS O	DT NN VBZ DT JJS NN .
+Culinaria is a welcome addition to the Garment district - far better than any restaurant in the area .	O O O O O O O O O O O O O O O O O O O	NNP VBZ DT JJ NN TO DT NNP NN : RB JJR IN DT NN IN DT NN .
+The music which is sometimes a little too heavy for my taste .	O B-AS O O O O O O O O O O O	DT NN WDT VBZ RB DT JJ RB JJ IN PRP$ NN .
+The service is excellent and always informative without an air .	O B-AS O O O O O O O O O	DT NN VBZ JJ CC RB JJ IN DT NN .
+The owner and staff go to great lengths to make you feel comfortable .	O B-AS O B-AS O O O O O O O O O O	DT NN CC NN VBP TO JJ NNS TO VB PRP VB JJ .
+I ca n't stand this dungeon .	O O O O O O O	PRP MD RB VB DT NN .
+The sushi is always fresh and yummy and the menu is pretty varied .	O B-AS O O O O O O O B-AS O O O O	DT NN VBZ RB JJ CC JJ CC DT NN VBZ RB VBN .
+The food was great - sushi was good , but the cooked food amazed us .	O B-AS O O O B-AS O O O O O B-AS I-AS O O O	DT NN VBD JJ : NN VBD JJ , CC DT VBN NN VBD PRP .
+their dinner specials are fantastic .	O B-AS I-AS O O O	PRP$ NN NNS VBP JJ .
+Delish and made to your liking !	O O O O O O O	JJ CC VBN TO PRP$ NN .
+Great food , great drinks , nice dining atmosphere .	O B-AS O O B-AS O O B-AS I-AS O	JJ NN , JJ NNS , JJ NN NN .
+For the price you pay for the food here , you 'd expect it to be at least on par with other Japanese restaurants .	O O B-AS O O O O B-AS O O O O O O O O O O O O O O O O O	IN DT NN PRP VBP IN DT NN RB , PRP MD VB PRP TO VB IN JJS IN NN IN JJ JJ NNS .
+Food portion was SMALL and below average .	B-AS I-AS O O O O O O	NNP NN VBD NNP CC IN NN .
+Do yourself a favor and avoid this place at ALL COST !	O O O O O O O O O O O O	VB PRP DT NN CC VB DT NN IN NN NN .
+since the first time I came here I 've been hooked .	O O O O O O O O O O O O	IN DT JJ NN PRP VBD RB PRP VBP VBN VBN .
+Sit back in one of those comfortable chairs .	O O O O O O O B-AS O	NNP RB IN CD IN DT JJ NNS .
+People in the neighborhood seem to love it , too .	O O O O O O O O O O O	NNS IN DT NN VBP TO VB PRP , RB .
+in conclusion , THIS PLACE SUCKS !!!	O O O O O O O	IN NN , NN NN VBZ CD
+My favs here are the Tacos Pastor and the Tostada de Tinga ...	O O O O O B-AS I-AS O O B-AS I-AS I-AS O	PRP$ NNS RB VBP DT NNP NNP CC DT NNP IN NNP :
+Nick Stef 's is one of the only places worthy of going in the area , so if you happen to be by Madison Square Garden or Herald 's Square check it out !	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	NNP NNP POS VBZ CD IN DT JJ NNS JJ IN VBG IN DT NN , RB IN PRP VB TO VB IN NNP NNP NNP CC NNP POS NNP VB PRP RP .
+Have to tell you : Not at all impressed .	O O O O O O O O O O	VBP TO VB PRP : RB IN DT JJ .
+The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .	O B-AS O O B-AS O O O O O B-AS O O O O O O O O O O O O	DT NNS CC DT NNS VBP RB JJ CC DT NN VBZ RB JJ CC JJ , PDT DT NN VBG JJ .
+For a savory take on the soup and sandwich meal , try the hot and sour soup .	O O O O O O B-AS I-AS I-AS I-AS O O O B-AS I-AS I-AS I-AS O	IN DT JJ NN IN DT NN CC NN NN , VBP DT JJ CC JJ NN .
+This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .	O O O O O O O B-AS O O B-AS O O B-AS O O B-AS O	DT NN VBZ PRP DT : JJ NNS , JJ NN , JJ NN CC JJ NN .
+Also , the chick peas with shrimp -LRB- appetizer -RRB- is divine .	O O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O	RB , DT NN NNS IN NN -LRB- NN -RRB- VBZ JJ .
+Finally , I got sick of the bad service , obnoxious smirks , and snotty back talk .	O O O O O O O O B-AS O O O O O O O O O	RB , PRP VBD JJ IN DT JJ NN , JJ NNS , CC JJ RB NN .
+How have I never been to Agave before ?	O O O O O O O O O	WRB VBP PRP RB VBN TO NNP IN .
+You 're going to drop some coin , but completely worth it , especially if you are looking to impress someone .	O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBG TO VB DT NN , CC RB JJ PRP , RB IN PRP VBP VBG TO VB NN .
+We ordered lamb which was perfectly cooked and tasted awesome .	O O B-AS O O O O O O O O	PRP VBD NN WDT VBD RB VBN CC VBN JJ .
+i especially like their soft shell crab sandwich with fries .	O O O O B-AS I-AS I-AS I-AS I-AS I-AS O	LS RB IN PRP$ JJ NN NN NN IN NNS .
+if you 're looking for authentic hong kong-style food , look no further .	O O O O O O B-AS I-AS I-AS O O O O O	IN PRP VBP VBG IN JJ JJ JJ NN , VBP DT RB .
+My wife I lived on the west side and found this while visiting firends on the UES .	O O O O O O O O O O O O O O O O O O	PRP$ NN PRP VBD IN DT JJ NN CC VBD DT IN VBG NNS IN DT NNP .
+good food good wine that 's it .	O B-AS O B-AS O O O O	JJ NN JJ NN WDT VBZ PRP .
+A nice find in the neighborhood .	O O O O O O O	DT JJ VB IN DT NN .
+The staff was extremely friendly and pleasant .	O B-AS O O O O O O	DT NN VBD RB JJ CC JJ .
+And as SOON as one person is done , she asked to pick up the plate immediately .	O O O O O O O O O O O O O O O O O O	CC IN NNP IN CD NN VBZ VBN , PRP VBD TO VB RP DT NN RB .
+This place is Italian , not French .	O O O O O O O O	DT NN VBZ JJ , RB JJ .
+After so many great reviews here , my bf and I went to Esca to celebrate my birthday last nite .	O O O O O O O O O O O O O O O O O O O O O	IN RB JJ JJ NNS RB , PRP$ NN CC PRP VBD TO NNP TO VB PRP$ NN JJ NN .
+While their kitchen food is delicious , their Sushi is out of this world .	O O B-AS I-AS O O O O B-AS O O O O O O	IN PRP$ NN NN VBZ JJ , PRP$ NNP VBZ IN IN DT NN .
+There was a heat problem to boot , so it was about 40 degrees in the restaurant -- we had to request to uncheck our coats !	O O O O O O O O O O O O O O O O O O O O O O O O O O O	EX VBD DT NN NN TO NN , IN PRP VBD RB CD NNS IN DT NN : PRP VBD TO VB TO VB PRP$ NNS .
+everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .	O O O O O O O B-AS O O B-AS O O O O O B-AS O	NN VBZ JJ , IN DT JJ NN IN JJ NNS , TO DT RB JJ NN .
+It 's traditional , simple italian food .	O O O O O B-AS I-AS O	PRP VBZ JJ , JJ JJ NN .
+My girlfriend and I just spent our 10 month anniversary at Lou Lou .	O O O O O O O O O O O O O O	PRP$ NN CC PRP RB VBD PRP$ CD NN NN IN NNP NNP .
+The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .	O B-AS O O O O O O B-AS O O O O B-AS O O O O O O O	DT NN VBZ JJ JJ , IN DT NNS RB JJ CC DT NN RB RB IN DT JJ NN .
+-LRB- The sashimi is cut a little thinly .	O O B-AS O O O O O O	-LRB- DT NN VBZ VBN DT JJ RB .
+Bay Terrace mall is nothing -LRB- ok , almost nothing -RRB- without it !	O O O O O O O O O O O O O O	NNP NNP NN VBZ NN -LRB- NN , RB NN -RRB- IN PRP .
+Could have had better for 1/3 the price in Chinatown .	O O O O O O O B-AS O O O	MD VB VBN RBR IN CD DT NN IN NNP .
+My husband and I had a blast .	O O O O O O O O	PRP$ NN CC PRP VBD DT NN .
+personally i say save your money .	O O O O O O O	RB FW VBP VB PRP$ NN .
+In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .	O O O O B-AS I-AS O O O O B-AS I-AS O O O O O O O O O B-AS I-AS O B-AS I-AS O O O O B-AS I-AS O O O O O O O O B-AS I-AS O	IN NN TO JJ JJ NNS , NN VBZ JJ NN NNS WDT VBP , IN NN TO JJ NNS IN NN NNS CC JJ NNS , DT JJ JJ NN NN VBP TO PRP NNP NNS CC NNS IN NNP NN .
+Believe me , they live up to the name .	O O O O O O O O O O	VB PRP , PRP VBP RP TO DT NN .
+Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .	O O O O O O O O B-AS O O O B-AS O O O B-AS O O O B-AS O O O O O O O O O	RB , PRP VBD IN IN DT JJ NN CC DT JJ NN WP VBD PRP VBG CD NNS IN NNS , CC RB VBZ PRP TO NN RP .
+Not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .	O O O O B-AS O O O O O O O O O O O O O B-AS O O O O O O O	RB RB VBZ DT NN JJ , CC VBG NN IN DT NN VBZ RB JJ NN DT NN MD VB CC JJ CC JJ .
+When the dish arrived it was blazing with green chillis , definitely not edible by a human .	O O B-AS O O O O O B-AS I-AS O O O O O O O O	WRB DT NN VBD PRP VBD VBG IN JJ NN , RB RB JJ IN DT JJ .
+The absolute worst service I 've ever experienced and the food was below average -LRB- when they actually gave people the meals they ordered -RRB- .	O O O B-AS O O O O O O B-AS O O O O O O O O O O B-AS O O O O	DT JJ JJS NN PRP VBP RB VBN CC DT NN VBD IN NN -LRB- WRB PRP RB VBD NNS DT NNS PRP VBD -RRB- .
+It 's about $ 7 for lunch and they have take-out or dine-in .	O O O O O O B-AS O O O B-AS O B-AS O	PRP VBZ RB $ CD IN NN CC PRP VBP JJ CC JJ .
+They are by far the BEST past in New York .	O O O O O O O O O O O	PRP VBP IN RB DT NNP NN IN NNP NNP .
+I have eaten here several times before attending an afternoon performance .	O O O O O O O O O O O O	PRP VBP VBN RB JJ NNS IN VBG DT NN NN .
+Everything is very cheap .	O O O O O	NN VBZ RB JJ .
+Be sure to accompany your food with one of their fresh juice concoctions .	O O O O O B-AS O O O O B-AS I-AS I-AS O	VB JJ TO VB PRP$ NN IN CD IN PRP$ JJ NN NNS .
+The food is great and the prices are reasonable .	O B-AS O O O O B-AS O O O	DT NN VBZ JJ CC DT NNS VBP JJ .
+The place is clean , and if you like soul food , then this is the place to be !	O B-AS O O O O O O O B-AS I-AS O O O O O O O O O	DT NN VBZ JJ , CC IN PRP IN NN NN , RB DT VBZ DT NN TO VB .
+You 'll see a lot of people eating there after church .	O O O O O O O O O O O O	PRP MD VB DT NN IN NNS VBG RB IN NN .
+I had roast chicken and a salad .	O O B-AS I-AS O O B-AS O	PRP VBD NN NN CC DT NN .
+I 've been a regular customer at Juice Generation for the last 3 months - my office moved to the Film Center on Ninth Avenue and they are on the next block .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN DT JJ NN IN NNP NNP IN DT JJ CD NNS : PRP$ NN VBD TO DT NNP NNP IN NNP NNP CC PRP VBP IN DT JJ NN .
+They have a very good chicken with avocado and good tuna as well .	O O O O O B-AS I-AS I-AS O O B-AS O O O	PRP VBP DT RB JJ NN IN NN CC JJ NN RB RB .
+It 's the kind of place I like to support !	O O O O O O O O O O O	PRP VBZ DT NN IN NN CD VBP TO VB .
+But the meals were terrible .	O O B-AS O O O	CC DT NNS VBD JJ .
+My chicken was completely dried out and on the cold side and the sauce was not very flavorful .	O B-AS O O O O O O O O O O O B-AS O O O O O	PRP$ NN VBD RB VBN RP CC IN DT JJ NN CC DT NN VBD RB RB JJ .
+Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful ?	B-AS I-AS I-AS I-AS O O O O O O O O O O O O O O	NNP NN NNP NNP : VBP PRP RB IN PRP$ NN VBD IN NN RB RB JJ .
+just walk by the window and see all the unbiased positive reviews in all the major nyc publications .	O O O O O O O O O O O O O O O O O O O	RB VB IN DT NN CC VB PDT DT JJ JJ NNS IN PDT DT JJ NN NNS .
+Way too much money for such a terrible meal .	O O O O O O O O B-AS O	NN RB JJ NN IN JJ DT JJ NN .
+Would not recommend anyone to go .	O O O O O O O	MD RB VB NN TO VB .
+However , the service is absolutely horrible .	O O O B-AS O O O O	RB , DT NN VBZ RB JJ .
+A con was the slow bar service .	O O O O O B-AS I-AS O	DT NN VBD DT JJ NN NN .
+Dessert was also to die for !	B-AS O O O O O O	NN VBD RB TO VB IN .
+BTW , the service is very good .	O O O B-AS O O O O	NNP , DT NN VBZ RB JJ .
+We loved it and will go back !	O O O O O O O O	PRP VBD PRP CC MD VB RB .
+I came again weeks later with my boyfriend and again had a very nice experience .	O O O O O O O O O O O O O O O O	PRP VBD RB NNS RB IN PRP$ NN CC RB VBD DT RB JJ NN .
+It 's eaten with black vinegar and shredded ginger .	O O O O B-AS I-AS O B-AS I-AS O	PRP VBZ VBN IN JJ NN CC VBD NN .
+The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .	O O B-AS O O O O O O O B-AS O O O O O O O O B-AS I-AS I-AS O O B-AS O O O O O O O O O	DT JJ NN VBD PRP VB TO NN , DT NN VBD VBN , EX VBD DT RBS JJ NN NN NN JJ PRP$ NN VBD IN PRP MD VB RP DT NN .
+We 'll definitly be back again !	O O O O O O O	PRP MD RB VB RB RB .
+This is the best Italian restaurant in the city .	O O O O O O O O O O	DT VBZ DT JJS JJ NN IN DT NN .
+it is a cozy place to go with a couple of friends .	O O O O B-AS O O O O O O O O	PRP VBZ DT JJ NN TO VB IN DT NN IN NNS .
+The service is always great , and the owner walks around to make sure you enjoy .	O B-AS O O O O O O B-AS O O O O O O O O	DT NN VBZ RB JJ , CC DT NN VBZ IN TO VB JJ PRP VBP .
+because the waiters need SEVERE ATTITUE ADJUSTMENTS .	O O B-AS O O O O O	IN DT NNS VBP JJ NN NNS .
+There are numerous shavue restaurants in LA , but few out here .	O O O O O O O O O O O O O	EX VBP JJ JJ NNS IN NNP , CC JJ IN RB .
+Horrible experience - stay away !	O O O O O O	JJ NN : VB RB .
+If this restaurant was in Manhattan , I would definitely go more often .	O O O O O O O O O O O O O O	IN DT NN VBD IN NNP , PRP MD RB VB RBR RB .
+the food is delicious and highly recommended .	O B-AS O O O O O O	DT NN VBZ JJ CC RB VBN .
+When it came time to take the order the waiter gave us a hard time , walked away then came back with a paper and pen for us to write down what we wanted ... excuse me but is n't that his job ???	O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	WRB PRP VBD NN TO VB DT NN DT NN VBD PRP DT JJ NN , VBD RB RB VBD RB IN DT NN CC NN IN PRP TO VB RP WP PRP VBD : VB PRP CC VBZ RB IN PRP$ NN CD
+One of my Fav spots in the city .	O O O O O O O O O	CD IN PRP$ NN NNS IN DT NN .
+Over priced , overrated ... stay away !	O O O O O O O O	IN VBN , VBN : VB RB .
+Do not go to this restaurant .	O O O O O O O	VB RB VB TO DT NN .
+since i was in the neighborhood , we made sure to give this a try .	O O O O O O O O O O O O O O O O	IN FW VBD IN DT NN , PRP VBD JJ TO VB DT DT NN .
+All I can say is they are fantastic .	O O O O O O O O O	DT PRP MD VB VBZ PRP VBP JJ .
+Dieters stick to salads or indulge in vegetarian platters .	O O O B-AS O O O B-AS I-AS O	NNS VBP TO NNS CC VB IN JJ NNS .
+So for a filling and healthy meal give it a go .	O O O O O O B-AS O O O O O	RB IN DT NN CC JJ NN VB PRP DT NN .
+I ca n't imagine how much worse it would have been if we 'd gone at a prime time !	O O O O O O O O O O O O O O O O O O O O	PRP MD RB VB WRB JJ JJR PRP MD VB VBN IN PRP MD VBN IN DT JJ NN .
+I have dined at Mammino several times now and each time it gets bettter .	O O O O O O O O O O O O O O O	PRP VBP VBN IN NN JJ NNS RB CC DT NN PRP VBZ JJR .
+Definitely something to come down and check out .	O O O O O O O O O	RB NN TO VB RB CC VB RP .
+Since I cook for a living , I 'm very fussy about the food I eat in restaurants .	O O O O O O O O O O O O O B-AS O O O O O	IN PRP VBP IN DT NN , PRP VBP RB JJ IN DT NN PRP VBP IN NNS .
+The service was outstanding .	O B-AS O O O	DT NN VBD JJ .
+I went for restaurant week .	O O O O O O	PRP VBD IN NN NN .
+My friends and I stop here for pizza before hitting the Kips Bay movie theater .	O O O O O O O B-AS O O O O O O O O	PRP$ NNS CC PRP VBP RB IN NN IN VBG DT NNP NNP NN NN .
+We always enjoy the pizza .	O O O O B-AS O	PRP RB VBP DT NN .
+The service is pretty good .	O B-AS O O O O	DT NN VBZ RB JJ .
+I went there with a few friends and will return .	O O O O O O O O O O O	PRP VBD RB IN DT JJ NNS CC MD VB .
+This place has been around for a few years .	O O O O O O O O O O	DT NN VBZ VBN IN IN DT JJ NNS .
+Yum , the chicken is great here .	O O O B-AS O O O O	NNP , DT NN VBZ JJ RB .
+I highly recommend this restaurant !!	O O O O O O	PRP RB VB DT NN IN
+You will find everything about Trio to your liking !	O O O O O O O O O O	PRP MD VB NN IN NNP TO PRP$ NN .
+This place was the worst .	O O O O O O	DT NN VBD DT JJS .
+I ordered from here last week .	O O O O O O O	PRP VBD IN RB JJ NN .
+This is a nice sushi restaurant in Brooklyn that 's located on 86 street , right underneath the train station .	O O O O O O O O O O O O O O O O O O O O O	DT VBZ DT JJ NN NN IN NNP WDT VBZ JJ IN CD NN , JJ IN DT NN NN .
+The food here was great , a treat from beginning to end .	O B-AS O O O O O O O O O O O	DT NN RB VBD JJ , DT NN IN VBG TO VB .
+The host -LRB- owner -RRB- and servers are personable and caring .	O B-AS I-AS I-AS I-AS O B-AS O O O O O	DT NN -LRB- NN -RRB- CC NNS VBP JJ CC NN .
+I decided to try out this place after hearing about it in many magazines .	O O O O O O O O O O O O O O O	PRP VBD TO VB RP DT NN IN VBG IN PRP IN JJ NNS .
+It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .	O O O O O O B-AS O O B-AS O O O O O O B-AS O	PRP VBZ RB NN : DT NN , DT NN : DT JJ NN CC JJ NN .
+Having moved I truly miss this place .	O O O O O O O O	VBG VBN PRP RB VBP DT NN .
+The food is very good and the service is great .	O B-AS O O O O O B-AS O O O	DT NN VBZ RB JJ CC DT NN VBZ JJ .
+I usually get one the Vietnamese Beef Noodle Soup .	O O O O O B-AS I-AS I-AS I-AS O	PRP RB VBP CD DT JJ NN NNP NNP .
+SUM IT : local investment bankers like it , try for yourself at least once .	O O O O O O O O O O O O O O O O	NNP NNP : JJ NN NNS IN PRP , VB IN PRP IN JJS RB .
+I started going to dosa hut more after that .	O O O O O O O O O O	PRP VBD VBG TO NN NN RBR IN DT .
+We were wondering why they were there to make our dining experience miserable ?	O O O O O O O O O O B-AS I-AS O O	PRP VBD VBG WRB PRP VBD EX TO VB PRP$ NN NN JJ .
+Too bad , has a lot of potential .	O O O O O O O O O	RB JJ , VBZ DT NN IN NN .
+This place has the best Indian food in New York , hands down .	O O O O O B-AS I-AS O O O O O O O	DT NN VBZ DT JJS JJ NN IN NNP NNP , NNS RB .
+The waiters are very friendly and helpful and if you frequent they will remember you .	O B-AS O O O O O O O O O O O O O O	DT NNS VBP RB JJ CC JJ CC IN PRP JJ PRP MD VB PRP .
+Intimate but charming interior with extremely friendly and attentive service .	O O O B-AS O O O O O B-AS O	JJ CC JJ NN IN RB JJ CC JJ NN .
+The food was as creative as the decor and both worked .	O B-AS O O O O O B-AS O O O O	DT NN VBD IN JJ IN DT NN CC DT VBD .
+Siam Square is fairly new to the neighborhood and I think in time will gain the recognition it deserves .	O O O O O O O O O O O O O O O O O O O O	NNP NNP VBZ RB JJ TO DT NN CC PRP VBP IN NN MD VB DT NN PRP VBZ .
+My first experience at Siam Square was very pleasant .	O O O O O O O O O O	PRP$ JJ NN IN NNP NNP VBD RB JJ .
+I have gone back to Siam Square many times since and everytime I am very satisfied overall .	O O O O O O O O O O O O O O O O O O	PRP VBP VBN RB TO NNP NNP JJ NNS IN CC NN PRP VBP RB JJ JJ .
+The menu is great , with a good selection , and everything that I have tried is absolutely delicious .	O B-AS O O O O O O B-AS O O O O O O O O O O O	DT NN VBZ JJ , IN DT JJ NN , CC NN IN PRP VBP VBN VBZ RB JJ .
+We had our Christmas party at Dos Caminos and it was wonderful .	O O O O O O O O O O O O O	PRP VBD PRP$ NNP NN IN NNP NNP CC PRP VBD JJ .
+My personal favorite is Nick and Joe 's .	O O O O O O O O O	PRP$ JJ NN VBZ NNP CC NNP POS .
+The sauce is zesty and flavorful and the crust is nice and crispy .	O B-AS O O O O O O B-AS O O O O O	DT NN VBZ JJ CC JJ CC DT NN VBZ JJ CC JJ .
+This place has the best sushi in the city .	O O O O O B-AS O O O O	DT NN VBZ DT JJS NN IN DT NN .
+They have an excellent selection -LRB- the rolls with crab are really great -RRB- .	O O O O B-AS O O B-AS I-AS I-AS O O O O O	PRP VBP DT JJ NN -LRB- DT NNS IN NN VBP RB JJ -RRB- .
+Everyone who works there -LRB- the host , the bartender , the servers -RRB- is so helpful .	O O O O O O B-AS O O B-AS O O B-AS O O O O O	NN WP VBZ EX -LRB- DT NN , DT NN , DT NNS -RRB- VBZ RB JJ .
+And the food is fantastic .	O O B-AS O O O	CC DT NN VBZ JJ .
+Favourites include : potato spinach gnocchi and the lamb .	O O O B-AS I-AS I-AS O O B-AS O	NNS VBP : NN NN NN CC DT NN .
+Another great thing about Glechik-everything is very cheap !	O O O O O O O O O	DT JJ NN IN NN VBZ RB JJ .
+Unfortunately , we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport .	O O O O O O O B-AS O O O O O O O O O O O O O O O O O	RB , PRP VBD DT NN IN NN IN PRP VBD VBN DT NN IN VBG CC VBD RP IN DT NNP NNP NNP .
+But regulars know that the sandwiches are the real star here .	O O O O O B-AS O O O O O O	CC NNS VBP IN DT NNS VBP DT JJ NN RB .
+The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending .	O O O B-AS I-AS I-AS O O O B-AS O O O O O O	DT RB VBN NNP NN NN VBN IN NN NN VBZ DT JJ NNP VBG .
+My friend had a burger and I had these wonderful blueberry pancakes .	O O O O B-AS O O O O O B-AS I-AS O	PRP$ NN VBD DT NN CC PRP VBD DT JJ JJ NNS .
+We were so happy with our food and were even more thrilled when we saw the bill .	O O O O O O B-AS O O O O O O O O O B-AS O	PRP VBD RB JJ IN PRP$ NN CC VBD RB RBR VBN WRB PRP VBD DT NN .
+I would definitely come back to this restaurant .	O O O O O O O O O	PRP MD RB VB RB TO DT NN .
+The place just is n't ready for prime time .	O O O O O O O O O O	DT NN RB VBZ RB JJ IN JJ NN .
+All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .	O B-AS O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O	DT NNS VBP RB JJ PRP MD VB PRP VBD PRP$ JJ NN NN CC DT NN VBZ RB JJ , IN CD RB VBZ IN WRB PRP VBD VBN .
+Quartino is my favoriate resturant in NYC .	O O O O O O O O	NN VBZ PRP$ JJ NN IN NNP .
+We 've always gotten amazing service and we love the food .	O O O O O B-AS O O O O B-AS O	PRP VBP RB VBN JJ NN CC PRP VBP DT NN .
+The waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .	O B-AS O O O O O O O O O O O O O O B-AS O O O O O O O O	DT NN VBZ JJ CC JJ CC RB VBZ JJ TO VB PRP , CC DT NN VBZ JJ , IN RB RB JJ .
+I 'm in love with the lobster ravioli !	O O O O O O B-AS I-AS O	PRP VBP IN NN IN DT NN NN .
+My order is on my table even on a busy friday night within 10 minutes -LRB- at the most -RRB- of hanging up the phone .	O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP$ NN VBZ IN PRP$ NN RB IN DT JJ NNP NN IN CD NNS -LRB- IN DT RBS -RRB- IN VBG RP DT NN .
+We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal .	O O O O O O O O O O O O O O O O O B-AS O	PRP VBD IN DT NN IN NN IN IN DT JJ NN NN CC RB VBN PRP$ NN .
+Service is excellent , no wait , and you get a lot for the price .	B-AS O O O O B-AS O O O O O O O O B-AS O	NNP VBZ JJ , DT NN , CC PRP VBP DT NN IN DT NN .
+I thought the food is n't cheap at all compared to Chinatown .	O O O B-AS O O O O O O O O O	PRP VBD DT NN VBZ RB JJ IN DT VBN TO NNP .
+And you never get the feeling that you need to leave .	O O O O O O O O O O O O	CC PRP RB VBP DT NN IN PRP VBP TO VB .
+Coffee is a better deal than overpriced Cosi sandwiches .	B-AS O O O O O O B-AS I-AS O	NNP VBZ DT JJR NN IN JJ NNP NNS .
+We did n't know if we should order a drink or leave ?	O O O O O O O O O B-AS O O O	PRP VBD RB VB IN PRP MD VB DT NN CC VB .
+great neighbhorhood spot .	O O O O	JJ JJ NN .
+Bobb V 's is a great place to take your Friends and Family !	O O O O O O O O O O O O O O	NNP NNP POS VBZ DT JJ NN TO VB PRP$ NNS CC NNP .
+-RRB- It 's not the best Japanese restaurant in the East Village , but it 's a pretty solid one for its modest prices , and worth repeat visits .	O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O	-RRB- PRP VBZ RB DT JJS JJ NN IN DT NNP NNP , CC PRP VBZ DT RB JJ CD IN PRP$ JJ NNS , CC JJ NN NNS .
+The food is so good and so popular that waiting can really be a nightmare .	O B-AS O O O O O O O B-AS O O O O O O	DT NN VBZ RB JJ CC RB JJ IN VBG MD RB VB DT NN .
+Here 's the thing , you 're in the best city in the world for restaurants .	O O O O O O O O O O O O O O O O O	RB VBZ DT NN , PRP VBP IN DT JJS NN IN DT NN IN NNS .
+Go spend your money somewhere that really wows you .	O O O O O O O O O O	VB VB PRP$ NN RB IN RB VBZ PRP .
+The crowd was older and the restaurant is very cramped , but it has old school charm .	O O O O O O O O O O O O O O O O O O	DT NN VBD JJR CC DT NN VBZ RB JJ , CC PRP VBZ JJ NN NN .
+This is a real gem of a place .	O O O O O O O O O	DT VBZ DT JJ NN IN DT NN .
+I think this a a wonderful place .	O O O O O O O O	PRP VBP DT DT DT JJ NN .
+First walking in the place seemed to have great ambience .	O O O O B-AS O O O O B-AS O	NNP VBG IN DT NN VBD TO VB JJ NN .
+I went to Kitchenette this weekend for brunch .	O O O O O O O B-AS O	PRP VBD TO NNP DT NN IN NN .
+This place does n't get the publicity that Sylvias Soul Food restaurant does , but it should .	O O O O O O O O O O O O O O O O O O	DT NN VBZ RB VB DT NN WDT NNP NNP NNP NN VBZ , CC PRP MD .
+Just because P Diddy had a party at Butter does n't mean we should be automatically impressed .	O O O O O O O O O O O O O O O O O O	RB IN NN NNP VBD DT NN IN NN VBZ RB VB PRP MD VB RB JJ .
+Even for two very hungry people there is plenty of food left to be taken home -LRB- it reheats really well also -RRB- .	O O O O O O O O O O B-AS O O O O O O O O O O O O O	RB IN CD RB JJ NNS EX VBZ NN IN NN VBD TO VB VBN NN -LRB- PRP VBZ RB RB RB -RRB- .
+Like I said , Nick and Joe 's may not be everyone 's favorite , but it 's mine .	O O O O O O O O O O O O O O O O O O O O	IN PRP VBD , NNP CC NNP POS MD RB VB NN POS JJ , CC PRP VBZ NN .
+The help was extremely nice and did not rush us .	O O O O O O O O O O O	DT NN VBD RB JJ CC VBD RB VB PRP .
+Then they somehow made a dry and burnt crust , around a raw and cold inside .	O O O O O O O O B-AS O O O O O O O O	RB PRP RB VBD DT JJ CC JJ NN , IN DT JJ CC JJ NN .
+It 's just good food , nothing more and that 's all we want !	O O O O B-AS O O O O O O O O O O	PRP VBZ RB JJ NN , NN JJR CC DT VBZ DT PRP VBP .
+DO N'T KNOW WHAT THE OTHERS ON THE BLOCK WERE LIKE BUT WE WERE PLEASED WITH OUR CHOICE .	O O O O O O O O O O O O O O O O O O O	NN RB NNP WDT DT NNS IN DT NNP VBD IN NNP NNP VBD JJ IN NN NN .
+Average cake thats been courted by a LOT of hype .	O B-AS O O O O O O O O O	JJ NN RB VBN VBN IN DT NN IN NN .
+It 's cute and simple and I loved it .	O O O O O O O O O O	PRP VBZ JJ CC JJ CC PRP VBD PRP .
+My wife and I recently visited the bistro for dinner and had a wonderful experience .	O O O O O O O O O B-AS O O O O O O	PRP$ NN CC PRP RB VBD DT NN IN NN CC VBD DT JJ NN .
+THE SERVICE IS PERFECT TOO NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT	O B-AS O O O O O O O O O	DT NNP VBZ NNP NNP NNP NNP IN NNP NNP NNP
+My fiance and I recently wanted to see the city and deceided to take a dinner cruise .	O O O O O O O O O O O O O O O O O O	PRP$ NN CC PRP RB VBD TO VB DT NN CC VBN TO VB DT NN NN .
+The $ 72 Delmonico steak had to be sent back because it was not cooked to order .	O O O B-AS I-AS O O O O O O O O O O O O O	DT $ CD NNP NN VBD TO VB VBN RB IN PRP VBD RB VBN TO VB .
+Everytime I go there I ca n't pick anything to eat and not because the menu is filled with great things to eat .	O O O O O O O O O O O O O O O B-AS O O O O O O O O	NNP PRP VBP EX PRP MD RB VB NN TO VB CC RB IN DT NN VBZ VBN IN JJ NNS TO VB .
+Half a chicken with a mountain of rice and beans for $ 6.25 .	O O B-AS O O O O B-AS O B-AS O O O O	NN DT NN IN DT NN IN NN CC NNS IN $ CD .
+The service is really fast and friendly , and the value is great .	O B-AS O O O O O O O O B-AS O O O	DT NN VBZ RB JJ CC JJ , CC DT NN VBZ JJ .
+We were very impressed with the food and value .	O O O O O O B-AS O B-AS O	PRP VBD RB JJ IN DT NN CC NN .
+You must try the garlic soup !	O O O O B-AS I-AS O	PRP MD VB DT JJ NN .
+Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .	O O O B-AS O B-AS O B-AS O O B-AS I-AS O O O O O O O	NNP NNS JJ NN , NN , NN CC JJ JJ VBZ , WDT VBP DT RB JJ .
+Even after a few bad evenings at Bardolino , I keep coming back .	O O O O O O O O O O O O O O	RB IN DT JJ JJ NNS IN NNP , PRP VBP VBG RB .
+The pizza 's are made fresh , crispy , and ready to serve .	O B-AS I-AS O O O O O O O O O O O	DT NN POS VBP VBN JJ , JJ , CC JJ TO VB .
+There are many french bistros in the midtown area , and I wholheartedly recommend this one .	O O O O O O O O O O O O O O O O O	EX VBP JJ JJ NNS IN DT JJ NN , CC PRP RB VB DT CD .
+Staff is accomodating make sure you are satified .	B-AS O O O O O O O O	NN VBZ VBG VB JJ PRP VBP JJ .
+Chef Waldy 's always measures up .	B-AS O O O O O O	NN NNP POS RB VBZ RP .
+This diamond in the ruff is definitely worth my 10-minute walk from the 6 train .	O O O O O O O O O O O O O O O O	DT NN IN DT NN VBZ RB JJ PRP$ JJ NN IN DT CD NN .
+Being a vegan myself , I 've made a point of trying all the vegan restaurants in Manhattan -- and Zen Palate is easily my favorite .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	VBG DT JJ PRP , PRP VBP VBN DT NN IN VBG PDT DT JJ NNS IN NNP : CC NNP NNP VBZ RB PRP$ NN .
+Don Pedro 's is one of my favorite restaurants .	O O O O O O O O O O	NNP NNP POS VBZ CD IN PRP$ JJ NNS .
+Reasonably priced with very fresh sushi .	O B-AS O O O B-AS O	RB VBN IN RB JJ NN .
+Go for the Seafood Paella for two .	O O O B-AS I-AS I-AS I-AS O	VB IN DT NNP NNP IN CD .
+All of the apetizers are good and the Sangria is very good .	O O O B-AS O O O O B-AS O O O O	DT IN DT NNS VBP JJ CC DT NNP VBZ RB JJ .
+Cantinetta is a real treasure in a see of mediocre Italian restaurants .	O O O O O O O O O O O O O	NNP VBZ DT JJ NN IN DT VB IN JJ JJ NNS .
+The one positive thing I can say is that the service was prompt , we got seated right away and the server was very friendly .	O O O O O O O O O O B-AS O O O O O O O O O O B-AS O O O O	DT CD JJ NN PRP MD VB VBZ IN DT NN VBD JJ , PRP VBD VBN RB RB CC DT NN VBD RB JJ .
+The staff greeted me warmly at the door and I was seated promptly and the food was excellent .	O B-AS O O O O O O O O O O O O O B-AS O O O	DT NN VBD PRP RB IN DT NN CC PRP VBD VBN RB CC DT NN VBD JJ .
+Whether one pizza place is better than another is often very subjective .	O O O O O O O O O O O O O	IN CD NN NN VBZ JJR IN DT VBZ RB RB JJ .
+Really nice restaurant to go with a group or on a date .	O O O O O O O O O O O O O	RB JJ NN TO VB IN DT NN CC IN DT NN .
+Service is usually pretty good .	B-AS O O O O O	NNP VBZ RB RB JJ .
+Host and Hostess was quite rude .	B-AS O B-AS O O O O	NN CC NNP VBD RB JJ .
+You will not be missing anything .	O O O O O O O	PRP MD RB VB VBG NN .
+I discovered Applebees when I went away to college in VA. .	O O O O O O O O O O O O	PRP VBD NNP WRB PRP VBD RB TO NN IN NNP .
+the wait staff is very friendly , if your not rude or picky ... our meal at Leon last weekend was great - .	O B-AS I-AS O O O O O O O O O O O O B-AS O O O O O O O O	DT NN NN VBZ RB JJ , IN PRP$ RB JJ CC JJ : PRP$ NN IN NNP JJ NN VBD JJ : .
+I recommend any of their salmon dishes ...	O O O O O B-AS I-AS O	PRP VBP DT IN PRP$ NN NNS :
+The foie gras was sweet and luscious .	O B-AS I-AS O O O O O	DT NN NNS VBD JJ CC JJ .
+The menu , which changes seasonally , shows both regional and international influences .	O B-AS O O O O O O O O O O O O	DT NN , WDT VBZ RB , VBZ CC JJ CC JJ NNS .
+but their mac cheese was YUMMY !	O O B-AS I-AS O O O	CC PRP$ NN NN VBD NNP .
+their brunch menu had something for everyone .	O B-AS I-AS O O O O O	PRP$ NN NN VBD NN IN NN .
+jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more .	B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O	NN NN VBD DT JJ NN CC PRP VBD PRP DT VBP RP TO VB TO VB DT NNS TO VB DT RBR .
+I often find myself with time to kill in Times Square , which is a shame since I do n't love this area .	O O O O O O O O O O O O O O O O O O O O O O O O	PRP RB VBP PRP IN NN TO VB IN NNP NNP , WDT VBZ DT NN IN PRP VBP RB VB DT NN .
+They have very quick service which is great when you do n't have much time .	O O O O B-AS O O O O O O O O O O O	PRP VBP RB JJ NN WDT VBZ JJ WRB PRP VBP RB VB JJ NN .
+The food is average : breakfast food , soups , salads , sandwiches , etc. .	O B-AS O O O B-AS I-AS O B-AS O B-AS O B-AS O O O	DT NN VBZ JJ : NN NN , NNS , NNS , NNS , FW .
+I WAS HIGHLY DISAPPOINTED BY THE FOOD .	O O O O O O B-AS O	PRP VBD RB JJ IN DT NN .
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .	O B-AS I-AS O O O O O O O O O B-AS O O O O O O O O O O O O O O B-AS I-AS I-AS O	DT NN NN NN VBP VBZ NN NN DT NNP , DT NNS VBP NN IN JJ CC NN RB VBP NN VBD IN DT RB JJ NNP CC NNP .
+The staff is arrogant , the prices are way high for Brooklyn .	O B-AS O O O O B-AS O O O O O O	DT NN VBZ JJ , DT NNS VBP RB JJ IN NNP .
+This place is average ... at best .	O O O O O O O O	DT NN VBZ JJ : IN JJS .
+the service is prompt friendly .	O B-AS O O O O	DT NN VBZ JJ JJ .
+Whatever the reason it is definitely the place to be .	O O O O O O O O O O O	WDT DT NN PRP VBZ RB DT NN TO VB .
+This is literally a hot spot when it comes to the food .	O O O O O O O O O O O B-AS O	DT VBZ RB DT JJ NN WRB PRP VBZ TO DT NN .
+The downstairs bar scene is very cool and chill ...	O B-AS I-AS I-AS O O O O O O	DT NNS NN NN VBZ RB JJ CC NN :
+The food was definitely good , but when all was said and done , I just could n't justify it for the price -LRB- including 2 drinks , $ 100/person -RRB- ...	O B-AS O O O O O O O O O O O O O O O O O O O O B-AS O O O B-AS O O O O O	DT NN VBD RB JJ , CC WRB DT VBD VBN CC VBN , PRP RB MD RB VB PRP IN DT NN -LRB- VBG CD NNS , $ CD -RRB- :
+I 've come here for casual lunches as well as for a friend 's birthday and I always enjoy myself .	O O O O O B-AS I-AS O O O O O O O O O O O O O O	PRP VBP VBN RB IN JJ NNS RB RB IN IN DT NN POS NN CC PRP RB VBP PRP .
+If you are a Tequila fan you will not be disappointed .	O O O O B-AS O O O O O O O	IN PRP VBP DT NNP NN PRP MD RB VB VBN .
+Great beer selection too , something like 50 beers .	O B-AS I-AS O O O O O B-AS O	JJ NN NN RB , NN IN CD NNS .
+After reading the great reviews , I invited a die-hard downtown friend of mine to join me at TASTE .	O O O O O O O O O O O O O O O O O O O O	IN VBG DT JJ NNS , PRP VBD DT JJ NN NN IN NN TO VB PRP IN NN .
+Not to sound too negative but be wary of the delivary .	O O O O O O O O O O B-AS O	RB TO VB RB JJ CC VB JJ IN DT JJ .
+Feels like family when we go there .	O O O O O O O O	VBZ IN NN WRB PRP VBP RB .
+I found the food to be just as good as its owner , Da Silvano , just much less expensive .	O O O B-AS O O O O O O O B-AS O O O O O O O O O	PRP VBD DT NN TO VB RB RB JJ IN PRP$ NN , NN NNP , RB RB RBR JJ .
+They have homemade pastas of all kinds -- I recommend the gnocchi -- yum !	O O B-AS I-AS O O O O O O O B-AS O O O	PRP VBP JJ NNS IN DT NNS : PRP VBP DT NNS : NN .
+My vegetable risotto was burnt , and infused totally in a burnt flavor .	O B-AS I-AS O O O O O O O O O B-AS O	PRP$ NN NN VBD JJ , CC VBD RB IN DT JJ NN .
+What a pleasant surprise !	O O O O O	WP DT JJ NN .
+The main draw of this place is the price .	O O O O O O O O B-AS O	DT JJ NN IN DT NN VBZ DT NN .
+How can hope to stay in business with service like this ?	O O O O O O O O B-AS O O O	WRB MD VB TO VB IN NN IN NN IN DT .
+But dinner here is never disappointing , even if the prices are a bit over the top .	O B-AS O O O O O O O O B-AS O O O O O O O	CC NN RB VBZ RB JJ , RB IN DT NNS VBP DT NN IN DT NN .
+Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !	O O O O O O O B-AS O B-AS O B-AS O O O O B-AS I-AS O O O O O O	RB RB VBD PRP VBP JJ , NNS , NN , NN NN , CC PRP$ NN NNS VBP IN IN DT NN .
+the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .	O B-AS I-AS O O O B-AS O O O O O B-AS O	DT NN NNP , DT JJ FW , CC PRP RBS JJ NNS .
+The sushi is reasonably priced and fresh .	O B-AS O O B-AS O O O	DT NN VBZ RB VBN CC JJ .
+It 's no-fuss , fast and delicious .	O O O O O O O O	PRP VBZ JJ , JJ CC JJ .
+Save room for deserts - they 're to die for .	O O O B-AS O O O O O O O	VB NN IN NNS : PRP VBP TO VB IN .
+Best things to order are from the grill -LRB- Churrasco and Ribs -RRB- .	O O O O O O O B-AS O B-AS O B-AS O O	JJS NNS TO NN VBP IN DT NN -LRB- NN CC NNS -RRB- .
+The traditional Italian items are great - cheap and served in a cozy setting .	O B-AS I-AS I-AS O O O O O B-AS O O O B-AS O	DT JJ JJ NNS VBP JJ : JJ CC VBD IN DT JJ NN .
+Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy .	O O O O B-AS I-AS I-AS O O B-AS I-AS I-AS O O O O O O O O	IN PRP$ VB DT JJ JJ NN CC DT JJ JJ NN PRP VBP JJ TO VB RB JJ .
+last Tuesday for a late lunch with a friend .	O O O O B-AS I-AS O O O O	JJ NNP IN DT JJ NN IN DT NN .
+It was delish and I did n't feel bad eating it .	O O O O O O O O O O O O	PRP VBD JJ CC PRP VBD RB VB JJ VBG PRP .
+Another friend had to ask 3 times for parmesan cheese .	O O O O O O O O B-AS I-AS O	DT NN VBD TO VB CD NNS IN NN NN .
+Our waitress had apparently never tried any of the food , and there was no one to recommend any wine .	O B-AS O O O O O O O B-AS O O O O O O O O O B-AS O	PRP$ NN VBD RB RB VBD DT IN DT NN , CC EX VBD DT NN TO VB DT NN .
+The service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .	O B-AS O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O	DT NN VBD DT NN JJ CC DT NNS VBP DT NN JJ RB IN PRP VBP JJ CC IN DT NN , DT VBZ RB DT NN IN PRP .
+No doubt the next time we want to go out for a special occasion or are entertaining guests from out of town , Spirit and Bateaux will be our destination .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN DT JJ NN PRP VBP TO VB RP IN DT JJ NN CC VBP JJ NNS IN IN IN NN , NN CC NNP MD VB PRP$ NN .
+i would recommend Jewel Bako if you want to feel like you were kicked in the groin and had to pay for it too .	O O O O O O O O O O O O O O O O O O O O O O O O O	LS MD VB NNP NNP IN PRP VBP TO VB IN PRP VBD VBN IN DT NN CC VBD TO VB IN PRP RB .
+The ambiance was pretty cool , but not worth the hassle .	O B-AS O O O O O O O O O O	DT NN VBD RB JJ , CC RB JJ DT NN .
+The unfortunate lady next to us thought she had ordered a salad -LRB- including asking for salad dressing -RRB- and was instead given a quesedilla .	O O O O O O O O O O O B-AS O O O O B-AS I-AS O O O O O O B-AS O	DT JJ NN IN TO PRP VBD PRP VBD VBN DT NN -LRB- VBG VBG IN NN VBG -RRB- CC VBD RB VBN DT NN .
+El Nidos one of the best restaurants in New York which I 've ever been to , has a great variety of tasty , mouth watering pizza 's .	O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS O	NNP NNP CD IN DT JJS NNS IN NNP NNP WDT PRP VBP RB VBN TO , VBZ DT JJ NN IN JJ , NN NN NN POS .
+The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .	O B-AS O O O O O O O B-AS O O O O O O O B-AS O O O O O O O O O O O O O O O O O	DT NN VBD RB JJ DT RB , DT NN VBD RB IN JJ JJ TO DT NN , CC IN EX VBZ DT JJ NN WP VBZ DT NN WP VBZ DT NN .
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit .	O O O O O O O O O O O O O O O O O B-AS O O O O O B-AS O O O	IN PRP VBD JJ PRP VBP TO VB RP RB RB IN JJ IN DT JJ JJ NN CC TO VB DT JJ NN DT NN .
+I had to wait for my friend at the bar for a few minutes	O O O O O O O O O B-AS O O O O	PRP VBD TO VB IN PRP$ NN IN DT NN IN DT JJ NNS
+Chef Vincenzo , always there if you need him , is a real talent and a real Roman .	B-AS O O O O O O O O O O O O O O O O O O	NN NNP , RB RB IN PRP VBP PRP , VBZ DT JJ NN CC DT JJ NNP .
+If you 're looking to taste some great Indian food and want good service , definitely visit Curry Leaf .	O O O O O O O O B-AS I-AS O O O B-AS O O O O O O	IN PRP VBP VBG TO VB DT JJ JJ NN CC VB JJ NN , RB VB NNP NNP .
+You must try Odessa stew or Rabbit stew ; salads - all good ; and kompot is soo refreshing during the hot summer day -LRB- they make it the way my mom does , reminds me of home a lot -RRB- .	O O O B-AS I-AS O B-AS I-AS O B-AS O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP MD VB NNP NN CC NN NN : NNS : DT JJ : CC NN VBZ NN JJ IN DT JJ NN NN -LRB- PRP VBP PRP DT NN PRP$ NN VBZ , VBZ PRP IN NN DT NN -RRB- .
+My daughter and I left feeling satisfied -LRB- not stuffed -RRB- and it felt good to know we had a healthy lunch .	O O O O O O O O O O O O O O O O O O O O O B-AS O	PRP$ NN CC PRP VBD NN JJ -LRB- RB VBN -RRB- CC PRP VBD JJ TO VB PRP VBD DT JJ NN .
+I 'm almost tempted to give this place a bad review so I can keep the crowds away ... been going there on and off for a year now and it 's really my fave hang out in the city .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP RB VBN TO VB DT NN DT JJ NN IN PRP MD VB DT NNS RB : VBN VBG RB IN CC IN IN DT NN RB CC PRP VBZ RB PRP$ NN VB RP IN DT NN .
+When she complained , the waitress said , Sorry .	O O O O O B-AS O O O O	WRB PRP VBD , DT NN VBD , NNP .
+The quality of the meat was on par with your local grocery store .	O B-AS I-AS I-AS I-AS O O O O O O O O O	DT NN IN DT NN VBD IN NN IN PRP$ JJ NN NN .
+They specialize in smoothies and fresh juices .	O O O B-AS O B-AS I-AS O	PRP VBP IN NNS CC JJ NNS .
+It first came well done , and I politely sent it back .	O O O O O O O O O O O O O	PRP RB VBD RB VBN , CC PRP RB VBD PRP RB .
+I recommend the black roasted codfish , it was the best dish of the evening .	O O O B-AS I-AS I-AS O O O O O B-AS O O O O	PRP VBP DT JJ JJ NN , PRP VBD DT JJS NN IN DT NN .
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .	O B-AS O O O O O O O O B-AS O O O O O O O O O O O O B-AS O O O O O O O O O O O O	DT NN RB VBD PRP PRP MD VB IN WDT NN PRP VBD CC IN DT NN PRP VBD RB JJ IN DT NN CC DT NN IN PRP VBP CC VBD DT NN RB .
+In mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .	O O O O O O O O O B-AS O O O O O O O O O O O O O B-AS O	IN FW FW , RB VBD NN CC JJ NN WDT VBD DT VBD JJ NN CC RB VBD RP IN DT NN NN .
+during busy hrs , i recommend that you make a reservation .	O O O O O O O O O O B-AS O	IN JJ NNS , FW VB IN PRP VBP DT NN .
+Do n't waste your time or your money .	O O O O O O O O O	VBP RB VB PRP$ NN CC PRP$ NN .
+it 's good but , like the movie is never as good as the book , this is same analogy .	O O O O O O O O O O O O O O O O O O O O O	PRP VBZ JJ CC , IN DT NN VBZ RB RB JJ IN DT NN , DT VBZ JJ NN .
+it was a very warm experience .	O O O O O O O	PRP VBD DT RB JJ NN .
+I went to Common Stock for brunch and I was so impressed .	O O O O O O B-AS O O O O O O	PRP VBD TO NNP NNP IN NN CC PRP VBD RB JJ .
+now called nikki sushi , sushi is OK .	O O O O O B-AS O O O	RB VBN JJ NN , NN VBZ JJ .
+The food is also outstanding and is served quite quickly .	O B-AS O O O O O B-AS O O O	DT NN VBZ RB JJ CC VBZ VBN RB RB .
+I just have nothing to say about this place that is negative except that it 's not a cheap night out ... but it 's SO worth it .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP RB VBP NN TO VB IN DT NN WDT VBZ JJ IN IN PRP VBZ RB DT JJ NN IN : CC PRP VBZ RB JJ PRP .
+From the erbazzone emiliana to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .	O O B-AS I-AS O O B-AS I-AS I-AS I-AS I-AS O O B-AS O O O O O O O O O O	IN DT NN NN TO DT NN IN DT NN NN , DT NNS IN DT NN VBP DT VBN IN JJ NN .
+The food is delicious and the bar has a great vibe .	O B-AS O O O O B-AS O O O B-AS O	DT NN VBZ JJ CC DT NN VBZ DT JJ NN .
+expectations were real hi reading the ' 10 's ' .	O O O O O O O O O O O	NNS VBD JJ UH VBG DT '' CD POS '' .
+There 's candlelight and music .	O O B-AS O B-AS O	EX VBZ NN CC NN .
+It 's nice to find a place that is open 24 hours -LRB- especially in downtown Brooklyn -RRB- .	O O O O O O O O O O O O O O O O O O O	PRP VBZ JJ TO VB DT NN WDT VBZ JJ CD NNS -LRB- RB IN NN NNP -RRB- .
+Simple healthy unglamorous food cheap .	O O O B-AS O O	JJ JJ JJ NN NN .
+It was such a fantastic dining experience , that I returned again the same week .	O O O O O B-AS I-AS O O O O O O O O O	PRP VBD JJ DT JJ NN NN , IN PRP VBD RB DT JJ NN .
+To be fair , the food still is good and the service is quick and attentative even though its usually very busy .	O O O O O B-AS O O O O O B-AS O O O O O O O O O O O	TO VB JJ , DT NN RB VBZ JJ CC DT NN VBZ JJ CC JJ RB IN PRP$ RB RB JJ .
+The place is absolutely adorable and the food is delicious .	O B-AS O O O O O B-AS O O O	DT NN VBZ RB JJ CC DT NN VBZ JJ .
+I ordered the Chicken Teriyaki and my husband got Garlic Shrimp .	O O O B-AS I-AS O O O O B-AS I-AS O	PRP VBD DT NNP NNP CC PRP$ NN VBD NNP NNP .
+I 've had better Japanese food at a mall food court .	O O O O B-AS I-AS O O O O O O	PRP VBP VBD JJR JJ NN IN DT NN NN NN .
+The staff members are extremely friendly and even replaced my drink once when I dropped it outside .	O B-AS I-AS O O O O O O O B-AS O O O O O O O	DT NN NNS VBP RB JJ CC RB VBD PRP$ NN RB WRB PRP VBD PRP IN .
+Cool atmosphere but such a let down .	O B-AS O O O O O O	JJ NN CC PDT DT VB RP .
+The Sashimi portion are big enough to appease most people , but I did n't like the fact they used artifical lobster meat .	O B-AS I-AS O O O O O O O O O O O O O O O O O B-AS I-AS I-AS O	DT NNP NN VBP JJ RB TO VB JJS NNS , CC PRP VBD RB VB DT NN PRP VBD JJ NN NN .
+They have wheat crusted pizza made with really fresh and yummy ingredients .	O O B-AS I-AS I-AS O O O O O O B-AS O	PRP VBP NN JJ NN VBN IN RB JJ CC JJ NNS .
+Had a lovely dinner in this dedicated seafood joint , food was well-prepared and - presented and the service was pleasant and prompt .	O O O B-AS O O O O O O B-AS O O O O O O O B-AS O O O O O	VBD DT JJ NN IN DT JJ NN NN , NN VBD JJ CC : VBN CC DT NN VBD JJ CC JJ .
+the icing MADE this cake , it was fluffy , not ultra sweet , creamy and light .	O O O O B-AS O O O O O O O O O O O O O	DT NN NN DT NN , PRP VBD JJ , RB NN JJ , JJ CC JJ .
+Finally let into the store 5 at a time , to buy expensive slices from a harried staff .	O O O O O O O O O O O O O B-AS O O O B-AS O	RB VB IN DT NN CD IN DT NN , TO VB JJ NNS IN DT VBN NN .
+We ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty .	O O O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O	PRP VBD RP VBG TO RB VB IN PRP VBD RB VBG VBN IN DT NN NN : RB IN DT NN IN DT NN VBD RB JJ .
+The wine list is extensive , well priced and covers alot of regions .	O B-AS I-AS O O O O B-AS O O O O O O	DT NN NN VBZ JJ , RB VBN CC VBZ NN IN NNS .
+Go here if you want fresh and tasty salads of any type you can imagine .	O O O O O O O O B-AS O O O O O O O	VB RB IN PRP VBP JJ CC JJ NNS IN DT NN PRP MD VB .
+Everything about this place is adorable - even the bathroom !	O O O O O O O O O B-AS O	NN IN DT NN VBZ JJ : RB DT NN .
+Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .	O B-AS O O B-AS O O B-AS O O O B-AS O O O O O B-AS O	JJ VBZ , JJ NN , JJ NNS , CC JJ NN VBP TO VB DT JJ NN .
+THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS .	O O B-AS O O O O O O O O O O O O O	NNP NNP NNP NNP DT NNP NNP TO VB PRP IN WDT NNP NNP NNP .
+IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL .	O O O O O O O O O O O B-AS I-AS O	PRP VBD NNP NNP NNP TO NNP CC VBD DT JJ JJ NN .
+It took 100 years for Parisi to get around to making pizza -LRB- at least I do n't think they ever made it before this year -RRB- ... but it was worth the wait .	O O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD CD NNS IN NNP TO VB IN TO VBG NN -LRB- IN JJS PRP VBP RB VB PRP RB VBD PRP IN DT NN -RRB- : CC PRP VBD JJ DT NN .
+I asked for a simple medium rare steak .	O O O O O O O B-AS O	PRP VBD IN DT JJ NN JJ NN .
+Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .	O O O B-AS I-AS I-AS O O O O B-AS O O O B-AS I-AS I-AS I-AS O B-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O O O	RB VBN , JJ JJ NNS VBP DT RBS JJ NN , CC DT NNP JJ NN VBZ CC JJ NNS : JJ IN NNS , NN NN CC NNS : VBP RB JJ .
+Probably my worst dining experience in new york , and I 'm a former waiter so I know what I 'm talking about .	O O O B-AS I-AS O O O O O O O O O B-AS O O O O O O O O O	RB PRP$ JJS NN NN IN JJ NN , CC PRP VBP DT JJ NN IN PRP VBP WP PRP VBP VBG RB .
+Result -LRB- red velvet -RRB- : Great texture , soft and velvety , nice hint of cocoa .	O O O O O O O B-AS O O O O O O B-AS I-AS I-AS O	NN -LRB- JJ NN -RRB- : NNP NN , JJ CC JJ , JJ NN IN NN .
+Ask for the round corner table next to the large window .	O O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS O	VB IN DT NN NN NN JJ TO DT JJ NN .
+Their twist on pizza is heatlhy , but full of flavor .	O B-AS I-AS I-AS O O O O O O B-AS O	PRP$ NN IN NN VBZ NN , CC JJ IN NN .
+The lack of AC and the fact that there are a million swarming bodies -LRB- although everyone is polite and no one is pushing -RRB- is a slight turn off .	O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN IN NN CC DT NN IN EX VBP DT CD JJ NNS -LRB- IN NN VBZ JJ CC DT NN VBZ VBG -RRB- VBZ DT JJ NN RP .
+I love the Little Pie Company as much as anyone else who has written reviews , but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O B-AS I-AS O	PRP VBP DT JJ NNP NNP RB RB IN NN RB WP VBZ VBN NNS , CC MD VB NN IN VBG DT NNP NNP NN JJ TO PRP$ JJ NN IN CD NNS NNS .
+Unfortunately , unless you live in the neighborhood , it 's not in a convenient location but is more like a hidden treasure .	O O O O O O O O O O O O O O O B-AS O O O O O O O O	RB , IN PRP VBP IN DT NN , PRP VBZ RB IN DT JJ NN CC VBZ RBR IN DT JJ NN .
+Did n't seem like any effort was made to the display and quality of the food .	O O O O O O O O O O B-AS I-AS I-AS I-AS I-AS I-AS O	VBD RB VB IN DT NN VBD VBN TO DT NN CC NN IN DT NN .
+The food -- though mostly deep-fried -- is simple and satisfying .	O B-AS O O O O O O O O O O	DT NN : IN RB JJ : VBZ JJ CC JJ .
+We live in the neighborhood and have been going there twice a week since the day they first opened .	O O O O O O O O O O O O O O O O O O O O	PRP VBP IN DT NN CC VBP VBN VBG RB RB DT NN IN DT NN PRP RB VBD .
+Glechik might be way too tiny for a restaurant by Russian standards , but it is cozy and the food is simply GREAT .	O O O O O O O O O O O O O O O O O O O B-AS O O O O	NN MD VB RB RB JJ IN DT NN IN JJ NNS , CC PRP VBZ JJ CC DT NN VBZ RB JJ .
+The food was excellent - authentic Italian cuisine made absolutely fresh .	O B-AS O O O O B-AS I-AS O O O O	DT NN VBD JJ : JJ JJ NN VBD RB JJ .
+At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered .	O O O B-AS O O O O O O O O O O O O O	IN NN DT NN NNS VBG IN DT JJ NN WDT VBZ VBG TO VB VBN .
+The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .	O O O O O O O O O O O O O O O O O O B-AS I-AS I-AS I-AS O O O O O O O O O B-AS O O O B-AS O B-AS O	DT JJ NNS PRP VBP VBN PRP VBZ JJ NN NN , PRP MD VB IN VB DT NN IN DT NNS , VB VBN IN DT NN IN DT JJ NN , IN JJ NN CC NN .
+I would only go for the coffee which is way better than Starbucks or the like .	O O O O O O B-AS O O O O O O O O O O	PRP MD RB VB IN DT NN WDT VBZ RB JJR IN NNP CC DT JJ .
+I used to be a regular costumer at pongal until dosa hut opened right next door to it .	O O O O O O O O O O O O O O O O O O O	PRP VBD TO VB DT JJ NN IN NN IN NN NN VBD JJ JJ NN TO PRP .
+Somewhat disappointing wine list -LRB- only new vintages .	O O B-AS I-AS O O O B-AS O	RB JJ NN NN -LRB- RB JJ NNS .
+Both were very good , but nothing you could n't get at similar restaurant .	O O O O O O O O O O O O O O O	DT VBD RB JJ , CC NN PRP MD RB VB IN JJ NN .
+If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$ $ this is the place to be !!	O O O O O O B-AS B-AS O O O O O B-AS O O O O O O O O O O O	IN PRP$ VBG IN JJ JJ VBN NN IN DT NN IN NN NN JJ NNP $ $ DT VBZ DT NN TO VB IN
+new hamburger with special sauce is ok - at least better than big mac !	B-AS I-AS I-AS I-AS I-AS O O O O O O O B-AS I-AS O	JJ NN IN JJ NN VBZ SYM : IN JJS JJR IN JJ NN .
+Perfectly al dente pasta , not drowned in sauce -- generous portions .	O O O B-AS O O O O B-AS O O B-AS O	RB FW FW NN , RB VBD IN NN : JJ NNS .
+I can understand the prices if it served better food , like some Chinese restaurants in midtown/uptown area .	O O O O B-AS O O O O B-AS O O O O O O O O O	PRP MD VB DT NNS IN PRP VBD JJR NN , IN DT JJ NNS IN JJ NN .
+Service was awful - mostly because staff were overwhelmed on a Saturday night .	B-AS O O O O O B-AS O O O O O O O	NNP VBD JJ : RB IN NN VBD VBN IN DT NNP NN .
+To the owners ; good job guys , this place is a keeper !	O O B-AS O O O O O O O O O O O	TO DT NNS : JJ NN NNS , DT NN VBZ DT NN .
+and the owner is simply lovely and friendly .	O O B-AS O O O O O O	CC DT NN VBZ RB JJ CC JJ .
+This little place is wonderfully warm welcoming .	O O B-AS O O O O O	DT JJ NN VBZ RB JJ VBG .
+perfect for a quick meal .	O O O O B-AS O	JJ IN DT JJ NN .
+Has the warmth of a family local yet it is a great place to watch sporting events .	O O O O O O O O O O O O B-AS O O O O O	VBZ DT NN IN DT NN JJ CC PRP VBZ DT JJ NN TO VB VBG NNS .
+The service was great , and they have a whole great deal for birthdays .	O B-AS O O O O O O O O O O O O O	DT NN VBD JJ , CC PRP VBP DT JJ JJ NN IN NNS .
+The staff is 100 % Italian and the food is as authentic as it gets .	O B-AS O O O O O O B-AS O O O O O O O	DT NN VBZ CD NN JJ CC DT NN VBZ IN JJ IN PRP VBZ .
+My only complaint might be the fortune cookies - I 've never had a cookie predict bad luck for me before I visited Kar .	O O O O O O B-AS I-AS O O O O O O B-AS O O O O O O O O O O	PRP$ JJ NN MD VB DT NN NNS : PRP VBP RB VBN DT NN VBP JJ NN IN PRP IN PRP VBD NNP .
+Good for a quick sushi lunch .	O O O O B-AS I-AS O	JJ IN DT JJ NN NN .
+Have a mojito and sit in the back patio .	O O B-AS O O O O B-AS I-AS O	VBP DT NN CC VB IN DT JJ NN .
+The service was dreadfully slow -LRB- the place was only half full -RRB- and a smile would have been nice ...	O B-AS O O O O O O O O O O O O O O O O O O O	DT NN VBD RB JJ -LRB- DT NN VBD RB JJ JJ -RRB- CC DT NN MD VB VBN JJ :
+I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .	O O O O O O O O O B-AS O O O O B-AS I-AS I-AS I-AS I-AS I-AS O	PRP VBD DT JJ NNP CC VBD DT JJ NN IN VBG IN DT VBN NN NN IN VBN NNS .
+The waitress came by to pick up the soy sauce WHILE we were eating our lunch !!!!!	O B-AS O O O O O O B-AS I-AS O O O O O B-AS O	DT NN VBD IN TO VB RP DT NN NN IN PRP VBD VBG PRP$ NN IN
+So we sat at the bar , the bartender did n't seem like he wanted to be there .	O O O O O B-AS O O B-AS O O O O O O O O O O	IN PRP VBD IN DT NN , DT NN VBD RB VB IN PRP VBD TO VB RB .
+I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .	O O O B-AS I-AS I-AS O O B-AS I-AS O O O B-AS I-AS O	PRP VBD DT VBN NN NNS , DT JJ NN , CC DT VBN NN .
+You will not be dissapointed by any of the choices in the menu .	O O O O O O O O O O O O B-AS O	PRP MD RB VB VBN IN DT IN DT NNS IN DT NN .
+The french fries -- with the kalmata dip were terrific !	O B-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O	DT JJ NNS : IN DT JJ NN VBD JJ .
+Would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?	O O O O O O O O O O O O B-AS O O O O O O O O O O O O B-AS O O B-AS O O O B-AS O O O O O	MD PRP RB VBP IN WRB PRP VBP RB IN DT NN NN , WRB PRP VBP PRP PRP MD VB CD NNS , DT NN VBZ DT NN TO VB DT NNS PRP RB VBD IN .
+The boutique selection of wines covers a wide variety without being imposeing .	O B-AS I-AS I-AS I-AS O O O O O O O O	DT NN NN IN NNS VBZ DT JJ NN IN VBG NN .
+If you 're lucky and there 's not a private party going on back there , you 'll get a chance to really chill out .	O O O O O O O O O O O O O O O O O O O O O O O O O O	IN PRP VBP JJ CC EX VBZ RB DT JJ NN VBG IN RB RB , PRP MD VB DT NN TO RB NN RP .
+They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare .	O O O O O B-AS I-AS I-AS O O O O O O O B-AS I-AS I-AS O	PRP RB VBP DT JJ NN IN VBZ IN PRP$ RB IN DT NN IN JJ JJ NN .
+Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .	B-AS I-AS O O O O B-AS I-AS I-AS O B-AS O B-AS O B-AS O B-AS O B-AS O B-AS I-AS O O B-AS I-AS O O B-AS I-AS O B-AS I-AS O B-AS I-AS O O O B-AS O O O O O O O	JJ NNS , DT NNS IN JJ JJ NNS , NN CC NN , NN , NN , NN , NN NNS , DT NN NN , DT NN NN , NN NNS , NN NN : RB JJ NN , CC DT IN PRP JJ .
+Disappointingly , their wonderful Saketini has been taken off the bar menu .	O O O O B-AS O O O O O B-AS I-AS O	RB , PRP$ JJ NNP VBZ VBN VBN RP DT NN NN .
+In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that 's a mix of sports-bar butch and ornate kitsch .	O O O O O O O O O O O O O O B-AS O O O O O O O O O O O	IN JJ DT JJ NNP VBZ PRP IN DT JJ NN NN IN DT NN WDT VBZ DT NN IN JJ NN CC JJ NN .
+I would definitely go back -- if only for some of those exotic martinis on the blackboard .	O O O O O O O O O O O O O B-AS O O O O	PRP MD RB VB RB : IN RB IN DT IN DT JJ NNS IN DT NN .
+They are located off the beaten path but are certainly worth the trip .	O O O O O O O O O O O O O O	PRP VBP VBN IN DT JJ NN CC VBP RB JJ DT NN .
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people .	O O O O O O O O O O O O O O B-AS O O O O O B-AS O O O O	RB PRP VBD DT NN IN RB VBG JJ TO VB CD CC CD NNS IN CC NN IN DT NN IN JJ NNS .
+The happy hour is so cheap , but that does not reflect the service or the atmosphere .	O B-AS I-AS O O O O O O O O O O B-AS O O B-AS O	DT JJ NN VBZ RB JJ , CC IN VBZ RB VB DT NN CC DT NN .
+After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .	O B-AS O O O O O O B-AS O O O O O O O O O B-AS O O O	IN VBG IN RB DT NN , DT NN RB VBD PRP PRP MD VBN TO VB DT NN PRP$ NN .
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .	O O O O O O O O O O O O O O O O O O O O O O B-AS O B-AS O	IN PDT DT JJ CC JJ NNS IN JJ NN PRP VBZ JJ TO VB CD WDT VBZ DT NN IN IN NN CC NN .
+A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .	O O O O O O O O O O O O O O B-AS O O O O O B-AS O O B-AS O	DT NN IN NNS CC NN NNS VBP IN DT JJ , RB EX NN IN PRP$ JJ , JJ VBZ IN JJ NNS .
+Give it a try , menu is typical French but varied .	O O O O O B-AS O O O O O O	VB PRP DT NN , NN VBZ JJ JJ CC VBD .
+It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .	O O O O O O O O O O B-AS O O O O O O O O O O O	PRP VBZ VBN IN NN CC EX VBP NNS IN NNS IN RB CC NN WP VBZ EX VBZ RB JJ .
+but for the value , it was a great affordable spot to enjoy a fun night out with small group .	O O O B-AS O O O O O O O O O O O O O O O O O	CC IN DT NN , PRP VBD DT JJ JJ NN TO VB DT NN NN IN IN JJ NN .
+the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with Temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .	O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O B-AS O	DT JJ NNS IN NN NN VBP RB IN JJ VBG NNS WP VBP PRP MD RB VB IN NNP POS JJ JJ NN IN DT JJ NN TO VB PRP$ NNS CC VB JJ NN NN .
+We ordered a glass of wine and were finished eating and paying before the wine came .	O O O B-AS I-AS I-AS O O O O O O O O O O O	PRP VBD DT NN IN NN CC VBD VBN NN CC VBG IN DT NN VBD .
+It was good , but none of the flavors WOW .	O O O O O O O O B-AS O O	PRP VBD JJ , CC NN IN DT NNS NNP .
+Overall , this is a nice place to take a few friends to hang out at and the service is excellent .	O O O O O O B-AS O O O O O O O O O O O B-AS O O O	RB , DT VBZ DT JJ NN TO VB DT JJ NNS TO VB RP IN CC DT NN VBZ JJ .
+Food is excellent quality for a good restaurant price .	B-AS O O O O O O O B-AS O	NNP VBZ JJ NN IN DT JJ NN NN .
+Actually , everyone who worked there seemed to be annoyed .	O O O O O O O O O O O	RB , NN WP VBD EX VBD TO VB VBN .
+for about eleven bucks you get a gigantic burrito -LRB- or tacos -RRB- , margarita , and dessert .	O O O O O O O O B-AS O O B-AS O O B-AS O O B-AS O	IN RB NNS NNS PRP VBP DT JJ NN -LRB- CC NNS -RRB- , NN , CC NN .
+The space is traditional in feel .	O B-AS O O O O O	DT NN VBZ JJ IN NN .
+the restaurant was completely empty , but she gave me a dirty look and asked , no reservations ?	O O O O O O O O O O O O O O O O O B-AS O	DT NN VBD RB JJ , CC PRP VBD PRP DT JJ NN CC VBD , DT NNS .
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .	O B-AS O O O O O O O B-AS O O O O O O B-AS O O O O O O O O O O O O O O O O O O B-AS O	DT NN VBD JJ TO VB NN : DT NN VBZ JJ CC JJ : DT NNS VBP DT NN IN NNS : RB JJ CC JJ FW RB VB RP DT JJ NN IN NN .
+Good service , great food , good value , and never have to wait in line !	O B-AS O O B-AS O O B-AS O O O O O B-AS O O O	JJ NN , JJ NN , JJ NN , CC RB VBP TO VB IN NN .
+Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .	O O B-AS I-AS O O B-AS I-AS I-AS O O O B-AS O	NNS IN JJ NNS CC DT NNP NNP NN VBP JJ IN NN .
+I have been going to this restaurant for years , in the past the service was average and the food inconsistant .	O O O O O O O O O O O O O O B-AS O O O O B-AS O O	PRP VBP VBN VBG TO DT NN IN NNS , IN DT JJ DT NN VBD JJ CC DT NN JJ .
+The music was fascinating , but left room for conversation , and the bartender made superb drinks .	O B-AS O O O O O O O O O O O B-AS O O B-AS O	DT NN VBD JJ , CC VBD NN IN NN , CC DT NN VBD JJ NNS .
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !	B-AS I-AS O B-AS I-AS O O O O O O O O O B-AS I-AS O O O O O O O O O O O	NN NNS CC JJ NNS RB VBP $ CD CC VB IN DT JJ NN NN IN $ CD CC PRP VBP VBN IN DT NN .
+Cuisine is billed as asian fusion - does n't meet the bill .	B-AS O B-AS O B-AS I-AS O O O O O B-AS O	NNP VBZ VBN IN JJ NN : VBZ RB VB DT NN .
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .	O B-AS O B-AS I-AS I-AS I-AS I-AS I-AS I-AS O B-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O O O O O B-AS I-AS O	JJ NNS IN NN NN NN IN NN NN NN CC NN IN JJ NN IN DT NN NN VBP JJ NNS IN DT RB JJ NN NN .
+Dishes denoted as `` Roy 's Classics '' -LRB- marked on the menu with asterisks -RRB- are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .	B-AS O O B-AS I-AS I-AS I-AS I-AS O O O O B-AS O O O O O B-AS O O O B-AS I-AS I-AS O O O B-AS I-AS I-AS I-AS I-AS O	NNS VBN IN `` NNP POS NNS '' -LRB- VBN IN DT NN IN NNS -RRB- VBP JJ NNS , JJ IN JJ NN NN , CC RB JJ NN NN JJ NNS .
+The cold sesame noodles , which are a freebie when you order $ 10 + , are delectable .	O B-AS I-AS I-AS O O O O O O O O O O O O O O O	DT JJ NN NNS , WDT VBP DT NN WRB PRP VB $ CD CC , VBP JJ .
+I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .	O O O O O O O B-AS O O O O O O O O B-AS B-AS O O O O O O O O O O O O O O	PRP VBD TO JJ VBG DT JJ NN , CC DT PRP VBD VBD RB JJ NN VBD IN DT NN WDT VBD RB RB JJ PRP MD RB VB VBG .
+The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99 / lb at the store .	O O B-AS I-AS I-AS O O O O O O B-AS I-AS I-AS I-AS O O O O O O O O O O O O O O	DT JJ JJ NN NN IN $ CD VBD DT JJ NN JJ JJ NN IN DT NNS WDT VBP IN $ CD : NN IN DT NN .
+I went to Swiftys with some friends of the family and we had a very nice dinner , but nothing amazing .	O O O O O O O O O O O O O O O O B-AS O O O O O	PRP VBD TO NNS IN DT NNS IN DT NN CC PRP VBD DT RB JJ NN , CC NN JJ .
+Best Chinese on the Upper East , prompt delivery , good value .	O O O O O O O O B-AS O O B-AS O	JJS JJ IN DT NNP NNP , JJ NN , JJ NN .
+Most of the sandwiches are made with soy mayonaise which is actually pretty good .	O O O B-AS O O O B-AS I-AS O O O O O O	JJS IN DT NNS VBP VBN IN NN NN WDT VBZ RB RB JJ .
+i went in one day asking for a table for a group and was greeted by a very rude hostess .	O O O O O O O O B-AS O O O O O O O O O O B-AS O	LS VBD IN CD NN VBG IN DT NN IN DT NN CC VBD VBN IN DT RB JJ NN .
+It 's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea .	O O O O O O O O O O O O O B-AS O O O O	PRP VBZ JJ TO VB DT NN TO NNP RB IN DT JJ NN IN PRP$ NNP .
+Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .	O O O O B-AS O O O O B-AS O O O O O O O O O O O O O O O O O O O O B-AS O B-AS O	RB RB VBZ DT NN JJ , CC DT NN RB VBP RB JJ , PRP VBP JJ CC NN CC VB WP PRP VBP VBG WRB PRP VBZ TO NN CC NN .
+It has good music , nice tapas , an interesting selection of wines -LRB- primarily Spanish -RRB- and a lowkey hip neighborhood clientele .	O O O B-AS O O B-AS O O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O O O B-AS O	PRP VBZ JJ NN , JJ NNS , DT JJ NN IN NNS -LRB- RB JJ -RRB- CC DT JJ NN NN NNS .
+The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .	O B-AS O O O O O O B-AS O B-AS I-AS I-AS O B-AS O B-AS I-AS O	DT NN VBZ JJ , PRP VBP PRP$ NNS , JJ NN NNS , NN CC NN NNS .
+And the food , well the food will keep you coming back .	O O B-AS O O O B-AS O O O O O O	CC DT NN , RB DT NN MD VB PRP VBG RB .
+Waiting three hours before getting our entrees was a treat as well .	B-AS O O O O O B-AS O O O O O O	VBG CD NNS IN VBG PRP$ NNS VBD DT NN RB RB .
+It 's the conversations that make this a fun place to be .	O O O O O O O O O B-AS O O O	PRP VBZ DT NNS WDT VBP DT DT NN NN TO VB .
+My gf 's duck confitte was very solid as well , although i have little base of reference .	O O O B-AS I-AS O O O O O O O O O O O O O O	PRP$ NN POS NN NN VBD RB JJ RB RB , IN FW VBP JJ NN IN NN .
+The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .	O B-AS I-AS O O O O B-AS O O O O O B-AS O O O O O	DT NN NN VBD JJ , PRP$ NNS JJ , CC DT JJ NN JJ IN JJ NN .
+You can eat gourmet food at a fast food price .	O O O O B-AS O O O O B-AS O	PRP MD VB NN NN IN DT JJ NN NN .
+I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .	O O O O O O O O O O O O O O B-AS O O B-AS O O O O O B-AS O O O O	PRP VBP VBN IN DT CD NNS CC PRP RB VBP , VBP DT NN , DT NN VBZ RB JJ CC DT NNS VBP RB JJ .
+Not because I was pregnant , but the food here is always delicious .	O O O O O O O O B-AS O O O O O	RB IN PRP VBD JJ , CC DT NN RB VBZ RB JJ .
+Had a great meal there this weekend before heading to the movies !	O O O B-AS O O O O O O O O O	VBD DT JJ NN RB DT NN IN VBG TO DT NNS .
+We had a birthday party here recently and the food and service was amazing .	O O O O O O O O O B-AS O B-AS O O O	PRP VBD DT NN NN RB RB CC DT NN CC NN VBD JJ .
+the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .	O B-AS I-AS O O O O O B-AS O O O B-AS O O B-AS O O O O O O O B-AS I-AS O	DT NN NN VBZ DT NN IN JJ NNS , VBG JJ NN CC JJ NNS , EX VBZ RB DT NN IN JJ NNS .
+This place has the strangest menu and the restaurants tries too hard to make fancy food .	O O O O O B-AS O O O O O O O O O B-AS O	DT NN VBZ DT JJS NN CC DT NNS VBZ RB JJ TO VB JJ NN .
+The appetizers are ok , but the service is slow .	O B-AS O O O O O B-AS O O O	DT NNS VBP JJ , CC DT NN VBZ JJ .
+the food - not worth the price .	O B-AS O O O O B-AS O	DT NN : RB IN DT NN .
+What can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back -LRB- which she did politely , by the way -RRB- .	O O O O O O O O O B-AS O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O	WDT MD PRP VB IN DT NN WRB DT NN VBZ RP DT JJ FW , RB RB NNS PRP$ CD NN JJ NN CC VBZ PRP$ NN IN VBG PRP RB -LRB- WDT PRP VBD RB , IN DT NN -RRB- .
+The prices are not terrible .	O B-AS O O O O	DT NNS VBP RB JJ .
+15 % gratuity automatically added to the bill .	O O B-AS O O O O B-AS O	CD NN NN RB VBD TO DT NN .
+The halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing I can say about the meal .	O B-AS I-AS I-AS O O O O B-AS I-AS I-AS I-AS O O O O O O O O O O O O O O B-AS O	DT NN NN NN VBD IN DT JJ NN IN NN NNS , CC DT VBZ IN DT JJ JJ NN PRP MD VB IN DT NN .
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .	B-AS O O O O O O B-AS O B-AS O O O O O B-AS I-AS O	NNP VBZ JJ CC PRP RB VBP NNS CC NNS WDT VBP JJ IN DT NN NN .
+Both a number of the appetizer and pasta specials were amazing .	O O O O O B-AS O B-AS I-AS O O O	CC DT NN IN DT NN CC NN NNS VBD JJ .
+All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .	O O O O B-AS I-AS O B-AS I-AS O B-AS I-AS O B-AS I-AS I-AS I-AS I-AS O O O O B-AS I-AS O O O O	JJ NNS VBP DT JJ NNP , NNP NNPS , NNP NN CC NN POS JJ JJ NNS : JJR NNS IN JJ NNS VBP RB JJ .
+Although somewhat loud , the noise was minimally intrusive .	O O O O O B-AS O O O O	IN RB JJ , DT NN VBD RB JJ .
+It 's a basic pizza joint , not much to look at , but the pizza is what I go for .	O O O O O O O O O O O O O O O B-AS O O O O O O	PRP VBZ DT JJ NN NN , RB JJ TO VB IN , CC DT NN VBZ WP PRP VBP IN .
+Tables are close , so you better be comfortable bumping elbows with other patrons .	B-AS O O O O O O O O O O O O O O	NNS VBP RB , IN PRP JJR VB JJ VBG NNS IN JJ NNS .
+Was her Monday for lunch - was working on a film in the area - and found this rare jewel .	O O O O B-AS O O O O O O O O O O O O O O O O	VBD PRP$ NNP IN NN : VBD VBG IN DT NN IN DT NN : CC VBD DT JJ NN .
+Not too much so , but enough that there 's a great scene .	O O O O O O O O O O O O B-AS O	RB RB JJ RB , CC RB IN EX VBZ DT JJ NN .
+You feel like you made it to New York when you eat here .	O O O O O O O O O O O O O O	PRP VBP IN PRP VBD PRP TO NNP NNP WRB PRP VBP RB .
+We 'd walked by it dozens of times and finally settled on a Monday night .	O O O O O O O O O O O O O O O O	PRP MD VBN IN PRP NNS IN NNS CC RB VBN IN DT NNP NN .
+SUM IT : do n't read the ' 10 's ' reviews , try it to judge for yourself so you wo n't have as hi expectations , then you 'll be sure to enjoy it .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	NNP NNP : VBP RB VB DT '' CD POS '' NNS , VBP PRP TO VB IN PRP IN PRP MD RB VB IN UH NNS , RB PRP MD VB JJ TO VB PRP .
+We went there , no one greeted us .	O O O O O O O O O	PRP VBD RB , DT NN VBD PRP .
+Dug the blue bar area too .	O O B-AS I-AS I-AS O O	VBD DT JJ NN NN RB .
+We spent so much time getting elbowed around while we waited we left .	O O O O O O O O O O O O O O	PRP VBD RB JJ NN VBG VBN IN IN PRP VBD PRP VBD .
+I got the opportunity to dine at your establishment again a few weeks ago , I was in your upstrairs dining area .	O O O O O O O O O O O O O O O O O O O B-AS I-AS I-AS O	PRP VBD DT NN TO VB IN PRP$ NN RB DT JJ NNS RB , PRP VBD IN PRP$ NNS VBG NN .
+Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .	O O O O O O O B-AS I-AS O O O O O O O B-AS O B-AS O O B-AS O B-AS O	NNS VBP IN NN IN DT JJ NN NN , VBN IN DT JJ VB IN NNS , NNS CC JJ NNS CC NNS .
+At peak times , the restaurant is overcrowded and tables are uncomfortably close .	O O O O O O O O O B-AS O O O O	IN NN NNS , DT NN VBZ JJ CC NNS VBP RB RB .
+The service was on point - what else you would expect from a Ritz ?	O B-AS O O O O O O O O O O O O O	DT NN VBD IN NN : WP RB PRP MD VB IN DT NNP .
+Menus feature seasonal picks , like sweet corn-foie gras brulee .	B-AS O O O O O B-AS I-AS I-AS I-AS O	NNP NN JJ NNS , IN JJ JJ NNS VBP .
+Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .	O O O O O O O O O B-AS I-AS I-AS I-AS I-AS I-AS O O B-AS I-AS O O O O O O B-AS I-AS I-AS O	NNS VBP RB IN VBN , IN DT JJ NNP NN NN IN JJ NNS TO DT JJ NN , RB VBN IN DT JJ JJ NN NN .
+And these are not small , wimpy fast food type burgers - these are real , full sized patties .	O O O O O O O O O O B-AS O O O O O O O B-AS O	CC DT VBP RB JJ , JJ JJ NN NN NNS : DT VBP JJ , JJ VBN NNS .
+There restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .	O O O O O O O O O B-AS O O O B-AS I-AS O O O O O	EX NN VBZ RB JJ , CC JJ IN NN , CC PRP$ NN NN VBZ RB RB RB .
+Chinatown definitely has better quality with cheaper prices .	O O O O B-AS O O B-AS O	NNP RB VBZ JJR NN IN JJR NNS .
+I had to flag down a third staff person for a fork ... so now it 's goodbye Little RUDE Pie Company .	O O O O O O O B-AS I-AS O O B-AS O O O O O O O O O O O	PRP VBD TO NN IN DT JJ NN NN IN DT NN : RB RB PRP VBZ NN JJ NNP NNP NNP .
+I have been in NYC for over 10 years and could not find this delicacy east of the Hudson .	O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN IN NNP IN IN CD NNS CC MD RB VB DT NN JJ IN DT NNP .
+Go with the specials , and stay away from the salmon .	O O O B-AS O O O O O O B-AS O	VB IN DT NNS , CC VB RB IN DT NN .
+The pastas were pretty good .	O B-AS O O O O	DT NNS VBD RB JJ .
+Atmosphere is a bore .	B-AS O O O O	NN VBZ DT VBN .
+The decor is what initially got me in the door .	O B-AS O O O O O O O O O	DT NN VBZ WP RB VBD PRP IN DT NN .
+The wait staff was very attentive and polite .	O B-AS I-AS O O O O O O	DT NN NN VBD RB JJ CC JJ .
+Great restaurant , and even greater food !	O O O O O O B-AS O	JJ NN , CC RB JJR NN .
+The dishes are remarkably tasty and such a cozy and intimate place !	O B-AS O O O O O O O O O B-AS O	DT NNS VBP RB JJ CC JJ DT JJ CC JJ NN .
+Save room for the desserts ! ; - -RRB-	O O O O B-AS O O O O	VB NN IN DT NNS . : : -RRB-
+I love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .	O O O O O O O O O O O B-AS O O O O B-AS O O O O O	PRP VBP DT NN CC NN WDT VBD VBN TO DT NN , RB RB DT NN VBD RB CC JJ .
+Service was good and so was the atmosphere .	B-AS O O O O O O B-AS O	NNP VBD JJ CC RB VBD DT NN .
+MY date and I both ordered the Branzini and both felt the fish was very average .	O O O O O O O B-AS O O O O B-AS O O O O	NN NN CC PRP DT VBD DT NNP CC DT VBD DT NN VBD RB JJ .
+We were there March 7 and found Maison very nice .	O O O O O O O O O O O	PRP VBD EX NNP CD CC VBD NNP RB JJ .
+The food was good , the service prompt , and the price very reasonable .	O B-AS O O O O B-AS O O O O B-AS O O O	DT NN VBD JJ , DT NN VBP , CC DT NN RB JJ .
+Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !	O B-AS O O O B-AS O O B-AS O B-AS O O O O O	JJ NN , JJ VBG NN , JJ NN DT NN VBZ PRP VBG RB .
+Great food , good wine and an excellent host .	O B-AS O O B-AS O O O B-AS O	JJ NN , JJ NN CC DT JJ NN .
+went there last night with my coworker .	O O O O O O O O	VBD RB JJ NN IN PRP$ NN .
+Pizzas were excellent in addition to appetizers and main courses .	B-AS O O O O O B-AS O B-AS I-AS O	NNP VBD JJ IN NN TO NNS CC JJ NNS .
+Definitely try the calamari , any pasta , or even the Sliced steak entree .	O O O B-AS O O B-AS O O O O B-AS I-AS I-AS O	RB VB DT NN , DT NN , CC RB DT NNP NN FW .
+The caeser salad was great .	O B-AS I-AS O O O	DT NN NN VBD JJ .
+The fried calamari was even better !	O B-AS I-AS O O O O	DT VBN NN VBD RB RBR .
+The atmosphere was nice but it was a little too dark .	O B-AS O O O O O O O O O O	DT NN VBD JJ CC PRP VBD DT JJ RB JJ .
+The food was good overall .	O B-AS O O O O	DT NN VBD JJ NN .
+The food was outstanding and the service was tops .	O B-AS O O O O B-AS O O O	DT NN VBD JJ CC DT NN VBD NNS .
+The portions are very large and the service is fantastic !!	O B-AS O O O O O B-AS O O O	DT NNS VBP RB JJ CC DT NN VBZ JJ IN
+I recomend the chicken milanese .	O O O B-AS I-AS O	PRP VBP DT NN NN .
+excellent tapas at great prices , romantic , small but not overly crowed , excellent	O B-AS O O B-AS O O O O O O O O O O	JJ NNS IN JJ NNS , JJ , JJ CC RB RB VBD , JJ
+The service is a quite slow , but friendly .	O B-AS O O O O O O O O	DT NN VBZ DT RB JJ , CC JJ .
+The chocolate raspberry cake is heavenly - not too sweet , but full of flavor .	O B-AS I-AS I-AS O O O O O O O O O O B-AS O	DT NN NN NN VBZ JJ : RB RB JJ , CC JJ IN NN .
+Our waiter was helpful and charming , the food was perfect , and the wine was good , too .	O B-AS O O O O O O B-AS O O O O O B-AS O O O O O	PRP$ NN VBD JJ CC JJ , DT NN VBD JJ , CC DT NN VBD JJ , RB .
+Alias is warm and cozy and you do n't get that squished-in feeling you get at 71 Clinton .	O O O O O O O O O O O O O O O O O O O	NNP VBZ JJ CC JJ CC PRP VBP RB VB DT JJ NN PRP VBP IN CD NNP .
+I HAVE NEVER HAD A BAD MEAL -LRB- OR BAD SERVICE -RRB- @ PIGALLE .	O O O O O O B-AS O O O B-AS O O O O	PRP VBP RB VBN DT JJ NN -LRB- NN JJ NN -RRB- SYM NNP .
+Best hot dogs in the tri-state area .	O B-AS I-AS O O O O O	JJS JJ NNS IN DT JJ NN .
+This is a typical example of an establishment in which its owners do not know anything about the restaurant business !	O O O O O O O O O O O O O O O O O O O O O	DT VBZ DT JJ NN IN DT NN IN WDT PRP$ NNS VBP RB VB NN IN DT NN NN .
+I would not recommend MEET at all , it is a rip off all the way from the time to step in !	O O O O O O O O O O O O O O O O O O O O O O O	PRP MD RB VB NN IN DT , PRP VBZ DT NN IN PDT DT NN IN DT NN TO VB IN .
+Went there for a special celebration .	O O O O O O O	VBD EX IN DT JJ NN .
+The restaurant was quiet and intimate .	O O O O O O O	DT NN VBD JJ CC JJ .
+The service was very attentive and very generous .	O B-AS O O O O O O O	DT NN VBD RB JJ CC RB JJ .
+We had tons of great food , wine , and desserts .	O O O O O B-AS O B-AS O O B-AS O	PRP VBD NNS IN JJ NN , NN , CC NNS .
+Really Lovely dining experience in the midst of buzzing midtown area .	O O B-AS I-AS O O O O O O O O	RB JJ NN NN IN DT NN IN VBG JJ NN .
+OK , I 've been to Dumont a few times now .	O O O O O O O O O O O O	UH , PRP VBP VBN TO VB DT JJ NNS RB .
+The food really is n't very good and the service is terrible .	O B-AS O O O O O O O B-AS O O O	DT NN RB VBZ RB RB JJ CC DT NN VBZ JJ .
+Maybe it 's that most of Dumont 's patrons are younger and have lower expectations , but I can not recommend Dumont .	O O O O O O O O O O O O O O O O O O O O O O O	RB PRP VBZ IN JJS IN NNP POS NNS VBP JJR CC VBP JJR NNS , CC PRP MD RB VB NNP .
+Not only do they have the best escargot in town , they always try to accomodate our toddler .	O O O O O O O B-AS O O O O O O O O O O O	RB RB VBP PRP VBP DT JJS NN IN NN , PRP RB VBP TO VB PRP$ NN .
+I 've been to Sotto Voce several time , and I have to say this one place that hits the nail right on the head ever time !	O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN TO NNP NNP JJ NN , CC PRP VBP TO VB DT CD NN WDT VBZ DT NN NN IN DT NN RB NN .
+Between my guest and I , we sampled at least 80 % of the menu , and they were all hits .	O O O O O O O O O O O O O O B-AS O O O O O O O	IN PRP$ NN CC PRP , PRP VBD IN JJS CD NN IN DT NN , CC PRP VBD DT NNS .
+The Deco and ambiance was really romantic .	O B-AS O B-AS O O O O	DT NNP CC NN VBD RB JJ .
+This is the best unknown restaurant in and around New York .	O O O O O O O O O O O O	DT VBZ DT JJS JJ NN IN CC IN NNP NNP .
+Just go in and sample the greatest french food west of Daniel .	O O O O O O O B-AS I-AS O O O O	RB VB IN CC NN DT JJS JJ NN NN IN NNP .
+For someone who used to hate Indian food , Baluchi 's has changed my mid .	O O O O O O B-AS I-AS O O O O O O O O	IN NN WP VBD TO VB JJ NN , NNP POS VBZ VBN PRP$ JJ .
+Finally a curry that I can eat , enjoy and not suffer from gastritis from 3 hours later .	O O B-AS O O O O O O O O O O O O O O O O	RB DT NN IN PRP MD VB , VB CC RB VB IN NN IN CD NNS RB .
+All are GREAT - poori , naan , paratha all FRESH .	O O O O B-AS O B-AS O B-AS O O O	DT VBP JJ : NN , NN , NN DT NNP .
+Try the homemade breads .	O O B-AS I-AS O	VB DT NN NNS .
+This place has beautiful sushi , and it 's delicious CHEAP .	O O O O B-AS O O O O O O O	DT NN VBZ JJ NN , CC PRP VBZ JJ NNP .
+It also has lots of other Korean dishes that are affordable and just as yummy .	O O O O O O B-AS I-AS O O O O O O O O	PRP RB VBZ NNS IN JJ JJ NNS WDT VBP JJ CC RB IN JJ .
+I went for restaurant week and ordered off the prix fixe menu	O O O O O O O O O B-AS I-AS I-AS	PRP VBD IN NN NN CC VBD RP DT NN NN NN
+Not only was the waiter efficient and courteous , but also extremely helpful .	O O O O B-AS O O O O O O O O O	RB RB VBD DT NN JJ CC JJ , CC RB RB JJ .
+It took a bigger bite from my wallet than my appetite - I would not reccomend this to anyone that I would want to talk to me again !!	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD DT JJR NN IN PRP$ NN IN PRP$ NN : PRP MD RB VB DT TO NN IN PRP MD VB TO VB TO PRP RB VBP
+This place is classy , chic , the service is warm and hospitable , and the food is outstanding .	O B-AS O O O O O O B-AS O O O O O O O B-AS O O O	DT NN VBZ JJ , JJ , DT NN VBZ JJ CC JJ , CC DT NN VBZ JJ .
+I read about this place in Time Out magazine .	O O O O O O O O O O	PRP VBP IN DT NN IN NNP IN NN .
+It 's a great find in Astoria .	O O O O O O O O	PRP VBZ DT JJ VB IN NNP .
+Great burgers , grilled cheeses and french fries .	O B-AS O B-AS I-AS O B-AS I-AS O	JJ NNS , JJ NNS CC JJ NNS .
+The Yellowfin Tuna and Calf 's liver are my favorites !	O B-AS I-AS O B-AS I-AS I-AS O O O O	DT NNP NNP CC NN POS NN VBP PRP$ NNS .
+Sushi so fresh that it crunches in your mouth .	B-AS O O O O O O O O O	NN RB JJ IN PRP VBZ IN PRP$ NN .
+But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet .	O O O O O O O O O O O O O B-AS O O O O O O O O O	CC VB JJ PRP VBP JJ NN IN PRP$ NN NN IN DT NN MD VB DT JJ NN IN PRP$ NN .
+Despite the 5th ave address there are no frills whick I also love .	O O O O O O O O O O O O O O	IN DT JJ NN NN EX VBP DT NNS VBP PRP RB VBP .
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak -LRB- I tried them ALL -RRB- .	O O O B-AS I-AS O O O B-AS O O O O O O O O B-AS I-AS I-AS O O B-AS O O O O O O O	PRP VBP DT NN NN IN TO PRP$ NN CC VBP PRP RP TO CD CC CD NNS IN NNS IN PRP$ NN -LRB- PRP VBD PRP NN -RRB- .
+Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy -LRB- try the duck !	O O O O B-AS O O O O O O B-AS O O O O O O O O O O O O O O O B-AS O	RB RB VBD DT NN JJ , PRP RB VBD JJ NNS VBD DT NN NN TO VB IN CC PRP DT VBD JJ -LRB- VB DT NN .
+good variety but nothing surprising .	O B-AS O O O O	JJ NN CC NN JJ .
+After I paid for my purchase , I noticed they had not given me utensils so I could eat my pie .	O O O O O O O O O O O O O O B-AS O O O O O B-AS O	IN PRP VBD IN PRP$ NN , PRP VBD PRP VBD RB VBN PRP NNS IN PRP MD VB PRP$ NN .
+Likewise if you like really thin crust or really big slices then Nick and Joe 's may not be your favorite .	O O O O O B-AS I-AS O O O B-AS O O O O O O O O O O O	RB IN PRP IN RB JJ NN CC RB JJ NNS RB NNP CC NNP POS MD RB VB PRP$ NN .
+It 's always quiet because it 's awful .	O O O O O O O O O	PRP VBZ RB JJ IN PRP VBZ JJ .
+No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .	O B-AS I-AS O O B-AS O O B-AS I-AS O O B-AS I-AS O O B-AS I-AS O	DT JJ NNS , DT NN , DT NN VBG , DT NN NNS , DT JJ NN .
+Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .	O O B-AS O B-AS I-AS O B-AS I-AS I-AS I-AS O B-AS I-AS I-AS O B-AS I-AS O	VB DT NN IN NN NNS IN NNP POS NNP NNS , NNP NNP NNPS CC NNP NNP .
+Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .	O B-AS O B-AS I-AS O B-AS I-AS I-AS O O O B-AS O O O O O O B-AS I-AS O	JJ NNS , JJ NNS CC VBD JJ NNS VBP RP DT NN WDT VBZ DT JJ , JJ NN NNP .
+I always find myself asking the waiter to make something bland and different than what is on the menu .	O O O O O O B-AS O O O O O O O O O O O B-AS O	PRP RB VBP PRP VBG DT NN TO VB NN JJ CC JJ IN WP VBZ IN DT NN .
+Good cake BUT : it was not the best cake i 've ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees .	O B-AS O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O B-AS O	JJ NN NNP : PRP VBD RB DT JJS NN FW VBP RB VBN , CC RB RB JJ VBG RB IN DT NN VBG VBN IN NNS IN JJ CC JJ NNS .
+The closest that I got was the Cherry Marscapone , but they were out of it that day .	O O O O O O O B-AS I-AS O O O O O O O O O O	DT JJS IN PRP VBD VBD DT NNP NNP , CC PRP VBD IN IN PRP DT NN .
+The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .	O O O O O O O O O O B-AS I-AS I-AS O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O B-AS I-AS O O O O O O O O O O	DT NN TO NNP VBZ RBS JJ IN DT JJ NN NN NN , DT VBN NN VBD IN JJ NN VBG NN , IN DT NN NN VBZ DT RB JJ , JJ NN IN NN .
+It does n't look like much on the outside , but the minute you walk inside , it 's a whole other atmosphere .	O O O O O O O O B-AS O O O O O O O O O O O O O B-AS O	PRP VBZ RB VB IN JJ IN DT JJ , CC DT NN PRP VBP RB , PRP VBZ DT JJ JJ NN .
+I have to say the place was awesome .	O O O O O O O O O	PRP VBP TO VB DT NN VBD JJ .
+The ground chickpea soup we sampled as a starter tasted somewhat thin .	O B-AS I-AS I-AS O O O O B-AS O O O O	DT NN NN NN PRP VBD IN DT JJ VBN RB JJ .
+We requested they re-slice the sushi , and it was returned to us in small cheese-like cubes .	O O O O O B-AS O O O O O O O O O O O O	PRP VBD PRP VBP DT NN , CC PRP VBD VBN TO PRP IN JJ JJ NNS .
+The service , however , is a peg or two below the quality of food -LRB- horrible bartenders -RRB- , and the clientele , for the most part , are rowdy , loud-mouthed commuters -LRB- this could explain the bad attitudes from the staff -RRB- getting loaded for an AC/DC concert or a Knicks game .	O B-AS O O O O O O O O O O B-AS I-AS I-AS O O B-AS O O O O B-AS O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O	DT NN , RB , VBZ DT VB CC CD IN DT NN IN NN -LRB- JJ NNS -RRB- , CC DT NNS , IN DT JJS NN , VBP JJ , JJ NNS -LRB- DT MD VB DT JJ NNS IN DT NN -RRB- VBG VBN IN DT NN NN CC DT NNPS NN .
+If you 're in the neighborhood , definitely stop by for a great meal .	O O O O O O O O O O O O O B-AS O	IN PRP VBP IN DT NN , RB VB IN IN DT JJ NN .
+Unfortunately , with our show tickets , we did n't have time to sample any desserts .	O O O O O O O O O O O O O O O B-AS O	RB , IN PRP$ NN NNS , PRP VBD RB VB NN TO NN DT NNS .
+The restaurant could use a little paint , but all in all a great sushi place !	O O O O O O O O O O O O O O O O O	DT NN MD VB DT JJ NN , CC DT IN PDT DT JJ NN NN .
+Make more tables - perhaps a rooftop bar ?	O O B-AS O O O B-AS I-AS O	VB RBR NNS : RB DT NN NN .
+The decoration was feeling like we was on the Cairo , actually the street is part of that adventure .	O B-AS O O O O O O O O O O O O O O O O O O	DT NN VBD VBG IN PRP VBD IN DT NNP , RB DT NN VBZ NN IN DT NN .
+Although small , it has beautiful ambience , excellent food -LRB- the catfish is delicious - if ya do n't mind it a lil salty -RRB- and attentive service .	O O O O O O B-AS O O B-AS O O B-AS O O O O O O O O O O O O O O O B-AS O	IN JJ , PRP VBZ JJ NN , JJ NN -LRB- DT NN VBZ JJ : IN PRP VBP RB VB PRP DT NN NN -RRB- CC JJ NN .
+I did n't go there for food so I ca n't comment .	O O O O O O B-AS O O O O O O	PRP VBD RB VB RB IN NN IN PRP MD RB VB .
+My friends and I go once a week -LRB- minimum , we live in the area -RRB- and everytime ca n't resist walking out ready to burst .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP$ NNS CC PRP VBP RB DT NN -LRB- NN , PRP VBP IN DT NN -RRB- CC NN MD RB VB VBG IN JJ TO NN .
+Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .	O O O O O O O O O B-AS O B-AS O B-AS O B-AS I-AS O O O O O O	NNP TO DT NNS DT NN VBZ RB , NN , NNS , NNS , JJ NN VBZ JJ , RB JJ .
+Hip boutiques and bars on Ludlow add to the artsy , laid-back atmosphere at this Israeli-style takeout and eat-in burger joint .	O O O O O O O O O O O O B-AS O O O O O O O O O	NN NNS CC NNS IN NNP VB TO DT JJ , JJ NN IN DT JJ NN CC JJ NN NN .
+Young neighborhood trendies graze at the counter during the day , while chic , art-house drinkers with heavy doses of the munchies pile in late at night .	O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O	NNP NN NNS VBP IN DT NN IN DT NN , IN JJ , JJ NNS IN JJ NNS IN DT NNS VBP IN JJ IN NN .
+Bring your date and a bottle of wine !	O O O O O B-AS I-AS I-AS O	VB PRP$ NN CC DT NN IN NN .
+Not only is this the best Thai restaurant I have been to , but it also ranks as one of my favorite places to dine .	O O O O O O O O O O O O O O O O O O O O O O O O O O	RB RB VBZ DT DT JJS NNP NN PRP VBP VBN TO , CC PRP RB VBZ IN CD IN PRP$ JJ NNS TO VB .
+Do n't be put off by another reviewers extremely negative review .	O O O O O O O O O O O O	VBP RB VB VBN RP IN DT NNS RB JJ NN .
+My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .	O O O O O O B-AS O O O O B-AS I-AS O O B-AS I-AS I-AS I-AS O B-AS I-AS I-AS I-AS O B-AS I-AS I-AS I-AS O B-AS I-AS I-AS I-AS I-AS O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O O O O	PRP$ NNP POS JJ CC JJ NN VBZ JJ , JJ JJ NNS JJ IN NNP NNP NNP NNP , NNP NN NN NN , NN NN NN NNS , JJ NN IN NN NN , CC NN IN NN IN JJ NN NN , TO VB DT JJ .
+His food is excellent -LRB- and not expensive by NYC standards - no entrees over $ 30 , most appetizers $ 12 to 14 -RRB- .	O B-AS O O O O O O O O O O O B-AS O O O O O B-AS O O O O O O	PRP$ NN VBZ JJ -LRB- CC RB JJ IN NNP NNS : DT NNS IN $ CD , JJS NNS $ CD TO CD -RRB- .
+The food is consistant and good but how it got name Best Diner In Manhattan is beyond me .	O B-AS O O O O O O O O O O O O O O O O O	DT NN VBZ JJ CC JJ CC WRB PRP VBD NN NN NNP IN NNP VBZ IN PRP .
+The pasta primavera was outstanding as well , lots of fresh veggies .	O B-AS I-AS O O O O O O O B-AS I-AS O	DT NN NN VBD JJ RB RB , NNS IN JJ NNS .
+do n't get me wrong - sushi was good , just not fantastic .	O O O O O O B-AS O O O O O O O	VBP RB VB PRP JJ : NN VBD JJ , RB RB JJ .
+Being Puerto Rican I know a thing or two about flan and this place serves one of the best -LRB- I hope Mom does n't read this ! -RRB- .	O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O	VBG NNP NNP PRP VBP DT NN CC CD IN NN CC DT NN VBZ CD IN DT JJS -LRB- PRP VBP NN VBZ RB VB DT . -RRB- .
+Been to the one in Brooklyn for over 25 years , now I dont have to go over the bridge for the best pizza ... Hanx	O O O O O O O O O O O O O O O O O O O O O O O B-AS O O	VBN TO DT CD IN NNP IN IN CD NNS , RB PRP VBP VBP TO VB IN DT NN IN DT JJS NN : NNP
+Had dinner here on a Friday and the food was great .	O B-AS O O O O O O B-AS O O O	VBD NN RB IN DT NNP CC DT NN VBD JJ .
+We recently spent New Year 's Eve at the restaurant , and had a great experience , from the wine to the dessert menu .	O O O O O O O O O O O O O O O O O O O B-AS O O B-AS I-AS O	PRP RB VBD NNP NNP POS NNP IN DT NN , CC VBD DT JJ NN , IN DT NN TO DT NN NN .
+Highly recommended ... As stated , I have n't dined * in * the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .	O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O B-AS O O O O B-AS O O O	RB VBN : IN VBN , PRP VBP RB VBN SYM IN SYM DT NN CC VBD IN RB TO VB RP NN CC PRP VBZ DT RB JJ NN : RB , DT NN VBZ JJ .
+The ambiance was fine , a little loud but still nice and romantic .	O B-AS O O O O O O O O O O O O	DT NN VBD JJ , DT JJ JJ CC RB JJ CC JJ .
+but , the filet mignon was not very good at all cocktail hour includes free appetizers -LRB- nice non-sushi selection -RRB- .	O O O B-AS I-AS O O O O O O B-AS I-AS O O B-AS O O B-AS I-AS O O	CC , DT JJ NN VBD RB RB JJ IN DT NN NN VBZ JJ NNS -LRB- JJ JJ NN -RRB- .
+It took about 2 1/2 hours to be served our 2 courses .	O O O O O O O O B-AS O O B-AS O	PRP VBD RB CD CD NNS TO VB VBN PRP$ CD NNS .
+Who said go when the place is quiet during the day ?	O O O O O B-AS O O O O O O	WP VBD VB WRB DT NN VBZ JJ IN DT NN .
+Can be a bit busy around peak times because of the size .	O O O O O O O O O O O B-AS O	MD VB DT NN JJ IN JJ NNS IN IN DT NN .
+I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .	O O O O O O O O O O O O O O O O O O O O O O B-AS O O B-AS I-AS O B-AS I-AS O	PRP VBD IN NN NN , VBD PRP$ NN IN NNP NNP IN PRP$ NN NN CC VBD IN DT JJ JJ NN IN JJ NN NNS CC NNP NN .
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .	O B-AS O O O O O O O O O O O O O B-AS O O B-AS I-AS O O B-AS I-AS I-AS O	JJ NN TO VB RP IN DT NN IN NN CC TO VB DT JJ NN CC JJ JJ NN IN DT NN IN NN .
+Very nice touch that very much fits the place .	O O O O O O O O B-AS O	RB JJ NN WDT RB RB VBZ DT NN .
+However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .	O O O O O O O O O O B-AS O O O O O O O B-AS I-AS O O O O O B-AS O O	RB , EX VBZ RB NN RB JJ IN VBG RB , IN JJ NN , VBG DT JJ NN WDT VBZ VBG TO DT NN JJ .
+We were seated promptly in close proximity to the dance floor .	O O O O O O O O O B-AS I-AS O	PRP VBD VBN RB IN JJ NN TO DT NN NN .
+If you are here as a pre-show meal , hop in a cab and take the extra 10 minutes to go to the uptown location .	O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O O O	IN PRP VBP RB IN DT JJ NN , NN IN DT NN CC VB DT JJ CD NNS TO VB TO DT JJ NN .
+A plus was the good mix of people in their twenties that provided for great eye-candy while I was there .	O O O O O O O O O O O O O O O O O O O O O	DT CC VBD DT JJ NN IN NNS IN PRP$ NNS WDT VBD IN JJ JJ IN PRP VBD RB .
+The comments about fried foods is correct -LRB- below -RRB- but the other dishes , including the lamb entree and many of the salads -LRB- avocado shrimp -RRB- were quite good .	O O O B-AS I-AS O O O O O O O O B-AS O O O B-AS I-AS O O O O B-AS I-AS I-AS I-AS I-AS O O O O	DT NNS IN JJ NNS VBZ JJ -LRB- IN -RRB- CC DT JJ NNS , VBG DT NN FW CC JJ IN DT NNS -LRB- NN NN -RRB- VBD RB JJ .
+It 's best to go on a cold night with a close friend or a good book .	O O O O O O O O O O O O O O O O O O	PRP VBZ JJS TO VB IN DT JJ NN IN DT JJ NN CC DT JJ NN .
+Slow service , but when you 're hanging around with groups of 10 or 20 , who really notices ?	O B-AS O O O O O O O O O O O O O O O O O O	JJ NN , CC WRB PRP VBP VBG RP IN NNS IN CD CC CD , WP RB NNS .
+The sauce is excellent -LRB- very fresh -RRB- with dabs of real mozzarella .	O B-AS O O O O O O O B-AS I-AS I-AS I-AS O	DT NN VBZ JJ -LRB- RB JJ -RRB- IN NNS IN JJ NN .
+Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .	O O O O O O B-AS O O O O O O O B-AS O O O O O O O O O O O B-AS O	VBP RB RB VB : DT NNS VBD JJ , CC PRP VBD DT NNS WP VBP EX WDT RB VBD DT DT JJS NN IN NN .
+The room is a little plain , but it 's difficult to make such a small place exciting and I would not suggest that as a reason not to go .	O B-AS O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O	DT NN VBZ DT JJ NN , CC PRP VBZ JJ TO VB PDT DT JJ NN JJ CC PRP MD RB VB IN IN DT NN RB TO VB .
+Prices even outside of restaurant week were great .	B-AS O O O O O O O O	NNS RB IN IN NN NN VBD JJ .
+A small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .	O O O B-AS I-AS I-AS O O O O O O B-AS O O O O O O O O O	DT JJ , JJ NN NN VBZ IN DT JJ , JJ NN TO VB RB CC VB RP IN NNS .
+Before the place did n't call my attention .	O O O O O O O O O	IN DT NN VBD RB VB PRP$ NN .
+And all the -LSB- female -RSB- servers are cute too , which is always nice .	O O O B-AS I-AS I-AS I-AS O O O O O O O O O	CC PDT DT -LRB- JJ -RRB- NNS VBP JJ RB , WDT VBZ RB JJ .
+The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .	O O B-AS O O B-AS I-AS I-AS I-AS I-AS O O O O O O O O O O O O O O O O B-AS O	DT JJS NN , DT NN CC NN NN JJ , VBZ RB RB JJ , CC PRP VBZ DT JJ NN WRB PRP VBZ TO NNS .
+for an appetizer , their calamari is a winner .	O O B-AS O O B-AS O O O O	IN DT NN , PRP$ NN VBZ DT NN .
+Satay is one of those favorite haunts on Washington where the service and food is always on the money .	O O O O O O O O O O O B-AS O B-AS O O O O O O	NNP VBZ CD IN DT JJ NNS IN NNP WRB DT NN CC NN VBZ RB IN DT NN .
+After dinner I heard music playing and discovered that there is a lounge downstairs .	O B-AS O O B-AS O O O O O O O B-AS O O	IN NN PRP VBD NN NN CC VBD IN EX VBZ DT NN NNS .
+But now that it 's under new ownership and has been renovated , it looks great .	O O O O O O O O O O O O O O O O O	CC RB IN PRP VBZ IN JJ NN CC VBZ VBN VBN , PRP VBZ JJ .
+The room is a gorgeous , bi-level space and the long bar perfect for a drink .	O B-AS O O O O B-AS I-AS O O B-AS I-AS O O O B-AS O	DT NN VBZ DT JJ , JJ NN CC DT JJ NN JJ IN DT NN .
+Now we moved out of the state and every visit to NYC includes a stop here .	O O O O O O O O O O O O O O O O O	RB PRP VBD RB IN DT NN CC DT NN TO NNP VBZ DT NN RB .
+Two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .	O O O O B-AS I-AS O O O O O O O O O B-AS I-AS O O B-AS O	CD NNS : PRP$ NN NN VBZ , PRP MD VB JJ TO VB DT NN VBZ IN DT NN .
+I do n't remember what we had ; nothing was memorable .	O O O O O O O O O O O O	PRP VBP RB VB WP PRP VBD : NN VBD JJ .
+It is bland and nothing extrodinary .	O O O O O O O	PRP VBZ JJ CC NN JJ .
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .	O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O	PRP VBD RB JJ IN DT NN NN WRB DT NN VBD RB CC IN IN VBG PRP VB CC VB RP DT NN NN RB RB IN VBG JJ CC JJ NN TO DT CD NN NN .
+The chicken and falafel platters were nondescript combinations with fresh leaf salad .	O B-AS I-AS I-AS I-AS O O O O B-AS I-AS I-AS O	DT NN CC NN NNS VBD JJ NNS IN JJ NN NN .
+Every time I visit NYC , I come here .	O O O O O O O O O O	DT NN PRP VBP NNP , PRP VBP RB .
+I 've been coming here regularly since it opened , about 2 years ago .	O O O O O O O O O O O O O O O	PRP VBP VBN VBG RB RB IN PRP VBD , IN CD NNS RB .
+The atmosphere takes you to that place , the place many dream of .	O B-AS O O O O O O O O O O O O	DT NN VBZ PRP TO DT NN , DT NN JJ NN IN .
+several times and put up with the waiters ' bad manners , knowing that their job is n't easy .	O O O O O O O B-AS O O O O O O O O O O O O	JJ NNS CC VB RP IN DT NNS POS JJ NNS , VBG IN PRP$ NN VBZ RB JJ .
+The service is great -LRB- maybe even borderline nagging but at least you get attention -RRB- , the desserts are excellent and the coffee is so very good ...	O B-AS O O O O O O O O O O O O O O O O B-AS O O O O B-AS O O O O O	DT NN VBZ JJ -LRB- RB RB JJ NN CC IN JJS PRP VBP NN -RRB- , DT NNS VBP JJ CC DT NN VBZ RB RB JJ :
+We were seated next to a couple whose kitchen was being renovated and we agreed since we 're all foodies who eat out a lot - that this was n't a place we 'd return to .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD VBN JJ TO DT NN WP$ NN VBD VBG VBN CC PRP VBD IN PRP VBP DT NNS WP VBP RP DT NN : IN DT VBD RB DT NN PRP VBD NN TO .
+They are served on Focacchia bread and are to die for .	O O B-AS O B-AS I-AS O O O O O O	PRP VBP VBN IN NNP NN CC VBP TO VB IN .
+While the smoothies are a little big for me , the fresh juices are the best I have ever had !	O O B-AS O O O O O O O O B-AS I-AS O O O O O O O O	IN DT NNS VBP DT JJ JJ IN PRP , DT JJ NNS VBP DT JJS PRP VBP RB VBN .
+The food is just OKAY , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .	O B-AS O O O O O O O O O O O O O O O O B-AS O O O O O B-AS O O O O O	DT NN VBZ RB JJ , CC PRP VBZ RB RB JJ VBG IN PRP VBP VBG DT NN , WDT VBZ DT JJ NN WDT VBZ RB JJ .
+The guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .	O B-AS O O O O O B-AS O O O O O O B-AS I-AS O O O	DT NN VBZ JJ , RB VBG NN , PRP VBP TO VB PRP$ JJ NN IN PRP .
+The new menu has a few creative items , they were smart enough to keep some of the old favorites -LRB- but they raised the prices -RRB- , the staff is friendly most of the time , but I must agree with the person that wrote about their favorite words : No , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .	O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O B-AS O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT JJ NN VBZ DT JJ JJ NNS , PRP VBD JJ JJ TO VB DT IN DT JJ NNS -LRB- CC PRP VBD DT NNS -RRB- , DT NN VBZ JJ JJS IN DT NN , CC PRP MD VB IN DT NN WDT VBD IN PRP$ JJ NNS : UH , MD RB , JJ : , NN , PRP MD RB VB DT NNS IN NN .
+It ' only open for lunch but the food is so good !	O O O O O B-AS O O B-AS O O O O	PRP '' RB JJ IN NN CC DT NN VBZ RB JJ .
+If you like seafood and/or Greek food you will love this place though it is not limited to just these things .	O O O B-AS O B-AS I-AS O O O O O O O O O O O O O O O	IN PRP IN NN CC JJ NN PRP MD VB DT NN IN PRP VBZ RB VBN TO RB DT NNS .
+'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .	O O B-AS O B-AS I-AS O B-AS O B-AS O B-AS I-AS O O O O B-AS I-AS O O O O O O O O O	'' DT NN VBZ NN NN : NNS , NNS CC NNS NN : CC RB DT NN NN IN DT JJ NN VBN IN `` NNS .
+How can they survive serving mediocre food at exorbitant prices ?!	O O O O O O B-AS O O B-AS O	WRB MD PRP VB VBG JJ NN IN JJ NNS VBP
+The food was mediocre and the service was severely slow .	O B-AS O O O O B-AS O O O O	DT NN VBD JJ CC DT NN VBD RB JJ .
+i have eaten here on a different occasion - the food is mediocre for the prices .	O O O O O O O O O O B-AS O O O O B-AS O	LS VBP VBN RB IN DT JJ NN : DT NN VBZ JJ IN DT NNS .
+I 'm looking forward to going back soon and eventually trying most everything on the menu !	O O O O O O O O O O O O O O O B-AS O	PRP VBP VBG RB TO VBG RB RB CC RB VBG RBS NN IN DT NN .
+I just had my first visit to this place and ca n't wait to go back and slowly work my way through the menu .	O O O O O O O O O O O O O O O O O O O O O O O B-AS O	PRP RB VBD PRP$ JJ NN TO DT NN CC MD RB VB TO VB RB CC RB VB PRP$ NN IN DT NN .
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .	O O O O O O O O B-AS O O O O O O O O O O O B-AS O	PRP VBD RB WP DT NN IN DT NN VBD CC VBD RB JJ VBD IN IN DT RB JJ NN .
+I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .	O O O O O B-AS O O O O B-AS I-AS I-AS O O B-AS I-AS O	PRP VBD RP IN DT NN NN CC VBD DT JJ NN NNS CC DT NN NN .
+Weekends can get crowded , but still highly recommended .	O O O O O O O O O O	NNS MD VB VBN , CC RB RB VBN .
+It gets very crowded so I would suggest that you get their early .	O O O O O O O O O O O O O O	PRP VBZ RB VBN IN PRP MD VB IN PRP VBP PRP$ JJ .
+Sweet Irish bartender is always happy and able to bring a smile to my friends a my face .	O O B-AS O O O O O O O O O O O O O O O O	JJ JJ NN VBZ RB JJ CC JJ TO VB DT NN TO PRP$ NNS DT PRP$ NN .
+I always find myself sitting next to someone in the theatre industry - interesting to hear ideas hashed out while having a quick bite to eat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP RB VBP PRP VBG JJ TO NN IN DT NN NN : JJ TO VB NNS VBN RP IN VBG DT JJ NN TO VB .
+Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .	O O O O O O B-AS O O O O O O O O O O O O O O O O O O B-AS O O O B-AS O O O O	PRP$ JJ TO VB RB IN NNS IN PRP VBP RB VB TO VB JJ IN PRP MD VB JJ IN PRP MD VB CD VBP DT NN DT NN VBZ RB JJ .
+Anyway , the owner was fake .	O O O B-AS O O O	RB , DT NN VBD JJ .
+Owner is pleasant and entertaining .	B-AS O O O O O	NNP VBZ JJ CC JJ .
+I have never in my life sent back food before , but I simply had to , and the waiter argued with me over this .	O O O O O O O O B-AS O O O O O O O O O O B-AS O O O O O O	PRP VBP RB IN PRP$ NN VBD RB NN RB , CC PRP RB VBD TO , CC DT NN VBD IN PRP IN DT .
+Although the restaurant itself is nice , I prefer not to go for the food .	O O O O O O O O O O O O O O B-AS O	IN DT NN PRP VBZ JJ , PRP VBP RB TO VB IN DT NN .
+Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt -LRB- with cuccumber , dill , and garlic -RRB- taste excellent when on warm pitas .	B-AS I-AS O B-AS O B-AS I-AS O O B-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS I-AS O O O O B-AS I-AS O	JJ NNS : NN , NN NN , CC JJ NN -LRB- IN NN , NN , CC NN -RRB- NN JJ WRB IN JJ NNS .

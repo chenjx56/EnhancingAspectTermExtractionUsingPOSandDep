@@ -1,0 +1,609 @@
+Dell Latitude d620 is not a reliable machine .	O O O O O O O O O	NNP NNP NN VBZ RB DT JJ NN .
+Summary : Dont buy HP .	O O O O O O	NNP : NNP VB NNP .
+With Windows laptops a wireless mouse is an absolute must .	O O O O B-AS I-AS O O O O O	IN NNP NNS DT JJ NN VBZ DT JJ MD .
+MacBook Notebooks quickly die out because of their short battery life , as well as the many background programs that run without the user 's knowlede .	O O O O O O O O O B-AS I-AS O O O O O O O B-AS O O O O O O O O	NNP NNPS RB VB RP IN IN PRP$ JJ NN NN , RB RB IN DT JJ NN NNS WDT VBP IN DT NN POS NN .
+i asked many people , search on the net and also read reviews here in best buy .	O O O O O O O O O O O O O O O O O O	LS VBD JJ NNS , NN IN DT NN CC RB VBD NNS RB IN JJS NN .
+luckly i had a student task force able to help , or else it would have crashed within the first year .	O O O O O O O O O O O O O O O O O O O O O O	RB FW VBD DT NN NN NN JJ TO VB , CC RB PRP MD VB VBN IN DT JJ NN .
+I hate it !	O O O O	PRP VBP PRP .
+It was kind of a rebellion against PC in fact , and I am certainly glad I did .	O O O O O O O O O O O O O O O O O O O	PRP VBD NN IN DT NN IN NN IN NN , CC PRP VBP RB JJ PRP VBD .
+Now I could get myself a cheap computer , that will probably work a whole lot better !	O O O O O O O O O O O O O O O O O O	RB PRP MD VB PRP DT JJ NN , WDT MD RB VB DT JJ NN JJR .
+Had to have this computer repaired twice in the first 5 months after purchasing it .	O O O O O O O O O O O O O O O O	VBD TO VB DT NN VBN RB IN DT JJ CD NNS IN VBG PRP .
+I had the staff telling me older version did not make the fan noise cause it is a `` different '' computer .	O O O B-AS O O O O O O O O B-AS I-AS O O O O O O O O O	PRP VBD DT NN VBG PRP JJR NN VBD RB VB DT NN NN VBP PRP VBZ DT `` JJ '' NN .
+I have had it 9 months and it is already a $ 250 loss .	O O O O O O O O O O O O O O O	PRP VBP VBD PRP CD NNS CC PRP VBZ RB DT $ CD NN .
+It is good to know that I can mobilize without having to worry about the battery life .	O O O O O O O O O O O O O O O B-AS I-AS O	PRP VBZ JJ TO VB IN PRP MD VB IN VBG TO VB IN DT NN NN .
+Im glad that it has such great features in it .	O O O O O O O B-AS O O O	NN JJ IN PRP VBZ JJ JJ NNS IN PRP .
+I would recommend it just because of the internet speed probably because thats the only thing i really care about .	O O O O O O O O B-AS I-AS O O O O O O O O O O O	PRP MD VB PRP RB IN IN DT NN NN RB IN NNS DT JJ NN FW RB VB RB .
+A great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document .	O O B-AS O O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O	DT JJ NN VBZ DT NN NN : PRP MD VB IN NNS IN RB NN DT NN , RB IN VBG NNS IN NN NNS IN DT NN .
+Typing on the keyboard becomes uncomfortable after extended use due to the sharp edges that your wrists rest on .	O O O B-AS O O O O O O O O O B-AS O O O O O O	VBG IN DT NN VBZ JJ IN VBN NN JJ TO DT JJ NNS WDT PRP$ NNS NN IN .
+Thinking about returning it	O O O O	VBG IN VBG PRP
+Winters is on it 's way and I imagine it will be cozy .	O O O O O O O O O O O O O O	NNP VBZ IN PRP VBZ NN CC PRP VBP PRP MD VB JJ .
+The apple macbook pro nothing to say butprofessionally great and outstanding .	O O O O O O O O O O O O	DT NN NN JJ NN TO VB RB JJ CC JJ .
+The large screen also helps when you are working in design based programs like Adobe Creative Suite .	O O B-AS O O O O O O O B-AS I-AS I-AS O B-AS I-AS I-AS O	DT JJ NN RB VBZ WRB PRP VBP VBG IN NN VBN NNS IN NNP NNP NNP .
+Apparently there is a manufacturing defect , something with the amount of thermal paste .	O O O O O O O O O O O O B-AS I-AS O	RB EX VBZ DT NN NN , NN IN DT NN IN JJ VBP .
+Well , they do n't care a bunch .	O O O O O O O O O	RB , PRP VBP RB VB DT NN .
+I just got this laptop for college , and so far I am very happy with it .	O O O O O O O O O O O O O O O O O O	PRP RB VBD DT NN IN NN , CC RB RB PRP VBP RB JJ IN PRP .
+I 've been having endless problems since I bought the computer - only 1 month ago	O O O O O O O O O O O O O O O O	PRP VBP VBN VBG JJ NNS IN PRP VBD DT NN : RB CD NN RB
+Then 2 of my nephews were going into music and both fell in love with the MacBook Pro .	O O O O O O O O O O O O O O O O O O O	RB CD IN PRP$ NNS VBD VBG IN NN CC DT VBD IN NN IN DT NNP FW .
+But sadly the replacement froze-up while updating the BIOS again and shut down and would not turn back on .	O O O O O O O O B-AS O O O O O O O O O O O	CC RB DT NN NN IN VBG DT NN RB CC VB RB CC MD RB VB RP IN .
+I waited and waited and no laptop .	O O O O O O O O	PRP VBD CC VBD CC DT NN .
+The brand of iTunes has just become ingrained in our lexicon now , but keep in mind that Apple started it all .	O O O B-AS O O O O O O O O O O O O O O O O O O O	DT NN IN NNP VBZ RB VBN VBN IN PRP$ NN RB , CC VB IN NN IN NNP VBD PRP DT .
+If you are looking for a netbook pc DO NOT BUY FROM ASUS !!!	O O O O O O O O O O O O O O	IN PRP VBP VBG IN DT NN NN NNP NNP NNP NNP NNP VBD
+Its fast , has High definition quality in the videos .	O O O O B-AS I-AS I-AS O O O O	PRP$ JJ , VBZ JJ NN NN IN DT NNS .
+I did not take the class and wish that I would have .	O O O O O O O O O O O O O	PRP VBD RB VB DT NN CC NN IN PRP MD VB .
+I previously owned a Toshiba and it only lasted about 2 years .	O O O O O O O O O O O O O	PRP RB VBD DT NNP CC PRP RB VBD RB CD NNS .
+Guess I 'll stay away from HP .	O O O O O O O O	VB PRP MD VB RB IN NNP .
+I bought this laptop and found its TAB is not functioning .	O O O O O O O B-AS O O O O	PRP VBD DT NN CC VBD PRP$ NN VBZ RB VBG .
+My hp G60-244dx died after only 16 months .	O O O O O O O O O	PRP$ NN NN VBD IN RB CD NNS .
+Unless you want to be inconvenienced with a non working power supply which you ca n't find a replacement for because they made the attachment so small .	O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O	IN PRP VBP TO VB VBN IN DT JJ VBG NN NN WDT PRP MD RB VB DT NN IN IN PRP VBD DT NN RB JJ .
+The much lauded combined touch pad and clicker is a nightmare .	O O O B-AS I-AS I-AS I-AS I-AS O O O O	DT JJ VBD JJ NN NN CC NN VBZ DT NN .
+So you out of of notebook and money .	O O O O O O O O O	IN PRP IN IN IN NN CC NN .
+They are asking me to ship the unit back to fix it at their site .	O O O O O O O O O O O O O O O O	PRP VBP VBG PRP TO VB DT NN RB TO VB PRP IN PRP$ NN .
+Asked the customer service rep .	O O B-AS I-AS I-AS O	VBD DT NN NN NN .
+I have not had a problem with the applications quitting or freezing .	O O O O O O O O B-AS O O O O	PRP VBP RB VBN DT NN IN DT NNS VBG CC NN .
+My wife recently purchased an Apple MacBook Pro and our granddaughter fell in love with it and asked for one for her birthday .	O O O O O O O O O O O O O O O O O O O O O O O O	PRP$ NN RB VBD DT NNP NNP FW CC PRP$ NN VBD IN NN IN PRP CC VBD IN CD IN PRP$ NN .
+Its fast and another thing I like is that it has three USB ports .	O O O O O O O O O O O O B-AS I-AS O	PRP$ JJ CC DT NN PRP VBP VBZ IN PRP VBZ CD JJ NNS .
+It 's outstanding too .	O O O O O	PRP VBZ JJ RB .
+The best thing to do is build your own computer , but if u ca n't company 's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $ 2000 systems and if you google `` dell coupons '' you can find codes that take a signifant amount off the price .	O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O	DT JJS NN TO VB VBZ VB PRP$ JJ NN , CC IN NN MD RB NN POS IN NN WP VBP PRP TO VB DT NNS VBP JJR CC IN DT JJ NN PRP MD VB DT NN WP VBZ TO CD IN NN $ CD NNS CC IN PRP VBP `` JJ NNS '' PRP MD VB NNS WDT VBP DT JJ NN IN DT NN .
+The keyboard is slick and quiet and not bulky like some other laptops I have had in the past .	O B-AS O O O O O O O O O O O O O O O O O O	DT NN VBZ JJ CC JJ CC RB JJ IN DT JJ NNS PRP VBP VBN IN DT NN .
+This is my second MACBOOK PRO and it 's better than ever .	O O O O O O O O O O O O O	DT VBZ PRP$ JJ NNP FW CC PRP VBZ JJR IN RB .
+Also , I issued a replacement RMA for a few dead pixels in the upper zone of the screen , which is noticable to me .	O O O O O O O O O O O O O O O O O O B-AS O O O O O O O	RB , PRP VBD DT NN NN IN DT JJ JJ NNS IN DT JJ NN IN DT NN , WDT VBZ JJ TO PRP .
+I was starting to boil .	O O O O O O	PRP VBD VBG TO VB .
+after trying to get some help he disconnected on me .	O O O O O O O O O O O	IN VBG TO VB DT NN PRP VBD IN PRP .
+Getting the Apple Care plan is a must .	O O B-AS I-AS I-AS O O O O	VBG DT NNP NNP NN VBZ DT MD .
+It works exactly like it did the day I took it out of the box .	O B-AS O O O O O O O O O O O O O O	PRP VBZ RB IN PRP VBD DT NN CD VBD PRP IN IN DT NN .
+The casing of the power cord fried and shocked my husband when he pulled it out of the socket .	O B-AS I-AS I-AS I-AS I-AS O O O O O O O O O O O O O O	DT NN IN DT NN NN VBD CC VBD PRP$ NN WRB PRP VBD PRP IN IN DT NN .
+Also , because of the size and consistancy of the laptop computer , some websites would n't even attempt to work on the computer because of browser problems .	O O O O O B-AS O B-AS O O O O O O O O O O O O O O O O O O O O O	RB , IN IN DT NN CC NN IN DT JJ NN , DT NNS MD RB RB VB TO VB IN DT NN IN IN NN NNS .
+the internet can be an scary place its up to you on what you do with it .	O O O O O O O O O O O O O O O O O O	DT NN MD VB DT JJ NN PRP$ RP TO PRP IN WP PRP VBP IN PRP .
+This is a great little computer for the price .	O O O O O O O O B-AS O	DT VBZ DT JJ JJ NN IN DT NN .
+I think I might rather suffer for something that is simple to fix in my opinion .	O O O O O O O O O O O O O O O O O	PRP VBP PRP MD RB VB IN NN WDT VBZ JJ TO VB IN PRP$ NN .
+So , I paid a visit to LG notebook service center at Alexandra Road , hoping they can make the hinge tighter .	O O O O O O O B-AS I-AS I-AS I-AS O O O O O O O O O B-AS O O	RB , PRP VBD DT NN TO NNP NN NN NN IN NNP NNP , VBG PRP MD VB DT NN JJR .
+Toshiba is a great brand , even though I have n't had it for a long time , I am very happy with it !	O O O O O O O O O O O O O O O O O O O O O O O O O	NNP VBZ DT JJ NN , RB IN PRP VBP RB VBD PRP IN DT JJ NN , PRP VBP RB JJ IN PRP .
+Graphics are clean and sharp , internet interfaces are seamless .	B-AS O O O O O B-AS I-AS O O O	NNS VBP JJ CC JJ , JJ NNS VBP JJ .
+i spent eight hundred dollars from a giant paper weight that looks good on a bus .	O O O O O O O O O O O O O O O O O	LS VBD CD CD NNS IN DT JJ NN NN WDT VBZ JJ IN DT NN .
+My opinion of Sony has been dropping as fast as the stock market , given their horrible support , but this machine just caused another plunge .	O O O O O O O O O O O O O O O O O B-AS O O O O O O O O O	PRP$ NN IN NNP VBZ VBN VBG RB RB IN DT NN NN , VBN PRP$ JJ NN , CC DT NN RB VBD DT NN .
+It 's a joke .	O O O O O	PRP VBZ DT NN .
+ASUS said my net-book was working properly .	O O O O O O O O	NNS VBD PRP$ NN VBD VBG RB .
+They also have a longer service life than other computers -LRB- I have several friends who still use the older Apple PowerBooks -RRB- .	O O O O O B-AS I-AS O O O O O O O O O O O O O O O O O	PRP RB VBP DT JJR NN NN IN JJ NNS -LRB- PRP VBP JJ NNS WP RB VBP DT JJR NNP NNPS -RRB- .
+HOW DOES THE POWER SUPPLY NOT WORK !!!	O O O B-AS I-AS O O O	NNP NNP DT NN NN RB VBP CD
+The switchable graphic card is pretty sweet when you want gaming on the laptop .	O B-AS I-AS I-AS O O O O O O B-AS O O O O	DT JJ JJ NN VBZ RB JJ WRB PRP VBP NN IN DT NN .
+Sure , the initial out of pocket expense is greater , but that should not dissuade anyone from the fact that these machines run like none other on the planet , and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs , it probably comes out about even anyhow .	O O O O O O O B-AS O O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	JJ , DT JJ IN IN NN NN VBZ JJR , CC DT MD RB VB NN IN DT NN IN DT NNS VBP IN NN JJ IN DT NN , CC WRB PRP NN IN PDT DT NN IN IN PRP VBD IN NNP NNP CC DT JJS NNS TO JJ PRP$ JJ NNS , PRP RB VBZ RP IN RB RB .
+i setup my password last night with the password on my other computer .	O O O O O O O O O O O O O O	LS NN PRP$ NN JJ NN IN DT NN IN PRP$ JJ NN .
+If you need an affordable , entry-level laptop , this will fit the bill .	O O O O O O O O O O O O O O O	IN PRP VBP DT JJ , JJ NN , DT MD VB DT NN .
+I bought my Acer Aspire custom made in June 2008 .	O O O O O O O O O O O	PRP VBD PRP$ NNP NNP NN VBN IN NNP CD .
+First of all , I 've been Dell fan for more than fifteen years .	O O O O O O O O O O O O O O O	NNP IN DT , PRP VBP VBN NNP NN IN JJR IN CD NNS .
+These new problems were the final straws ;	O O O O O O O O	DT JJ NNS VBD DT JJ NNS :
+It is so much easier to use	O O O O O O B-AS	PRP VBZ RB JJ JJR TO VB
+I 'm definitely not hard on laptops and guarantee 100 % that no liquid has touched this machine in my presence .	O O O O O O O O O O O O O O O O O O O O O O	PRP VBP RB RB JJ IN NNS CC VB CD NN IN DT NN VBZ VBN DT NN IN PRP$ NN .
+I 'd recommend this laptop to anyone !	O O O O O O O O	PRP MD VB DT NN TO NN .
+The screen shows great colors .	O B-AS O O B-AS O	DT NN VBZ JJ NNS .
+Obviously one of the most important features of any computer is the `` human interface .	O O O O O O B-AS O O O O O O B-AS I-AS O	RB CD IN DT RBS JJ NNS IN DT NN VBZ DT `` JJ NN .
+Very happy .	O O O	RB JJ .
+I would recomend this acer to parents and grandparents it can really help them in school .	O O O O O O O O O O O O O O O O O	PRP MD VB DT NN TO NNS CC NNS PRP MD RB VB PRP IN NN .
+I would highly recommend this one to my friends	O O O O O O O O O	PRP MD RB VB DT CD TO PRP$ NNS
+Just a bunch of idiots who 's English as a 5th language is forced at best .	O O O O O O O O O O O O O O O O O	RB DT NN IN NNS WP VBZ NNP IN DT JJ NN VBZ VBN IN JJS .
+My wireless system would not recognize Windows 7 and I could n't get online to find out why .	O B-AS I-AS O O O B-AS I-AS O O O O O O O O O O O	PRP$ JJ NN MD RB VB NNP CD CC PRP MD RB VB JJ TO VB RP WRB .
+She told me flatly , `` It 's like that one .	O O O O O O O O O O O O	PRP VBD PRP RB , `` PRP VBZ IN DT CD .
+Most laptops and notebooks are difficult to key on .	O O O O O O O O O O	JJS NNS CC NNS VBP JJ TO JJ IN .
+In the past few years , I 've had terrible experiences with HP .	O O O O O O O O O O O O O O	IN DT JJ JJ NNS , PRP VBP VBD JJ NNS IN NNP .
+I love the operating system and the preloaded software .	O O O B-AS I-AS O O B-AS I-AS O	PRP VBP DT NN NN CC DT JJ NN .
+It would be a load on long trips where a lot of walking is required .	O O O O O O O O O O O O O O O O	PRP MD VB DT NN IN JJ NNS WRB DT NN IN VBG VBZ VBN .
+The processor went on me , the fan went and the motherboard went .	O B-AS O O O O O B-AS O O O B-AS O O	DT NN VBD IN PRP , DT NN VBD CC DT NN VBD .
+Purchased a Toshiba Lap top it worked good until just after the warrenty went out .	O O O O O O O O O O O O B-AS O O O	VBN DT NNP NNP JJ PRP VBD JJ IN RB IN DT NN VBD RB .
+I can throw anything at it -LRB- and I do -RRB- , Pictures , video editing , schoolwork .	O O O O O O O O O O O O O O O O O O O	PRP MD VB NN IN PRP -LRB- CC PRP VBP -RRB- , NNP , NN NN , NN .
+This computer is absolutely AMAZING !!!	O O O O O O	DT NN VBZ RB NNP CD
+Of course , I inspected the other netbooks and clearly their hinges are tighter and I even demonstrate the difference between my netbook and others .	O O O O O O O O O O O B-AS O O O O O O O O O O O O O O	IN NN , PRP VBD DT JJ NNS CC RB PRP$ NNS VBP JJR CC PRP RB VBP DT NN IN PRP$ NN CC NNS .
+I WANT MY L505-s5988 BACK !	O O O O O O	PRP VBD NN NN RB .
+A tip for people looking into this computer : DO NOT BUY IT save up a bit more money and buy a computer that will last .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN IN NNS VBG IN DT NN : NNP NNP NNP NNP VB RP DT NN JJR NN CC VB DT NN WDT MD VB .
+Not enough time for me to give it 5 stars !	O O O O O O O O O O O	RB JJ NN IN PRP TO VB PRP CD NNS .
+The 13 '' MacBook Pro is portable , durable , and very capable .	O O O O O O O O O O O O O O	DT CD '' NNP FW VBZ JJ , JJ , CC RB JJ .
+This is a great computer .	O O O O O O	DT VBZ DT JJ NN .
+They 're not safe , they 're not durable , they just a worthless .	O O O O O O O O O O O O O O O	PRP VBP RB JJ , PRP VBP RB JJ , PRP RB DT JJ .
+'' This is n't a big deal , I have n't noticed the issue with DVDs or other media , only through USB output .	O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS O	'' DT VBZ RB DT JJ NN , PRP VBP RB VBN DT NN IN NNS CC JJ NNS , RB IN JJ NN .
+I 've tried going back to XL but there still problems .	O O O O O O O O O O O O	PRP VBP VBN VBG RB TO NNP CC EX RB NNS .
+If you 're not wanting to be mobile , this is a good laptop to sit on a desk .	O O O O O O O O O O O O O O O O O O O O	IN PRP VBP RB VBG TO VB JJ , DT VBZ DT JJ NN TO VB IN DT NN .
+I HATE this one .	O O O O O	PRP VBP DT CD .
+We were PC users .	O O O O O	PRP VBD NN NNS .
+The only thing I can imagine is that Sony jumped on early specifications for Vista requirements from Microsoft and designed it to those inadequate requirements .	O O O O O O O O O O O O O O B-AS O O O O O O O O O O O	DT JJ NN PRP MD VB VBZ IN NNP VBD IN JJ NNS IN NNP NNS IN NNP CC VBN PRP TO DT JJ NNS .
+i would really recommend to any person out there to get this laptop cause its really worth it .	O O O O O O O O O O O O O O O O O O O	LS MD RB VB TO DT NN IN RB TO VB DT NN VB PRP$ RB JJ PRP .
+The computer is a dream come true .	O O O O O O O O	DT NN VBZ DT NN VBN JJ .
+The battery life is amazingly long at 7hrs and 5hrs if you use it .	O B-AS I-AS O O O O O O O O O O O O	DT NN NN VBZ RB RB IN NNS CC NNS IN PRP VBP PRP .
+* IF YOU ARE LOOKING FOR A GOOD LAPTOP , THIS IS NOT IT !	O O O O O O O O O O O O O O O	SYM IN PRP VBP VBG IN DT JJ NN , NNP VBZ NNP NNP .
+Which was way too much money .	O O O O O O O	WDT VBD NN RB JJ NN .
+It does n't heat up like my old laptop .	O O O O O O O O O O	PRP VBZ RB VB RP IN PRP$ JJ NN .
+After way too many times sending the thing in for repairs -LRB- delivery service was slow , and without the laptop I had no access to the internet , and thus no way of tracking it to find out when I might hope to see my computer again -RRB- , it finally kicked the bucket after just over 2 years .	O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	IN NN RB JJ NNS VBG DT NN IN IN NNS -LRB- NN NN VBD JJ , CC IN DT NN PRP VBD DT NN TO DT NN , CC RB DT NN IN VBG PRP TO VB RP WRB PRP MD VB TO VB PRP$ NN RB -RRB- , PRP RB VBD DT NN IN RB IN CD NNS .
+I fell in love with the hp pavillion and that was my replacement and now I could not imagine going back to an acer at all .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD IN NN IN DT NN NN CC DT VBD PRP$ NN CC RB PRP MD RB VB VBG RB TO DT NN IN DT .
+It has served my needs quite nicely for the most part .	O O O O O O O O O O O O	PRP VBZ VBN PRP$ NNS RB RB IN DT JJS NN .
+I ordered four D620 laptops .	O O O O O O	PRP VBD CD NN NNS .
+Small screen somewhat limiting but great for travel .	O B-AS O O O O O O O	JJ NN RB VBG CC JJ IN NN .
+Sorry Toshiba , but 1st impressions do count for something .	O O O O O O O O O O O	JJ NNP , CC JJ NNS VBP VB IN NN .
+It has everything you need to get the job done .	O O O O O O O O O O O	PRP VBZ NN PRP VBP TO VB DT NN VBN .
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O	LS VBP DT JJ NN NN FW NN NN IN NN WDT VBZ RB , CC WRB FW VBD DT CD FW VBD RB JJ IN DT NN PRP VBZ CC WRB PRP VBZ PRP$ JJ .
+I think it was seventy nine plus tax .	O O O O O O O O O	PRP VBP PRP VBD CD CD CC NN .
+My mac laptop is fabulous in both areas .	O O O O O O O O O	PRP$ JJ NN VBZ JJ IN CC NNS .
+Also , I have had alot of trouble with the shift key to go to other lines .	O O O O O O O O O O B-AS I-AS O O O O O O	RB , PRP VBP VBN NNS IN NN IN DT NN NN TO VB TO JJ NNS .
+I have a business website and every time I have to change something I have to go to the public library to use a PC .	O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP DT NN NN CC DT NN PRP VBP TO VB NN PRP VBP TO VB TO DT JJ NN TO VB DT NN .
+The battery has never worked well .	O B-AS O O O O O	DT NN VBZ RB VBN RB .
+THEN , one month after the warranty expired , the replacement charger went .	O O O O O O B-AS O O O B-AS I-AS O O	RB , CD NN IN DT NN VBD , DT NN NN VBD .
+The pricing is very competitive .	O B-AS O O O O	DT NN VBZ RB JJ .
+The 17 inch screen is very large , but the computer is very light .	O B-AS I-AS I-AS O O O O O O O O O O O	DT CD NN NN VBZ RB JJ , CC DT NN VBZ RB JJ .
+I am just amazed .	O O O O O	PRP VBP RB VBN .
+This has happened three times so far .	O O O O O O O O	DT VBZ VBN CD NNS RB RB .
+It has a overheating issue - nearly to the point of being dangerous .	O O O O O O O O O O O O O O	PRP VBZ DT VBG NN : RB TO DT NN IN VBG JJ .
+My sister is the electronics manager at Wal Mart and she says that HP is the best .	O O O O O O O O O O O O O O O O O O	PRP$ NN VBZ DT NN NN IN NNP NNP CC PRP VBZ IN NNP VBZ DT JJS .
+However the frozen screens kept happening .	O O O B-AS O O O	RB DT JJ NNS VBD VBG .
+Mom , Dad , Brother , sister , You name it !	O O O O O O O O O O O O	NN , NNP , NNP , NN , PRP VBP PRP .
+I have only had PCs with Windows before so this takes a little getting use to .	O O O O O O B-AS O O O O O O O O O O	PRP VBP RB VBN NNS IN NNP IN RB DT VBZ DT JJ VBG NN TO .
+The computer continued to give me issues and in Late June it completely died again and I tried to call Acer again to get it fixed and they refused to help me , they said my warrenty was up and hung up on me .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O O O	DT NN VBD TO VB PRP NNS CC IN JJ NNP PRP RB VBD RB CC PRP VBD TO VB NNP RB TO VB PRP VBN CC PRP VBD TO VB PRP , PRP VBD PRP$ NN VBD RB CC VBD RP IN PRP .
+The only bad thing about it is they give you the worst batteries possible .	O O O O O O O O O O O O B-AS O O	DT JJ JJ NN IN PRP VBZ PRP VBP PRP DT JJS NNS JJ .
+My main reason to convert was the imovie program .	O O O O O O O B-AS I-AS O	PRP$ JJ NN TO VB VBD DT NN NN .
+It is so nice not to worry about that and the extra expense that comes along with the necessary virus protection on PC 's .	O O O O O O O O O O O O O O O O O O O B-AS I-AS O O O O	PRP VBZ RB JJ RB TO VB IN DT CC DT JJ NN WDT VBZ RP IN DT JJ NN NN IN NN POS .
+It seems to be incompatible with everything else .	O O O O O O O O O	PRP VBZ TO VB JJ IN NN RB .
+* 2 weeks after giving the computer for repair * - Called headquarters , they report that they have not looked at it yet but it is `` on the top of the stack '' .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	SYM CD NNS IN VBG DT NN IN NN SYM : VBN NN , PRP VBP IN PRP VBP RB VBN IN PRP RB CC PRP VBZ `` IN DT NN IN DT VBP '' .
+Design : very durable .	B-AS O O O O	NN : RB JJ .
+Buy this .	O O O	VB DT .
+This laptop leaves alot to be desired , I have had it only 5 months and have had to send it away to be repaired twice ...	O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN VBZ NNS TO VB VBN , PRP VBP VBD PRP RB CD NNS CC VBP VBN TO VB PRP RB TO VB VBN RB :
+It is in the best condition and has a really high quality .	O O O O O O O O O O O B-AS O	PRP VBZ IN DT JJS NN CC VBZ DT RB JJ NN .
+I 've also had to have the keyboard replaced at my expense .	O O O O O O O B-AS O O O O O	PRP VBP RB VBN TO VB DT NN VBN IN PRP$ NN .
+It is easy to find documents , and keep them in one area .	O O O O O O O O O O O O O O	PRP VBZ JJ TO VB NNS , CC VB PRP IN CD NN .
+Eventually my battery would n't charge , so unless I had it plugged in it would n't even power on .	O O B-AS O O O O O O O O O O O O O O O O O O	RB PRP$ NN MD RB VB , RB IN PRP VBD PRP VBD IN PRP MD RB RB NN IN .
+You just lose a customer .	O O O O O O	PRP RB VBP DT NN .
+Overall this laptop is great .	O O O O O O	RB DT NN VBZ JJ .
+The computer will constantly be getting hot and burning your leg unless you go through the hassle of taking off the entire back of it just to clean out the fan .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O	DT NN MD RB VB VBG JJ CC VBG PRP$ NN IN PRP VBP IN DT NN IN VBG RP DT JJ NN IN PRP RB TO VB RP DT NN .
+They sent it off and within 2 weeks I had it back good as new .	O O O O O O O O O O O O O O O O	PRP VBD PRP RP CC IN CD NNS PRP VBD PRP RB JJ IN JJ .
+My brother is a computer wiz and would laugh at me because he used an Apple .	O O O O O O O O O O O O O O O O O	PRP$ NN VBZ DT NN NN CC MD NN IN PRP IN PRP VBD DT NNP .
+Everything about the Mac is not only visually appealing , but very easy to use .	O O O O O O O O O O O O O O B-AS O	NN IN DT NNP VBZ RB RB RB JJ , CC RB JJ TO VB .
+I have never had it crash , randomly turn off ,	O O O O O O O O O O O	PRP VBP RB VBN PRP JJ , RB VB RP ,
+The other lock-up problems are from a myriad of causes , the most common being a corrupted version of Appleworks which can render the browser useless .	O O O O O O O O O O O O O O O O O O O B-AS O O O O B-AS O O	DT JJ JJ NNS VBP IN DT JJ IN NNS , DT RBS JJ VBG DT VBN NN IN NNS WDT MD VB DT NN JJ .
+I am not one to throw things like this around but it is a laptop so carrying it around does seem to mean it will be jerked possibly a little , while driving a car and carrying it into where ever you are using it .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP RB CD TO VB NNS IN DT IN CC PRP VBZ DT NN RB VBG PRP IN VBZ VB TO VB PRP MD VB VBN RB DT JJ , IN VBG DT NN CC VBG PRP IN WRB RB PRP VBP VBG PRP .
+When I took it back to Best Buy I asked them if they were seriously trying to drive me insane !	O O O O O O O O O O O O O O O O O O O O O	WRB PRP VBD PRP RB TO JJS JJ PRP VBD PRP IN PRP VBD RB VBG TO VB PRP JJ .
+I would definitely recommend checking out this laptop if you are in the market for one .	O O O O O O O O O O O O O O O O O	PRP MD RB VB VBG IN DT NN IN PRP VBP IN DT NN IN CD .
+She brought out 2 other identical netbooks and still insist that `` It is like that one '' .	O O O O O O O O O O O O O O O O O O O	PRP VBD RP CD JJ JJ NNS CC RB VBP IN `` PRP VBZ IN DT CD '' .
+They refuse .	O O O	PRP VBP .
+While I mostly use it for email , internet and gaming , I 'm confident all other applications live up to the high standard I 've come to appreciate from Mac laptops .	O O O O O O O O B-AS O B-AS O O O O O O B-AS O O O O O O O O O O O O O O O	IN PRP RB VBP PRP IN NN , NN CC NN , PRP VBP JJ DT JJ NNS VBP RP TO DT JJ NN PRP VBP VBN TO VB IN NNP NNS .
+Info : Windows failed to load because the kernal is missing , or corrupt .	O O B-AS O O O O O B-AS O O O O O O	NN : NNP VBD TO NN IN DT NN VBZ VBG , CC JJ .
+It is short on space , and downloads always had problems being completed , or were said to be ` corrupted ' .	O O O O B-AS O O B-AS O O O O O O O O O O O O O O O	PRP VBZ JJ IN NN , CC NNS RB VBD NNS VBG VBN , CC VBD VBN TO VB `` VBN '' .
+I am however pleased that it is still hanging in there .	O O O O O O O O O O O O	PRP VBP RB JJ IN PRP VBZ RB VBG IN EX .
+This laptop is the most amazing little peice of machinery I have owned outside of the Iphone .	O O O O O O O O O O O O O O O O O O	DT NN VBZ DT RBS JJ JJ NN IN NN PRP VBP VBN IN IN DT NNP .
+Another THREE weeks later I had my laptop back with a new mousepad , keys , and casing .	O O O O O O O O O O O O B-AS O B-AS O O B-AS O	DT CD NNS RB PRP VBD PRP$ NN RB IN DT JJ NN , NNS , CC NN .
+might have to buy one for me now , since I use it all the time .	O O O O O O O O O O O O O O O O O	MD VB TO VB CD IN PRP RB , IN PRP VBP PRP PDT DT NN .
+But , for the cost this is a winner .	O O O O B-AS O O O O O	CC , IN DT NN DT VBZ DT NN .
+What a waste of time it was to run a Defrag on the PC !	O O O O O O O O O O O O O O O	WP DT NN IN NN PRP VBD TO VB DT NNP IN DT NN .
+I think the manual is somewhere on the hard drive , but I rather have a hard copy .	O O O B-AS O O O O B-AS I-AS O O O O O O O O O	PRP VBP DT NN VBZ RB IN DT JJ NN , CC PRP RB VBP DT JJ NN .
+The keyboard , which generally felt okay even for someone used to a desktop keyboard , now looks terrible .	O B-AS O O O O O O O O O O O B-AS I-AS O O O O O	DT NN , WDT RB VBD JJ RB IN NN VBN TO DT NN NN , RB VBZ JJ .
+I love how easy every thing is to do on my Apple products .	O O O O O O O O O O O O O O	PRP VBP WRB JJ DT NN VBZ TO VB IN PRP$ NNP NNS .
+Easy learning curve .	O O O O	NNP VBG NN .
+the last time we took it to get fixed the guy said that most likely it is a reppative problem and will keep happeneing so hopefully we can get a new one very soon !	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT JJ NN PRP VBD PRP TO VB VBN DT NN VBD IN JJS JJ PRP VBZ DT JJ NN CC MD VB VBG RB RB PRP MD VB DT JJ CD RB RB .
+They removed them and returned the computer to me .	O O O O O O O O O O	PRP VBD PRP CC VBD DT NN TO PRP .
+-LRB- No problem with the ordering or shipping by the way .	O O O O O O O B-AS O O O O	-LRB- DT NN IN DT VBG CC VBG IN DT NN .
+Microsoft word was not on it andI had to buy it seperately .	B-AS I-AS O O O O O O O O O O O	NNP NN VBD RB IN PRP NN VBD TO VB PRP RB .
+I highly recommend that you buy this product .	O O O O O O O O O	PRP RB VBP IN PRP VBP DT NN .
+Then it ceased charging at all .	O O O B-AS O O O	RB PRP VBD VBG IN DT .
+The screen resolution was exactly what I was looking for .	O B-AS I-AS O O O O O O O O	DT NN NN VBD RB WP PRP VBD VBG IN .
+Being a PC user my whole life ...	O O O O O O O O	VBG DT NN NN PRP$ JJ NN :
+First the screen goes completely out .	O O B-AS O O O O	RB DT NN VBZ RB RB .
+I respond that I do not have the old computer ...	O O O O O O O O O O O	PRP VBP IN PRP VBP RB VB DT JJ NN :
+The laptop was very easy to set up .	O O O O O O B-AS I-AS O	DT NN VBD RB JJ TO VB RP .
+Better stick with another brand .	O O O O O O	RBR VB IN DT NN .
+I fine Apple MC373LL/A 2.66 GHz 15 '' Macboook Pro Notebook meets all my needs for a laptop computer when on the go .	O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP NNP NNP CD NNP CD '' NNP FW NNP VBZ DT PRP$ NNS IN DT JJ NN WRB IN DT NN .
+Finally , the biggest problem has been tech support .	O O O O O O O B-AS I-AS O	RB , DT JJS NN VBZ VBN NN NN .
+After having two PC laptops die with in the past 3 years , I was led to the Apple display at Best Buy by the sleek design and promise of less tech issues .	O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O B-AS I-AS O	IN VBG CD NN NNS VBP IN IN DT JJ CD NNS , PRP VBD VBN TO DT NNP NN IN JJS JJ IN DT JJ NN CC NN IN JJR NN NNS .
+They are closed at 9pm eastern .	O O O O O O O	PRP VBP VBN IN JJ JJ .
+Finally , I should note that I took the 2GB RAM stick from my old EeePC and installed it before I even powered on for the first time .	O O O O O O O O O B-AS I-AS I-AS O O O O O O O O O O O O O O O O O	RB , PRP MD VB IN PRP VBD DT NN NNP NN IN PRP$ JJ NN CC VBN PRP IN PRP RB VBD IN IN DT JJ NN .
+Which is what I did , check out my ACER 5517 !	O O O O O O O O O O O O	WDT VBZ WP PRP VBD , VB RP PRP$ NNP CD .
+They really do have the worlds very worst repair service .	O O O O O O O O B-AS I-AS O	PRP RB VBP VB DT NNS RB JJS NN NN .
+Excellent LED monitor and well equipped .	O B-AS I-AS O O O O	JJ NN NN CC RB VBN .
+It was a huge monstrosity of a Laptop !	O O O O O O O O O	PRP VBD DT JJ NN IN DT NN .
+It took me a while top get away from the land of PCs , but now that I have , I ca n't see myself going back to it .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD PRP DT NN NN VB RB IN DT NN IN NNS , CC RB IN PRP VBP , PRP MD RB VB PRP VBG RB TO PRP .
+they have done absolutely nothing to fix the computer problem .	O O O O O O O O O O O	PRP VBP VBN RB NN TO VB DT NN NN .
+I can barely use any usb devices because they will not stay connected properly .	O O O O O B-AS I-AS O O O O O O O O	PRP MD RB VB DT NN NNS IN PRP MD RB VB JJ RB .
+Basic computer .	O O O	JJ NN .
+I have had a Mac for 6 years and wo n't go back to PC .	O O O O O O O O O O O O O O O O	PRP VBP VBD DT NNP IN CD NNS CC MD RB VB RB TO NN .
+But , buy this model and just purchase 4GB of RAM -LRB- 2x2GB for $ 92 or 1x4GB for $ 99 -RRB- , and save yourself $ 100 than the other model with 8GB of RAM .	O O O O O O O O B-AS I-AS I-AS O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS I-AS O	CC , VB DT NN CC RB NN NN IN NNP -LRB- NNP IN $ CD CC NN IN $ CD -RRB- , CC VB PRP $ CD IN DT JJ NN IN NN IN NNP .
+One more tip , please purchase this model and get a 4GB stick of RAM to save you $ 10	O O O O O O O O O O O B-AS I-AS I-AS I-AS O O O O O	CD JJR NN , VB NN DT NN CC VB DT NN NN IN NNP TO VB PRP $ CD
+i 'm returning mine	O O O O	LS VBP VBG NN
+Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers .	O B-AS O O O O B-AS O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O	JJ NN IN DT NN VBZ NN IN NN CC DT JJ NN IN DT NN IN NN DT NN VBZ DT JJ NNS VBZ DT RB JJ NN CC VBZ RB JJ IN NNS .
+I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well .	O O O B-AS O O B-AS O O O O O O O O O O O O B-AS I-AS O O O	PRP VBP DT NNS JJR IN NNP CC PRP MD VB PRP$ NNS TO VB RB JJ IN DT NNP NNS RB RB .
+This laptop rocks -LRB- only wish it could run SolidWorks CAD - which Apple does n't support -RRB- !	O O O O O O O O O O O O O O O O O O O	DT NN NNS -LRB- RB VB PRP MD VB NNP NNP : WDT NNP VBZ RB NN -RRB- .
+They don t translate from a Mac , even on Word , resulting in a ton of run-on sentences .	O O O O O O O O O O B-AS O O O O O O O O O	PRP VBP NN VB IN DT NNP , RB IN NN , VBG IN DT NN IN JJ NNS .
+The Unibody construction is solid , sleek and beautiful .	O B-AS I-AS O O O O O O O	DT JJ NN VBZ JJ , JJ CC JJ .
+Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another , and I am not kidding you , I called different hours of the day and you 'll get someone else from another country trying to get you to tell them your life story all over again , since they make it sound like they do n't have your history list of your calls right in front of them .	B-AS I-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	NNP NN NNS MD RB VB IN PRP$ NNS IN RB VBG PRP IN CD NN TO DT , CC PRP VBP RB VBG PRP , PRP VBD JJ NNS IN DT NN CC PRP MD VB NN RB IN DT NN VBG TO VB PRP TO VB PRP PRP$ NN NN DT IN RB , IN PRP VBP PRP VB IN PRP VBP RB VB PRP$ NN NN IN PRP$ NNS RB IN NN IN PRP .
+Fan vents to the side , so no cooling pad needed , great feature !	B-AS O O O O O O O B-AS I-AS O O O B-AS O	NN NNS TO DT NN , IN DT NN NN VBN , JJ NN .
+I did have to replace the battery once , but that was only a couple months ago and it 's been working perfect ever since .	O O O O O O B-AS O O O O O O O O O O O O O O O O O O O	PRP VBD VB TO VB DT NN RB , CC DT VBD RB DT NN NNS RB CC PRP VBZ VBN VBG JJ RB IN .
+At first it worked well for a month or so then the system board failed and I send it in to toshiba some complaints and three weeks later I then receive my laptop back only to discover that it still has the same problem so now I have to send it back again to get it fixed again .	O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	IN JJ PRP VBD RB IN DT NN CC RB RB DT NN NN VBD CC PRP VBP PRP IN TO VB DT NNS CC CD NNS RB PRP RB VBP PRP$ NN RB RB TO VB IN PRP RB VBZ DT JJ NN RB RB PRP VBP TO VB PRP RB RB TO VB PRP VBN RB .
+The right speaker did not work .	O B-AS I-AS O O O O	DT JJ NN VBD RB VB .
+Just what the doctor ordered .	O O O O O O	RB WP DT NN VBN .
+The first one sent : Touchpad did n't work The second sent : USB did n't work The third sent : Touchpad did n't work The fourth sent : Has n't arrived yet .	O O O O O B-AS O O O O O O O B-AS O O O O O O O B-AS O O O O O O O O O O O O	DT JJ CD VBN : NNP VBD RB VB DT JJ VBN : JJ VBD RB VB DT JJ VBN : NNP VBD RB VB DT JJ VBN : VBZ RB VBN RB .
+I investigated netbooks and saw the Toshiba NB305-N410BL .	O O O O O O O O O	PRP VBD NNS CC VBD DT NNP NN .
+-LRB- For those old enough to remember , it is similar to Beta versus VHS .	O O O O O O O O O O O O O O O O	-LRB- IN DT JJ JJ TO VB , PRP VBZ JJ TO NN CC NNP .
+Shiny This Laptop is the Best of the best !	O O O O O O O O O O	NNP DT NN VBZ DT JJS IN DT JJS .
+- Stay away from Apple , or hope you laptop does not break down .	O O O O O O O O O O O O O O O	: NNP RB IN NNP , CC VB PRP NN VBZ RB VB RP .
+I regret buying it before understanding how awful it is to use .	O O O O O O O O O O O B-AS O	PRP VBP VBG PRP IN VBG WRB JJ PRP VBZ TO VB .
+I have never had to shut down the computer unexpectedly and the computer has never froze on me .	O O O O O O O O O O O O O O O O O O O	PRP VBP RB VBN TO VB RP DT NN RB CC DT NN VBZ RB VBN IN PRP .
+May be better for the occasional web surfer .	O O O O O O O O O	MD VB RBR IN DT JJ NN NN .
+We figure that after everything HIS pc actually ended up costing $ 350 more than my original Mac .	O O O O O O O O O O B-AS O O O O O O O O	PRP VBP IN IN NN PRP$ NN RB VBD RP VBG $ CD JJR IN PRP$ JJ NNP .
+It may take a little getting used to but you do n't have to worry about viruses or other headaches .	O O O O O O O O O O O O O O O O O O O O O	PRP MD VB DT JJ VBG VBN TO CC PRP VBP RB VB TO VB IN NNS CC JJ NNS .
+- got it back 3 months later	O O O O O O O	: VBD PRP RB CD NNS RB
+This is a great laptop and I would recommend it to anyone .	O O O O O O O O O O O O O	DT VBZ DT JJ NN CC PRP MD VB PRP TO NN .
+The speed gives you the power to work on these projects seamlessly , and multiple at a time if you sowish .	O B-AS O O O O O O O O O O O O O O O O O O O O	DT NN VBZ PRP DT NN TO VB IN DT NNS RB , CC JJ IN DT NN IN PRP VBP .
+The keyboard has a wonderful nature feel .	O B-AS O O O O O O	DT NN VBZ DT JJ NN NN .
+A tip for people looking into this computer : DO NOT BUY IT save up a bit more money and buy a computer that will last .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN IN NNS VBG IN DT NN : NNP NNP NNP NNP VB RP DT NN JJR NN CC VB DT NN WDT MD VB .
+it has times were it freezes for 10 seconds and then starts again .	O O O O O O O O O O O O O O	PRP VBZ NNS VBD PRP VBZ IN CD NNS CC RB VBZ RB .
+All was well .	O O O O	DT VBD RB .
+If it 's not shipped on the next business day , called on a Friday they are closed on weekends , what was the next step .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	IN PRP VBZ RB VBN IN DT JJ NN NN , VBN IN DT NNP PRP VBP VBN IN NNS , WP VBD DT JJ NN .
+Here we are another year later and the computer is doing the same thing .	O O O O O O O O O O O O O O O	RB PRP VBP DT NN RB CC DT NN VBZ VBG DT JJ NN .
+I 've had hp desktop for over 4 yrs now and not one days goes by that i do n't regret buying it .	O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBD NN NN IN IN CD NNS RB CC RB CD NNS VBZ IN DT FW VBP RB VB VBG PRP .
+Again , the same problem , the right speaker did not work .	O O O O O O O B-AS I-AS O O O O	RB , DT JJ NN , DT JJ NN VBD RB VB .
+Aside from the trial software and the short battery life , lack of a webcam , its great .	O O O B-AS I-AS O O O B-AS I-AS O O O O B-AS O O O O	RB IN DT NN NN CC DT JJ NN NN , NN IN DT NN , PRP$ JJ .
+My children wo n't even use it for their school work .	O O O O O O O O O O O O	PRP$ NNS MD RB RB VB PRP IN PRP$ NN NN .
+Very satisfied .	O O O	RB JJ .
+I 'm tired of the inept service .	O O O O O O B-AS O	PRP VBP JJ IN DT JJ NN .
+I can render AVCHD movies with little effort , which was a problem for most pc 's unless you had a quad core I7 .	O O O O O O O O O O O O O O O O O O O O O B-AS I-AS I-AS O	PRP MD VB NNP NNS IN JJ NN , WDT VBD DT NN IN JJS NN POS IN PRP VBD DT NN NN NN .
+I have now had it for 1.5 months and love it .	O O O O O O O O O O O O	PRP VBP RB VBN PRP IN CD NNS CC VBP PRP .
+I am ADDICTED to photo booth !	O O O O B-AS I-AS O	PRP VBP VBN TO NN NN .
+I preferred the fit and feel of the 13 inch .	O O O O O O O O B-AS I-AS O	PRP VBD DT NN CC NN IN DT CD NN .
+Also the display is exceptional !	O O B-AS O O O	RB DT NN VBZ JJ .
+Going to bring it to service today .	O O O O O B-AS O O	VBG TO VB PRP TO NN NN .
+Now , the next issue I had freaked me out .	O O O O O O O O O O O	RB , DT JJ NN PRP VBD VBN PRP RP .
+I am now frustrated that I still have to use my work issued Windows laptop !	O O O O O O O O O O O O O O O O	PRP VBP RB JJ IN PRP RB VBP TO VB PRP$ NN VBD NNP NN .
+I had in the past a Dell laptop and they sent me the items it needed or they sent a repair technician to my house to fix it .	O O O O O O O O O O O O O O O O O O O O B-AS I-AS O O O O O O O	PRP VBD IN DT NN DT NNP NN CC PRP VBD PRP DT NNS PRP VBD CC PRP VBD DT NN NN TO PRP$ NN TO VB PRP .
+I chose the iBookG4 , a laptop that is an attractive computer with a large screen big enough to please anyone .	O O O O O O O O O O O O O O O B-AS O O O O O O	PRP VBD DT NN , DT NN WDT VBZ DT JJ NN IN DT JJ NN JJ RB TO VB NN .
+Maybe this is virus related , maybe not , but the computer has locked up many times , and on two occasions , the screen has simply gone black .	O O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O	RB DT VBZ NN JJ , RB RB , CC DT NN VBZ VBN RP JJ NNS , CC IN CD NNS , DT NN VBZ RB VBN JJ .
+When I am next to my router on my HP I get full service , on my Eee PC I get 3 bars .	O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O	WRB PRP VBP JJ TO PRP$ NN IN PRP$ NNP PRP VBP JJ NN , IN PRP$ NN NN PRP VBP CD NNS .
+The screen is gorgeous - yummy good .	O B-AS O O O O O O	DT NN VBZ JJ : JJ JJ .
+I just love my Mac !	O O O O O O	PRP RB VBP PRP$ NNP .
+Small and light weight .	O O O O O	JJ CC JJ NN .
+No machine has come remotely close to causing as many problems .	O O O O O O O O O O O O	DT NN VBZ VBN RB RB TO VBG RB JJ NNS .
+I work with kids and they love making short videos on there .	O O O O O O O O O O O O O	PRP VBP IN NNS CC PRP VBP VBG JJ NNS IN EX .
+I have had this laptop for a few months now and i would say im pretty satisfied .	O O O O O O O O O O O O O O O O O O	PRP VBP VBN DT NN IN DT JJ NNS RB CC FW MD VB NN RB JJ .
+I like it so much , I bought another just for my wife .	O O O O O O O O O O O O O O	PRP VBP PRP RB RB , PRP VBD DT RB IN PRP$ NN .
+Best Buy was great as always and accepted the return and gave me another model 1764 .	O O O O O O O O O O O O O O O O O	JJS VB VBD JJ IN RB CC VBD DT NN CC VBD PRP DT NN CD .
+We love the size of the screen , although it is still lightweight and very easy to tote around .	O O O B-AS I-AS I-AS I-AS O O O O O O O O O O B-AS O O	PRP VBP DT NN IN DT NN , IN PRP VBZ RB JJ CC RB JJ TO VB RP .
+I also got the added bonus of a 30 '' HD Monitor , which really helps to extend my screen and keep my eyes fresh !	O O O O O O O O B-AS I-AS I-AS I-AS O O O O O O O B-AS O O O O O O	PRP RB VBD DT VBN NN IN DT CD '' NN NNP , WDT RB VBZ TO VB PRP$ NN CC VB PRP$ NNS JJ .
+I like to use it at the race track to handiecap the horse races .	O O O O O O O O O O O O O O O	PRP VBP TO VB PRP IN DT NN NN TO VB DT NN NNS .
+Looking to take my video and photo editing to the next level , I decided to purchase the MBP 15in Intel Core i5 after reading consumer reviews as well as professional reviews of this laptop .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	VBG TO VB PRP$ NN CC NN NN TO DT JJ NN , PRP VBD TO VB DT NN CD NNP NNP NN IN VBG NN NNS RB RB IN JJ NNS IN DT NN .
+My ONLY issues are : 1 -RRB- the screen/video resolution wo n't increase to a higher resolution then 1024 x 60	O O O O O O O O B-AS I-AS O O O O O O B-AS O O O O	PRP$ NN NNS VBP : LS -RRB- DT NN NN MD RB VB TO DT JJR NN RB CD CC CD
+Wonderful sleek case design is only on the outside .	O O B-AS I-AS O O O O O O	JJ JJ NN NN VBZ RB IN DT NN .
+Price and purpose is awesome !	B-AS O O O O O	NN CC NN VBZ JJ .
+The Mac Snow Leopard O/S is extremely easy to use , although very different than Win XP , Visa or Win7 .	O B-AS I-AS I-AS I-AS O O O O B-AS O O O O O B-AS I-AS O B-AS O B-AS O	DT NNP NNP NNP NNP VBZ RB JJ TO VB , IN RB JJ IN VB NN , NNP CC NNP .
+I should have realized that trouble was brewing .	O O O O O O O O O	PRP MD VB VBN IN NN VBD NN .
+Keyboard was also very nice and had a solid feel .	B-AS O O O O O O O O O O	NN VBD RB RB JJ CC VBD DT JJ NN .
+Sometimes the screen even goes black on this computer .	O O B-AS O O O O O O O	RB DT NN RB VBZ JJ IN DT NN .
+I am able to organize my pics , music and files easily .	O O O O O O O O O O O O O	PRP VBP JJ TO VB PRP$ NNS , NN CC NNS RB .
+it might be something deep within Windows , for I was unable to create a disk image on my hard drive .	O O O O O O B-AS O O O O O O O O B-AS I-AS O O B-AS I-AS O	PRP MD VB NN JJ IN NNP , IN PRP VBD JJ TO VB DT NN NN IN PRP$ JJ NN .
+* 6th week * - They are not responding to my emails asking when they expect to dispatch the new unit ...	O O O O O O O O O O O O O O O O O O O O O O	SYM JJ NN SYM : PRP VBP RB VBG TO PRP$ NNS VBG WRB PRP VBP TO VB DT JJ NN :
+After paying over $ 1000 for this computer , it was not worth it .	O O O O O O O O O O O O O O O	IN VBG IN $ CD IN DT NN , PRP VBD RB JJ PRP .
+So , you can imagine how unhappy I am with this item .	O O O O O O O O O O O O O	RB , PRP MD VB WRB JJ PRP VBP IN DT NN .
+it was shooting sparks !	O O O O O	PRP VBD VBG VBZ .
+I love it !	O O O O	PRP VBP PRP .
+It 's applications are terrific , including the replacements for Microsoft office .	O O B-AS O O O O O O O B-AS I-AS O	PRP VBZ NNS VBP JJ , VBG DT NNS IN NNP NN .
+So this was great for me .	O O O O O O O	RB DT VBD JJ IN PRP .
+Also kinda loud when the fan was running .	O O O O O B-AS O O O	RB RB JJ WRB DT NN VBD VBG .
+I reloaded with Windows 7 Ultimate , and the Bluetooth and Fingerprint reader -LRB- software -RRB- would not load .	O O O B-AS I-AS I-AS O O O B-AS O B-AS I-AS O B-AS O O O O O	PRP VBD IN NNP CD NNP , CC DT NNP CC NNP NN -LRB- NN -RRB- MD RB VB .
+It is easy to use , good quality and good price .	O O O O B-AS O O B-AS O O B-AS O	PRP VBZ JJ TO VB , JJ NN CC JJ NN .
+The start menu is not the easiest thing to navigate due to the stacking .	O B-AS I-AS O O O O O O B-AS O O O O O	DT NN NN VBZ RB DT JJS NN TO VB JJ TO DT VBG .
+- No backlit keyboard , but not an issue for me .	O O O B-AS O O O O O O O O	: UH JJ NN , CC RB DT NN IN PRP .
+do a quick search on the internet see if im the only one .	O O O O O O O O O O O O O O	VB DT JJ NN IN DT NN VB IN NN DT JJ CD .
+I 'm already hooked on the sleek look and dependability that this laptop has shown .	O O O O O O O B-AS O B-AS O O O O O O	PRP VBP RB VBN IN DT JJ NN CC NN IN DT NN VBZ VBN .
+This is now my 3rd MacBook Pro and I really honestly love it !	O O O O O O O O O O O O O O	DT VBZ RB PRP$ JJ NNP FW CC PRP RB RB VB PRP .
+Its not just slow on the internet , its slow in general .	O O O O O O B-AS O O O O O O	PRP$ RB RB VB IN DT NN , PRP$ JJ IN JJ .
+The Toshiba laptop was a great purchase .	O O O O O O O O	DT NNP NN VBD DT JJ NN .
+- Stay away from MacHouse Amsterdam .	O O O O O O O	: NNP RB IN NNP NNP .
+I had it four months when my disc drive refused to open .	O O O O O O O B-AS I-AS O O O O	PRP VBD PRP CD NNS WRB PRP$ NN NN VBD TO VB .
+and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself .	O O O O O O O O B-AS I-AS O O B-AS I-AS O O O O O O O O	CC PRP VBD DT JJ JJ JJ JJ NN NN IN DT NN NN WDT VBD JJR IN DT NN PRP .
+Both computers started acting extremely slow within the first year of owning them .	O O O O O O O O O O O O O O	DT NNS VBD VBG RB JJ IN DT JJ NN IN VBG PRP .
+The AMD Turin processor seems to always perform so much better than Intel .	O B-AS I-AS I-AS O O O O O O O O B-AS O	DT NNP NNP NN VBZ TO RB VB RB RB JJR IN NNP .
+I looked around and based off my price / features comparison from a brand I trusted I landed here .	O O O O O O O B-AS O B-AS O O O O O O O O O O	PRP VBD RB CC VBN IN PRP$ NN : NNS NN IN DT NN PRP VBD PRP VBD RB .
+Otherwise this little notebook has met all my expectations .	O O O O O O O O O O	RB DT JJ NN VBZ VBN DT PRP$ NNS .
+So , buyers beware !	O O O O O	RB , NNS VBP .
+In my house , HP is a nasty word .	O O O O O O O O O O	IN PRP$ NN , NNP VBZ DT JJ NN .
+I take it everywhere with me because it 's so easy to carry .	O O O O O O O O O O O O B-AS O	PRP VBP PRP RB IN PRP IN PRP VBZ RB JJ TO VB .
+One of the primary reasons why I purchased an IPad was to store photographs so that I could show to my customers .	O O O O O O O O O O O O O O O O O O O O O O O	CD IN DT JJ NNS WRB PRP VBD DT NN VBD TO VB NNS IN IN PRP MD VB TO PRP$ NNS .
+It works really well .	O B-AS O O O	PRP VBZ RB RB .
+I needed a new computer for graduate school -LRB- had never owned a laptop before -RRB- , and the only reason I did n't purchase a Mac was because my school 's website strongly recommended students purchase PCs .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBD DT JJ NN IN JJ NN -LRB- VBD RB VBN DT NN IN -RRB- , CC DT JJ NN PRP VBD RB VB DT NN VBD IN PRP$ NN POS NN RB VBD NNS VB NNS .
+With today 's company fighting over marketshare , its a shame that ASUS can get away with the inept staff answering thephone .	O O O O O O O O O O O O O O O O O O O B-AS O O O	IN NN POS NN VBG IN NN , PRP$ DT NN WDT NNP MD VB RB IN DT JJ NN NN RB .
+I bought my first MacBook after seeing the product demonstrated .	O O O O O O O O O O O	PRP VBD PRP$ JJ NNP IN VBG DT NN VBD .
+It 's also very capable of doing moderate video editing -LRB- although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing -RRB- .	O O O O O O O O B-AS I-AS O O O O O O B-AS O O O O O O O O O B-AS I-AS I-AS O O	PRP VBZ RB RB JJ IN VBG JJ NN NN -LRB- IN PRP MD VB DT NN NN IN DT JJR NNP NNS IN JJ NN JJ NN NN -RRB- .
+dell is a decently made pc .	O O O O O O O	NN VBZ DT RB VBN NN .
+It is held in place magnetically .	O O O O O O O	PRP VBZ VBN IN NN RB .
+i tried turning it done but it did nothing .	O O O O O O O O O O	LS VBD VBG PRP VBN CC PRP VBD NN .
+Hope this helps !	O O O O	NNP DT VBZ .
+Toshiba knows there is a manufacturing defect but will not acknowledge it .	O O O O O O O O O O O O O	NNP VBZ EX VBZ DT NN NN CC MD RB VB PRP .
+Even so , I like playing online games , so it was wonderful that there is a feature where I can dualboot Windows .	O O O O O O O B-AS O O O O O O O O O B-AS O O O O B-AS O	RB RB , PRP VBP VBG JJ NNS , IN PRP VBD JJ IN EX VBZ DT NN WRB PRP MD VB NNP .
+- they lost my laptop for a month	O O O O O O O O	: PRP VBD PRP$ NN IN DT NN
+The computer did what it was NOT supposed to do , and I did n't know what to do ...	O O O O O O O O O O O O O O O O O O O O	DT NN VBD WP PRP VBD NNP VBN TO VB , CC PRP VBD RB VB WP TO VB :
+And the warranty on this macbook pro can last up to 5 years or 1000 battery recharge cycles .	O O B-AS O O O O O O O O O O O O O O O O	CC DT NN IN DT NN NN MD VB RP TO CD NNS CC CD NN NN NNS .
+Would HIGHLY recommend this netbook though .	O O O O O O O	MD RB VB DT NN IN .
+taking notes , research , an online class and such and did n't want to spend too much on my first machine .	O O O O O O O O O O O O O O O O O O O O O O O	VBG NNS , NN , DT JJ NN CC JJ CC VBD RB VB TO VB RB JJ IN PRP$ JJ NN .
+If you do n't like fingerprints , this might not be the laptop for you .	O O O O O O O O O O O O O O O O	IN PRP VBP RB VB NNS , DT MD RB VB DT NN IN PRP .
+Tech support tells me the latter problem is a power supply problem and have offered to fix it if it happens again .	B-AS I-AS O O O O O O O B-AS I-AS O O O O O O O O O O O O	NNP NN VBZ PRP DT JJ NN VBZ DT NN NN NN CC VBP VBN TO VB PRP IN PRP VBZ RB .
+So you do n't get frustrated the first few weeks .	O O O O O O O O O O O	IN PRP VBP RB VB VBN DT JJ JJ NNS .
+The ease of set up was terrific .	O O O B-AS I-AS O O O	DT NN IN VBN RP VBD JJ .
+I have used both PCs and Macs and I have to say that I really really love my Mac Book Pro .	O O O O O O O O O O O O O O O O O O O O O O	PRP VBP VBN DT NNS CC NNS CC PRP VBP TO VB IN PRP RB RB VB PRP$ NNP NNP FW .
+Prior to this computer , I owned a PowerBook G4 for 6 years -LRB- quite a long time for a laptop -RRB- .	O O O O O O O O O O O O O O O O O O O O O O O	RB TO DT NN , PRP VBD DT NNP NN IN CD NNS -LRB- RB DT JJ NN IN DT NN -RRB- .
+This netbook is a perfect supplementary computer to another laptop or desktop -LRB- my wife and I have another laptop -RRB- , or if you are a user who uses the computer for simple tasks .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT NN VBZ DT JJ JJ NN TO DT NN CC NN -LRB- PRP$ NN CC PRP VBP DT NN -RRB- , CC IN PRP VBP DT NN WP VBZ DT NN IN JJ NNS .
+Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba ? Probably not ever again .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O	VBD DT NN JJ PRP$ NN CC NN TO RB VB TO VB DT NNS WDT VBZ NN CC VBG TO VB . RB RB RB RB .
+I have the A65 - right now it 's a paperweight .	O O O O O O O O O O O O	PRP VBP DT NN : RB RB PRP VBZ DT NN .
+The advantages of owning ' a ` mac are numerous .	O O O O O O O O O O O	DT NNS IN VBG '' DT `` NN VBP JJ .
+The powerpoint opened seamlessly in the apple and the mac hooked up to the projector so easily it was almost scary .	O B-AS O O O O O O O O O O O O O O O O O O O O	DT NN VBD RB IN DT NN CC DT NN VBD RP TO DT NN RB RB PRP VBD RB JJ .
+Also , the battery does not last very long at all .	O O O B-AS O O O O O O O O	RB , DT NN VBZ RB JJ RB RB IN DT .
+For example , when my husband turns the light out while I 'm on the computer .	O O O O O O O O O O O O O O O O O	IN NN , WRB PRP$ NN VBZ DT NN IN IN PRP VBP IN DT NN .
+Games being the main issue .	B-AS O O O O O	NNPS VBG DT JJ NN .
+I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter .	O O O O O O O O O O O O O O O O O O O O	PRP MD RB VB DT NN IN DT NN IN NNP NNP CC DT NNP NN IN DT NN .
+I did an internet search and this is a very common problem with this laptop .	O O O O O O O O O O O O O O O O	PRP VBD DT NN NN CC DT VBZ DT RB JJ NN IN DT NN .
+- When battery life went to 4 hours or less , took it to the MacHouse Amsterdam for repair -LRB- 26th of August -RRB- .	O O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O	: WRB NN NN VBD TO CD NNS CC JJR , VBD PRP TO DT NNP NNP IN NN -LRB- JJ IN NNP -RRB- .
+the battery is irreplaceable .	O B-AS O O O	DT NN VBZ JJ .
+A longer battery life would have been great - but it meets it 's spec quite easily .	O O B-AS I-AS O O O O O O O O O O B-AS O O O	DT JJR NN NN MD VB VBN JJ : CC PRP VBZ PRP VBZ JJ RB RB .
+Instead of taking another chance on Toshiba , I went with an Asus G73JH-x3 .	O O O O O O O O O O O O O O O	RB IN VBG DT NN IN NNP , PRP VBD IN DT NNP NN .
+Because it IS a defective product .	O O O O O O O	IN PRP VBZ DT JJ NN .
+Setting would change for some reason , the screen size would change on it 's own , like the pixel sizes and whatnot .	B-AS O O O O O O O B-AS I-AS O O O O O O O O O B-AS I-AS O O O	VBG MD VB IN DT NN , DT NN NN MD VB IN PRP VBZ JJ , IN DT NN NNS CC NN .
+Unless you need the Bluetooth 3 .	O O O O B-AS I-AS O	IN PRP VBP DT NNP CD .
+I love my Samsung TV and Galaxy S smartphone , but this Netbook was a very poor computer .	O O O O O O O O O O O O O O O O O O O	PRP VBP PRP$ NNP NN CC NN NN NN , CC DT NN VBD DT RB JJ NN .
+I decided I wanted a laptop so I went into the BBY store .	O O O O O O O O O O O O O O	PRP VBD PRP VBD DT NN IN PRP VBD IN DT NNP NN .
+Everything is falling apart internally and externally .	O O O O O O O O	NN VBZ VBG RB RB CC RB .
+I returned it to Best Buy on the ninteenth of April .	O O O O O O O O O O O O	PRP VBD PRP TO JJS VB IN DT NN IN NNP .
+Great product .	O O O	JJ NN .
+Now they are believers in the product .	O O O O O O O O	RB PRP VBP NNS IN DT NN .
+We used PC products - it seemed simpler to continue with the same thing .	O O O O O O O O O O O O O O O	PRP VBD NN NNS : PRP VBD JJR TO VB IN DT JJ NN .
+You better believe my next computer will be a MAC !	O O O O O O O O O O O	PRP RB VB PRP$ JJ NN MD VB DT NNP .
+All I will say now is that it was over two grand less expensive and so much better quality than my hunk of crap Vaio .	O O O O O O O O O O O O O O O O O O B-AS O O O O O O O	DT PRP MD VB RB VBZ IN PRP VBD IN CD JJ RBR JJ CC RB RB JJR NN IN PRP$ NN IN NN NNP .
+The computer is so slow , even after paying staples the extra money to speed it up .	O O O O O O O O O O O O O O O O O O	DT NN VBZ RB JJ , RB IN VBG NNS DT JJ NN TO VB PRP RP .
+Wasted me at least 8 hours of installation time .	O O O O O O O B-AS I-AS O	VBN PRP IN JJS CD NNS IN NN NN .
+They are by far the easiest systems to actually learn about computers with .	O O O O O O B-AS O O O O O O O	PRP VBP IN RB DT JJS NNS TO RB VB IN NNS IN .
+I 've had the MacBook Pro 15 for about three weeks , and it really is a great computer .	O O O O O O O O O O O O O O O O O O O O	PRP VBP VBD DT NNP FW CD IN IN CD NNS , CC PRP RB VBZ DT JJ NN .
+It caught a virus that completely wiped out my hard drive in a matter of hours .	O O O O O O O O O B-AS I-AS O O O O O O	PRP VBD DT NN WDT RB VBD RP PRP$ JJ NN IN DT NN IN NNS .
+Received the product promptly and without any issues .	O O O O O O O O O	VBN DT NN RB CC IN DT NNS .
+Numerous problems over the next 3 weeks until I got the blue screen of death and had to send the PC back to HP .	O O O O O O O O O O O O O O O O O O O O O O O O O	JJ NNS IN DT JJ CD NNS IN PRP VBD DT JJ NN IN NN CC VBD TO VB DT NN RB TO NNP .
+Temperatures on the outside were alright but i did not track in Core Processing Unit temperatures .	B-AS O O O O O O O O O O O B-AS I-AS I-AS I-AS O	NNS IN DT JJ VBD JJ CC FW VBD RB VB IN NNP NNP NNP NNS .
+Oh , boy !	O O O O	UH , NN .
+got another 1 , and same issue .	O O O O O O O O	VBD DT CD , CC JJ NN .
+If you have any creativity in you do yourself a favor and get a mac !	O O O O O O O O O O O O O O O O	IN PRP VBP DT NN IN PRP VBP PRP DT NN CC VB DT NN .
+Its pretty fast and does not have hiccups while I am using it for web browsing , uploading photos , watching movies -LRB- 720p -RRB- on occasion and creating presentations .	O O O O O O O O O O O O O O B-AS I-AS O B-AS I-AS O B-AS I-AS O O O O O O B-AS I-AS O	PRP$ JJ JJ CC VBZ RB VB NNS IN PRP VBP VBG PRP IN NN NN , VBG NNS , VBG NNS -LRB- NN -RRB- IN NN CC VBG NNS .
+I 'm hoping that I can find a really quick way to clean it without it getting too gross .	O O O O O O O O O O O O O O O O O O O O	PRP VBP VBG IN PRP MD VB DT RB JJ NN TO VB PRP IN PRP VBG RB JJ .
+Good monitor and performed well .	O B-AS O B-AS O O	JJ NN CC VBN RB .
+Will certainly use MacConnection again .	O O O O O O	MD RB VB NNP RB .
+They have more problems then a 1980 's computer .	O O O O O O O O O O	PRP VBP RBR NNS RB DT CD POS NN .
+Avoid this model .	O O O O	VB DT NN .
+It pretty much does everything we could ever need , and looks great to boot .	O O O O O O O O O O O O O O B-AS O	PRP RB RB VBZ NN PRP MD RB VB , CC VBZ JJ TO NN .
+The screen is bright and clear , the operating system is solid and friendly to a novice .	O B-AS O O O O O O B-AS I-AS O O O O O O O O	DT NN VBZ JJ CC JJ , DT NN NN VBZ JJ CC JJ TO DT NN .
+Spent 2 hours on phone with HP Technical Support .	O O O O O O B-AS I-AS I-AS O	NN CD NNS IN NN IN NNP NNP NN .
+I ` have had it for about a 1 1/2 and yes I have had an issue with it one month out of warranty .	O O O O O O O O O O O O O O O O O O O O O O O B-AS O	PRP `` VBP VBN PRP IN IN DT CD CD CC UH PRP VBP VBD DT NN IN PRP CD NN IN IN NN .
+Almost 4 years ago I bought what was then the current , up to date HP Pavilion -- If I recall correctly , it was the dv 1300 t.	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	RB CD NNS IN PRP VBD WP VBD RB DT JJ , IN TO NN NNP NNP : IN PRP VBP RB , PRP VBD DT NN CD NN
+I got what I paid for .	O O O O O O O	PRP VBD WP PRP VBD IN .
+The 17 in Macbook Pro has been a wonderful addition .	O O O O O O O O O O O	DT CD IN NNP FW VBZ VBN DT JJ NN .
+Yet , HP wo n't do anything about the problem .	O O O O O O O O O O O	RB , NNP MD RB VB NN IN DT NN .
+Easy to carry , can be taken anywhere , can be hooked up to printers , headsets .	O O B-AS O O O O O O O O O O O O O O O	NNP TO VB , MD VB VBN RB , MD VB VBN RP TO NNS , NNS .
+Delivery was early too .	B-AS O O O O	NN VBD RB RB .
+But the arm velcro is torn after one use .	O O B-AS I-AS O O O O O O	CC DT NN NN VBZ VBN IN CD NN .
+The video chat is the only thing that is iffy about it but im sure once they unpdate the next version on the macbook book the quality of it will be better .	O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O	DT NN NN VBZ DT JJ NN WDT VBZ JJ IN PRP CC VBP JJ IN PRP VBP DT JJ NN IN DT NN NN DT NN IN PRP MD VB RBR .
+they improved nothing else such as Resolution , appearance , cooling system , graphics card , etc. .	O O O O O O B-AS O B-AS O B-AS I-AS O B-AS I-AS O O O	PRP VBD NN RB JJ IN NNP , NN , VBG NN , NNS NN , FW .
+Now 17 months later they want -LRB- would not say exact amount -RRB- $ 165.00 to $ 400 to fix the machine .	O O O O O O O O O O O O O O O O O O O O O O O	RB CD NNS RB PRP VBP -LRB- MD RB VB JJ NN -RRB- $ CD TO $ CD TO VB DT NN .
+This is great if you have several lectures back to back and do n't have a chance to charge during one of the lectures .	O O O O O O O O O O O O O O O O O O B-AS O O O O O O	DT VBZ JJ IN PRP VBP JJ VBZ RB TO RB CC VBP RB VB DT NN TO VB IN CD IN DT VBZ .
+I would tell the technician I knew exactly what was wrong with it but they did not listen and I had to go through a bunch of junk to get them to tell me I needed to send the computer in .	O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP MD VB DT NN PRP VBD RB WP VBD JJ IN PRP CC PRP VBD RB VB CC PRP VBD TO VB IN DT NN IN NN TO VB PRP TO VB PRP PRP VBD TO VB DT NN IN .
+After paying several hundred dollars for this service , it is frustrating that you can not get help after hours .	O O O O O O O B-AS O O O O O O O O O O O O O	IN VBG JJ CD NNS IN DT NN , PRP VBZ VBG IN PRP MD RB VB VB IN NNS .
+Everything was up and running within 15 minutes of unboxing .	O O O O O O O O O O O	NN VBD RB CC VBG IN CD NNS IN NN .
+THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT .	O O O O O O O O O O O O	NNP VBZ NNP NNP NNP NNP NNP NNP NNP NNP NNP .
+Should be there by the end of the week -LRB- again ... -RRB- .	O O O O O O O O O O O O O O	MD VB RB IN DT NN IN DT NN -LRB- RB : -RRB- .
+The computer runs very fast with no problems and the iLife software that comes with it -LRB- iPhoto , iMovie , iWeb , iTunes , GarageBand -RRB- is all very helpful as well .	O O B-AS O O O O O O O B-AS I-AS O O O O O B-AS O B-AS O B-AS O B-AS O B-AS O O O O O O O O	DT NN VBZ RB RB IN DT NNS CC DT NNP NN WDT VBZ IN PRP -LRB- NNP , NNP , NNP , NNP , NNP -RRB- VBZ DT RB JJ RB RB .
+Sorry , newegg .	O O O O	JJ , NN .
+3 weeks went by and the computer keeps crashing and will not open any applications .	O O O O O O O O O O O O O O B-AS O	CD NNS VBD IN CC DT NN VBZ VBG CC MD RB VB DT NNS .
+The internet was locekd and froze every time it was trying to be used , and the command prompt would not work at all .	O B-AS O O O O O O O O O O O O O O O B-AS I-AS O O O O O O	DT NN VBD JJ CC VBD DT NN PRP VBD VBG TO VB VBN , CC DT NN VBP MD RB VB IN DT .
+I have never had an experience like this .	O O O O O O O O O	PRP VBP RB VBN DT NN IN DT .
+My power supply cord developed exposed wires within the first year of ownership , so it was covered by the Applecare warranty plan .	O B-AS I-AS I-AS O O O O O O O O O O O O O O O O B-AS I-AS I-AS O	PRP$ NN NN NN VBD VBN NNS IN DT JJ NN IN NN , IN PRP VBD VBN IN DT JJ NN NN .
+As a user of a PC , I will will admit that the macBook Pro has a better running system in which I found myself `` Getting the job done quicker .	O O O O O O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O	IN DT NN IN DT NN , PRP MD MD VB IN DT NNP FW VBZ DT RBR JJ NN IN WDT PRP VBD PRP `` VBG DT NN VBN JJR .
+I can guarantee this will be the last Dell I will ever purchase !	O O O O O O O O O O O O O O	PRP MD VB DT MD VB DT JJ NNP PRP MD RB VB .
+Stupidly , mind-numbingly slow -- then I found it can only be loaded with 2GB * maximum * .	O O O O O O O O O O O O O O O O O O O	RB , RB JJ : RB PRP VBD PRP MD RB VB VBN IN NN SYM NN NN .
+I absolutely love my mac !	O O O O O O	PRP RB VBP PRP$ NN .
+Right size and weight for portability .	O B-AS O B-AS O B-AS O	RB NN CC NN IN NN .
+It 's fast and has excellent battery life .	O O O O O O B-AS I-AS O	PRP VBZ JJ CC VBZ JJ NN NN .
+The first fell apart right after the 1-year-warranty .	O O O O O O O B-AS O	DT JJ VBD RB RB IN DT JJ .
+The great 18 month same as cash financing and Advance Protection Plan which includes accidents like spills .	O O O O O O O O O O O O O O O O O O	DT JJ CD NN JJ IN NN NN CC NNP NNP NNP WDT VBZ NNS IN NNS .
+I was given a Mac as a birthday present and could n't be happier with it 3 years later .	O O O O O O O O O O O O O O O O O O O O	PRP VBD VBN DT NNP IN DT NN JJ CC MD RB VB JJR IN PRP CD NNS RB .
+IT IS TRASH !	O O O O	PRP VBZ NN .
+Seriously considering a larger laptop to replace the Dell	O O O O O O O O O	RB VBG DT JJR NN TO VB DT NNP
+Obviously we both got new Macs .	O O O O O O O	RB PRP DT VBD JJ NNS .
+A mac is very easy to use and it simply makes sense .	O O O O O O B-AS O O O O O O	DT NN VBZ RB JJ TO VB CC PRP RB VBZ NN .
+But I was wrong .	O O O O O	CC PRP VBD JJ .
+Wonderful zooming .	O B-AS O	JJ NN .
+It was always getting froze up .	O O O O O O O	PRP VBD RB VBG VBD RP .
+I had 3 months when the ports started going out .	O O O O O O B-AS O O O O	PRP VBD CD NNS WRB DT NNS VBD VBG RP .
+Maximum sound is n't nearly as loud as it should be .	B-AS I-AS O O O O O O O O O O	NNP NN VBZ RB RB RB JJ IN PRP MD VB .
+Seems like maybe a bad shipment from Toshiba .	O O O O O B-AS O O O	VBZ IN RB DT JJ NN IN NNP .
+1 . You can not change your desktop background -LRB- window 's 7 starter does NOT support that function -RRB- .	O O O O O O O B-AS I-AS O B-AS I-AS I-AS I-AS O O O O B-AS O O	LS . PRP MD RB VB PRP$ NN NN -LRB- NN POS CD JJ VBZ NNP NN WDT VBP -RRB- .
+I bought this notebook and only had it for 3 months If it is overload with updates the BOOT MGR .	O O O O O O O O O O O O O O O O O O B-AS I-AS O	PRP VBD DT NN CC RB VBD PRP IN CD NNS IN PRP VBZ NN IN NNS DT NNP NNP .
+I took the computer back in yet again except this time they kept it to send into their Geek Squad headquarters .	O O O O O O O O O O O O O O O O O O O O O O	PRP VBD DT NN RB IN RB RB IN DT NN PRP VBD PRP TO VB IN PRP$ NNP NNP NN .
+It is meant to be PORTABLE .	O O O O O O O	PRP VBZ VBN TO VB NN .
+I should have been more observant .	O O O O O O O	PRP MD VB VBN RBR JJ .
+Thank God for `` ctrl Z `` Bottom line , I 've been using laptops since the mid 90s and probably the majority of brands out there .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O	VB NNP IN `` NN NN `` NNP NN , PRP VBP VBN VBG NNS IN DT JJ NNS CC RB DT NN IN NNS IN RB .
+Enjoy your sitdown	O O O	VB PRP$ NN
+Finally was able to reach a young lady in California and ordered the machine and was subsequently given a delivery date .	O O O O O O O O O O O O O O O O O O O O O O	RB VBD JJ TO VB DT JJ NN IN NNP CC VBD DT NN CC VBD RB VBN DT NN NN .
+Iphoto is great for adding pictures right to facebook and other social networking sites .	B-AS O O O O O O O O O O O O O O	NNP VBZ JJ IN VBG NNS RB TO NN CC JJ JJ NN NNS .
+I have had nothing but problems since the day I took it out of the box !	O O O O O O O O O O O O O O O O O	PRP VBP VBN NN CC NNS IN DT NN CD VBD PRP IN IN DT NN .
+I wish it had a webcam though , then it would be perfect !	O O O O O B-AS O O O O O O O O	PRP VBP PRP VBD DT NN RB , RB PRP MD VB JJ .
+Pay attention to the specs if you want these options .	O O O O B-AS O O O O O O	VB NN TO DT NNS IN PRP VBP DT NNS .
+When we bought our new HP comouter in Dec. of 2008 , we wanted Windows XP , but were told it would cost an extra $ 159 , so we went with Vista .	O O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O B-AS O	WRB PRP VBD PRP$ JJ NNP NN IN NNP IN CD , PRP VBD NNP NN , CC VBD VBN PRP MD VB DT JJ $ CD , RB PRP VBD IN NNP .
+- Apparently , contactus@euro.apple.com is not a good address to send complaints .	O O O O O O O O O O O O O	: RB , NN VBZ RB DT JJ NN TO VB NNS .
+The downside to this netbook is pretty much the same for any netbook : screen size is not something I 'd stare at for the entire 10-11 hours of battery life five days a week .	O O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O B-AS I-AS O O O O O	DT NN TO DT NN VBZ RB RB DT JJ IN DT NN : NN NN VBZ RB NN PRP MD VB IN IN DT JJ CD NNS IN NN NN CD NNS DT NN .
+The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me -LRB- I prefer it dark -RRB- or if you can crank up the brightness .	O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O	DT NN IN DT NN VBZ RB DT JJ NN IN PRP VBP IN DT JJ NN IN PRP -LRB- PRP VBP PRP JJ -RRB- CC IN PRP MD VB RP DT NN .
+This netbook went bad on me after 3 days .	O O O O O O O O O O	DT NN VBD JJ IN PRP IN CD NNS .
+It rarely works and when it does it 's incredibly slow .	O O B-AS O O O O O O O O O	PRP RB VBZ CC WRB PRP VBZ PRP VBZ RB JJ .
+After doing CAD work all day at work , using a higher end PC , I could n't come home and settle for the use of a lower end computer .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	IN VBG NN NN DT NN IN NN , VBG DT JJR NN NN , PRP MD RB VB NN CC VB IN DT NN IN DT JJR NN NN .
+while it was barely a bargin in the begining , i would never purchase another dell and would not recomend the dell brand to others .	O O O O O O O O O O O O O O O O O O O O O O O O O O	IN PRP VBD RB DT NN IN DT NN , FW MD RB VB DT NN CC MD RB VB DT NN NN TO NNS .
+Some features arent friendly -LRB- volume wheel , sound quality , etc. .	O B-AS O O O B-AS I-AS O B-AS I-AS O O O	DT NNS JJ JJ -LRB- NN NN , JJ NN , FW .
+No temporary replacement , they are out of replacements because `` many computers had problems with the Nvidia chipset '' - Inquired status of repair .	O O O O O O O O O O O O O O O O O B-AS I-AS O O O O O O O	DT JJ NN , PRP VBP IN IN NNS IN `` JJ NNS VBD NNS IN DT NNP NN '' : VBN NN IN NN .
+I only used it to browse the internet and and I dont know how many times it has spontaniously shut down and it is just a blank screen now .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP RB VBD PRP TO VB DT NN CC CC PRP VBP VB WRB JJ NNS PRP VBZ JJ VBN RB CC PRP VBZ RB DT JJ NN RB .
+If this is an improvement in Customer Service then I would hate too see what it was before !	O O O O O O B-AS I-AS O O O O O O O O O O O	IN DT VBZ DT NN IN NN NNP RB PRP MD VB RB VB WP PRP VBD RB .
+Took a while to clean it up to my specs .	O O O O O O O O O O O	VBD DT NN TO VB PRP RP TO PRP$ NNS .
+I really do n't like it , but I am stuck .	O O O O O O O O O O O O	PRP RB VBP RB VB PRP , CC PRP VBP VBN .
+I could have purchased a cheap computer to do what I 'm doing now !	O O O O O O O O O O O O O O O	PRP MD VB VBN DT JJ NN TO VB WP PRP VBP VBG RB .
+But as time went on I found it almost impossible to keep the thing on-line through wi-fi .	O O O O O O O O O O O O O O O O O O	CC IN NN VBD IN PRP VBD PRP RB JJ TO VB DT NN JJ IN NNS .
+But the screen size is not that bad for email and web browsing .	O O B-AS I-AS O O O O O O O B-AS I-AS O	CC DT NN NN VBZ RB IN JJ IN NN CC NN NN .
+cosmetically , the only thing they changed was 2 of the Function keys at the top .	O O O O O O O O O O O B-AS I-AS O O O O	RB , DT JJ NN PRP VBD VBD CD IN DT NN NNS IN DT NN .
+The hard drive crashed as well , and I had to buy a new power cord .	O B-AS I-AS O O O O O O O O O O O B-AS I-AS O	DT JJ NN VBD RB RB , CC PRP VBD TO VB DT JJ NN NN .
+I took the computer into Best Buy where I purchased it and they kept it over night to study it .	O O O O O O O O O O O O O O O O O O O O O	PRP VBD DT NN IN NN VB WRB PRP VBD PRP CC PRP VBD PRP IN NN TO VB PRP .
+I do n't really have a complaint .	O O O O O O O O	PRP VBP RB RB VB DT NN .
+Keyboard is reasonable size .	B-AS O O B-AS O	NN VBZ JJ NN .
+even though I had the receipt in front of me proving it still had 2 months left on the warranty .	O O O O O O O O O O O O O O O O O O O B-AS O	RB IN PRP VBD DT NN IN NN IN PRP VBG PRP RB VBD CD NNS VBD IN DT NN .
+I 've have n't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off .	O O O O O O O O O O O O O O B-AS I-AS O O O B-AS I-AS I-AS O O O O O	PRP VBP VBP RB VBD DT JJ NNS IN DT NN IN IN DT NN NN WDT VBZ DT NN NN NNS VBP DT VBN RP .
+:-RRB- In the past four years I 've had it I have never once gotten a virus .	O O O O O O O O O O O O O O O O O O	NN IN DT JJ CD NNS PRP VBP VBD PRP PRP VBP RB RB VBN DT NN .
+Even with virus protection , it always turned off when updates were needed and installed .	O O B-AS I-AS O O O O O O B-AS O O O O O	RB IN NN NN , PRP RB VBD RP WRB NNS VBD VBN CC VBN .
+It allows me to do everything I need from a computer and more .	O O O O O O O O O O O O O O	PRP VBZ PRP TO VB NN PRP VBP IN DT NN CC JJR .
+I was ready to take it back for a refund , but the Geek Squad camed through and pointed me in the right direction to get it fixed .	O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O	PRP VBD JJ TO VB PRP RB IN DT NN , CC DT NNP NNP VBD IN CC VBD PRP IN DT JJ NN TO VB PRP VBN .
+It is as good as new .	O O O O O O O	PRP VBZ RB JJ IN JJ .
+10 plus hours of battery ...	O O O O B-AS O	CD CC NNS IN NN :
+It is extremely user friendly and intuitive .	O O O O O O O O	PRP VBZ RB NN JJ CC JJ .
+Yeah , to you .	O O O O O	UH , TO PRP .
+Apparently well - built and gorgeous to look at , the i5 MacBook Pro is a winning combination of price and performance .	O O O B-AS O O O B-AS O O O O O O O O O O O B-AS O B-AS O	RB RB : VBN CC JJ TO VB IN , DT NN NNP FW VBZ DT VBG NN IN NN CC NN .
+Acer has set me up with FREE recovery discs , when they are available since I asked .	O O O O O O O B-AS I-AS O O O O O O O O O	NNP VBZ VBN PRP RP IN NN NN NNS , WRB PRP VBP JJ IN PRP VBD .
+It 's fast , it 's easy easy easy to set up , easy to hook to my wireless network .	O O O O O O O O O O B-AS I-AS O O O B-AS I-AS I-AS I-AS I-AS O	PRP VBZ RB , PRP VBZ JJ JJ JJ TO VB RP , JJ TO NN TO PRP$ JJ NN .
+Not to mention , the battery life is absolutely amazing .	O O O O O B-AS I-AS O O O O	RB TO VB , DT NN NN VBZ RB JJ .
+The first programm I switched on was a game for my children .	O O B-AS O O O O O O O O O O	DT JJ NN PRP VBD IN VBD DT NN IN PRP$ NNS .
+It is not even a year old yet , so I would definitely not recommend it to anyone .	O O O O O O O O O O O O O O O O O O O	PRP VBZ RB RB DT NN JJ RB , IN PRP MD RB RB VB PRP TO NN .
+I use my friends and family 's $ 2000 laptops and they are fast and reliable and HP , well , I 'll never buy or recommend an HP to anyone !	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP PRP$ NNS CC NN POS $ CD NNS CC PRP VBP JJ CC JJ CC NNP , RB , PRP MD RB VB CC VB DT NNP TO NN .
+For the -LSB- $ -RSB- price -LRB- special offer -RRB- this is a great laptop .	O O O O O B-AS O O O O O O O O O O	IN DT -LRB- $ -RRB- NN -LRB- JJ NN -RRB- DT VBZ DT JJ NN .
+In my opinion it was not as user friendly as I expected either .	O O O O O O O O O O O O O O	IN PRP$ NN PRP VBD RB IN NN JJ IN PRP VBD RB .
+Runs Hot I thought we were paying for quality in our decision to buy an Apple product .	O O O O O O O O B-AS O O O O O O O O O	VBZ NNP PRP VBD PRP VBD VBG IN NN IN PRP$ NN TO VB DT NNP NN .
+I can do everything I could before , only faster and more efficiently .	O O O O O O O O O O O O O O	PRP MD VB NN PRP MD RB , RB RBR CC RBR RB .
+I 'm new - just switched from years of PC frustration .	O O O O O O O O O O O O	PRP VBP JJ : RB VBN IN NNS IN NN NN .
+Just do n't waste your time and money on this .	O O O O O O O O O O O	RB VBP RB VB PRP$ NN CC NN IN DT .
+The newer MacBook that I have purchased is one of the best computers .	O O O O O O O O O O O O O O	DT JJR NNP IN PRP VBP VBN VBZ CD IN DT JJS NNS .
+That 's the downside for me .	O O O O O O O	DT VBZ DT NN IN PRP .
+The only thing I did n't learn in my research was the software I would need like privacy protection and warranty protection , in case it gets broken , or crashes etc. .	O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O	DT JJ NN PRP VBD RB VB IN PRP$ NN VBD DT NN PRP MD VB IN NN NN CC NN NN , IN NN PRP VBZ VBN , CC NNS FW .
+The resolution on the screen is almost pure HD .	O B-AS I-AS I-AS I-AS O O O O O	DT NN IN DT NN VBZ RB JJ NN .
+To list a few : They tend to get hot enough to cause 3rd degree burns , as well as ignite any flamable material if near the part that happens to heat up .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	TO VB DT JJ : PRP VBP TO VB JJ JJ TO VB JJ NN NNS , RB RB IN VB DT JJ NN IN IN DT NN WDT VBZ TO VB RP .
+Heck , I like all Mac computers , but they 're all WAY too pricey for the kind of economy the U.S. is going through .	O O O O O O O O O O O O O O O O O O O O O O O O O O	NN , PRP VBP DT NNP NNS , CC PRP VBP DT NNP RB JJ IN DT NN IN NN DT NNP VBZ VBG RB .
+-RRB- I also tried the touch pad and compared it to other netbooks in the store .	O O O O O B-AS I-AS O O O O O O O O O O	-RRB- PRP RB VBD DT NN NN CC VBN PRP TO JJ NNS IN DT NN .
+i love ths notebook .	O O O O O	LS NN NNS NN .
+After the bad experience with this computer went back to compaq .	O O O O O O O O O O O O	IN DT JJ NN IN DT NN VBD RB TO NN .
+Probably wo n't work either .	O O O O O O	RB MD RB VB RB .
+This computer does n't do that well with certain games it ca n't play some and it becomes too hot while playing games .	O O O O O O O O O B-AS O O O O O O O O O O O O O O	DT NN VBZ RB VB DT RB IN JJ NNS PRP MD RB VB DT CC PRP VBZ RB JJ IN VBG NNS .
+Sony , Acer , Dell , Packard Bell and Toshiba .	O O O O O O O O O O O	NNP , NNP , NNP , NNP NNP CC NNP .
+I would recommend not buying this product .	O O O O O O O O	PRP MD VB RB VBG DT NN .
+I think that if it is the motherboard again so soon that they should replace it .	O O O O O O O B-AS O O O O O O O O O	PRP VBP IN IN PRP VBZ DT NN RB RB RB IN PRP MD VB PRP .
+I do n't like this company nor the toshiba brand , and I 'll never buy another one because I 've put more into it then it is worth .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP RB VB DT NN CC DT NN NN , CC PRP MD RB VB DT NN IN PRP VBP VBN RBR IN PRP RB PRP VBZ JJ .
+Still pretty pricey , but I 've been putting off money for a while as a little Macbook Fund , and finally got to use it .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	RB RB JJ , CC PRP VBP VBN VBG RP NN IN DT NN IN DT JJ NNP NNP , CC RB VBD TO VB PRP .
+I am forever changed and will no longer buy a Windows based machine for personal use .	O O O O O O O O O O B-AS O O O O O O	PRP VBP RB VBN CC MD RB RB VB DT NNP VBN NN IN JJ NN .
+They claim call center is still down .	O O B-AS I-AS O O O O	PRP VBP JJ NN VBZ RB RB .
+I got the first `` Blue screen of death '' in the early part of July .	O O O O O O O O O O O O O O O O O	PRP VBD DT JJ `` NNP NN IN NN '' IN DT JJ NN IN NNP .
+but after i got used to it i love it .	O O O O O O O O O O O	CC IN FW VBD VBN TO PRP FW VBP PRP .
+Apple continues to shine and provide a much more enjoyable computer experience !	O O O O O O O O O O O O O	NNP VBZ TO VB CC VB DT RB RBR JJ NN NN .
+My house is now 100 % Macbook .	O O O O O O O O	PRP$ NN VBZ RB CD NN NNP .
+You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever .	O O O O O O O O O O O O O O O O O O O B-AS I-AS I-AS O O O O O O O O	PRP MD VB PRP DT IN DT JJ NN CC DT JJ NN DT NN VBD VBN IN VBD VBG DT NN CC NN NN NN VBZ PRP RB .
+Also , macbooks come with much more features which are so cool !	O O O O O O O B-AS O O O O O	RB , NNS VBP IN RB JJR NNS WDT VBP RB JJ .
+I already own an iPhone , and so the move just made more sense .	O O O O O O O O O O O O O O O	PRP RB VBP DT NNP , CC IN DT NN RB VBD JJR NN .
+My Toshiba did not have sound on everything , just certain things .	O O O O O B-AS O O O O O O O	PRP$ NNP VBD RB VB NN IN NN , RB JJ NNS .
+It seems to have some opions that are intalled but do not work like I thought they would .	O O O O O O O O O O O O O O O O O O O	PRP VBZ TO VB DT NNS WDT VBP VBN CC VBP RB VB IN PRP VBD PRP MD .
+I will have to say that I love my MacBook Pro !	O O O O O O O O O O O O	PRP MD VB TO VB IN PRP VBP PRP$ NNP FW .
+It all just makes sense .	O O O O O O	PRP DT RB VBZ NN .
+taking it back less than 24 hours of purchase	O O O O O O O O O	VBG PRP RB RBR IN CD NNS IN NN
+- I propose that I can just swap the hard drives .	O O O O O O O O O B-AS I-AS O	: PRP VBP IN PRP MD RB VB DT JJ NNS .
+So when you do call to complain about the hunk of metal you get the joy of speaking with a bunch of people you cant understand .	O O O O O O O O O O O O O O O O O O O O O O O O O O O	RB WRB PRP VBP VB TO VB IN DT NN IN NN PRP VBP DT NN IN VBG IN DT NN IN NNS PRP VBP VB .
+It is fast booting up , shutting down , and connection with the internet .	O O O B-AS I-AS O B-AS I-AS O O B-AS I-AS I-AS I-AS O	PRP VBZ JJ VBG RB , VBG RP , CC NN IN DT NN .
+My Macbook was worth -LRB- after 3 years of use ! -RRB- $ 375 .	O O O O O O O O O O O O O O O	PRP$ NNP VBD JJ -LRB- IN CD NNS IN NN . -RRB- $ CD .
+The Toshiba Satellite has been more than I expected for the price .	O O O O O O O O O O O B-AS O	DT NNP NNP VBZ VBN JJR IN PRP VBD IN DT NN .
+It 's so useable and responsive .	O O O O O O O	PRP VBZ RB JJ CC JJ .
+It is everything that I would want in a computer .	O O O O O O O O O O O	PRP VBZ NN IN PRP MD VB IN DT NN .
+Good price .	O B-AS O	JJ NN .
+I got it for Christmas , and I was so excited to set it up !	O O O O O O O O O O O O O O O O	PRP VBD PRP IN NNP , CC PRP VBD RB JJ TO VB PRP RP .
+All for such a great price .	O O O O O B-AS O	DT IN PDT DT JJ NN .
+By the way teachers , they offer a discount which helps !	O O O O O O O O O O O O	IN DT NN NNS , PRP VBP DT NN WDT VBZ .
+I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed .	O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O	PRP RB VBD TO VB PRP$ NN IN IN NNS DT CD NNS CC PRP RB VBZ TO VB DT JJ NN IN PRP VBD PRP VBD RB VBN .
+I did not like my acer .	O O O O O O O	PRP VBD RB VB PRP$ NN .
+It was definelty a smart move .	O O O O O O O	PRP VBD NN DT JJ NN .
+Plus it is small and reasonably light so I can take it with me to and from work .	O O O O O O O O O O O O O O O O O O O	CC PRP VBZ JJ CC RB JJ IN PRP MD VB PRP IN PRP TO CC IN NN .
+I would easly reccomend this laptop to a friend .	O O O O O O O O O O	PRP MD VB NN DT NN TO DT NN .
+Everything was so easy .	O O O O O	NN VBD RB JJ .
+All of the programs -LRB- Keynote , Pages , Numbers -RRB- have an option to save your documents as Microsoft compatible , which really eliminates the need for the actual .	O O O B-AS O B-AS O B-AS O B-AS O O O O O O O O O O O O O O O O O O O O O	DT IN DT NNS -LRB- NNP , NNP , NNP -RRB- VBP DT NN TO VB PRP$ NNS IN NNP JJ , WDT RB VBZ DT NN IN DT JJ .
+I bought this laptop about a month ago to replace my compaq laptop .	O O O O O O O O O O O O O O	PRP VBD DT NN IN DT NN RB TO VB PRP$ NN NN .
+This computer is the ideal college companion .	O O O O O O O O	DT NN VBZ DT JJ NN NN .
+If you want a little more custom ability , drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more .	O O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS O O O B-AS I-AS I-AS I-AS O O O O O O O O O	IN PRP VBP DT RB RBR NN NN , VB DT JJ NNS CC NN TO CD IN DT RBR JJ NNS IN NN CD CC VB DT NN NN IN NN TO NN PRP DT RP DT NN RBR .
+The real stand out on this computer is the feel of the keyboard and it 's speed .	O O O O O O O O O O O O B-AS O O O B-AS O	DT JJ NN RP IN DT NN VBZ DT NN IN DT NN CC PRP VBZ NN .
+I loved the netbook -LRB- minus the fact that it was windows OS -RRB- until this started happening .	O O O O O O O O O O O B-AS I-AS O O O O O O	PRP VBD DT NN -LRB- CC DT NN IN PRP VBD NNS NN -RRB- IN DT VBD VBG .
+Files as well would become lost , deleted or corrupted .	O O O O O O O O O O O	NNS RB RB MD VB VBN , VBN CC VBN .
+The track pad to me is what really stands out though , you can do several different things with it just depending on how many fingers you use on the track pad , awesome thinking Apple !	O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS O O O O O	DT NN NN TO PRP VBZ WP RB VBZ RP RB , PRP MD VB JJ JJ NNS IN PRP RB VBG IN WRB JJ NNS PRP VBP IN DT NN NN , JJ NN NNP .
+My next laptop will also be a Mac !	O O O O O O O O O	PRP$ JJ NN MD RB VB DT NN .
+Although the price is higher then Dell laptops , the Macbooks are worth the dough .	O O B-AS O O O O O O O O O O O O O	IN DT NN VBZ JJR RB NNP NNS , DT NNPS VBP JJ DT NN .
+The 13 '' Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product .	O O O O O O O O O B-AS O O O B-AS O O O O O O O O O B-AS O O O O O O O O	DT CD '' NNP FW RB VBZ IN PRP$ NN CC IN JJ NN CC DT NN TO NNP DT VBZ DT JJS NN PRP MD VB IN DT JJ NN .
+I am totally satisfied with my little toshie !	O O O O O O O O O	PRP VBP RB VBN IN PRP$ JJ NN .
+Plain and simple , it -LRB- laptop -RRB- runs great and loads fast .	O O O O O O O O B-AS O O B-AS O O	JJ CC JJ , PRP -LRB- NN -RRB- VBZ JJ CC NNS RB .
+We purchased this as a back up computer after our more expensive HP needed to be repaired .	O O O O O O O O O O O O O O O O O O	PRP VBD DT IN DT RB RB NN IN PRP$ RBR JJ NNP VBD TO VB VBN .
+I went to Toshiba online help and found some suggestions to fix it .	O O O B-AS I-AS I-AS O O O O O O O O	PRP VBD TO NNP NN NN CC VBD DT NNS TO VB PRP .
+the laptop preformed pretty well .	O O B-AS O O O	DT NN JJ RB RB .
+It 's graphics are n't bad at all , for the lower end of the MacBook Pro spectrum , easily capable of running StarCraft II and other games with comparable graphics .	O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O B-AS O	PRP VBZ NNS VBP RB JJ IN DT , IN DT JJR NN IN DT NNP FW NN , RB JJ IN VBG NNP NNP CC JJ NNS IN JJ NNS .
+I 'm just really happy that I waited to buy , because this thing kicks a $ $ !	O O O O O O O O O O O O O O O O O O O	PRP VBP RB RB JJ IN PRP VBD TO VB , IN DT NN VBZ DT $ $ .
+Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it 's a snap .	O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O	VBG PRP IN DT NNP VBZ DT JJ NN : NN IN JJ NN : VBN TO VB PRP RB : RB PRP VBZ DT NN .
+It WORKS !	O O O	PRP VBZ .
+Even doing so , the hinge may just be slightly tightened only .	O O O O O B-AS O O O O O O O	RB VBG RB , DT NN MD RB VB RB VBN RB .
+It has worked fine .	O O O O O	PRP VBZ VBN NN .
+But guess what ? -LRB- you have to buy an external dvd drive it does n't have a built in type -RRB- The notebook ca n't be used because it does n't read anything for an external drive .	O O O O O O O O O O B-AS I-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O B-AS I-AS O	CC VB WP . -LRB- PRP VBP TO VB DT JJ NN NN PRP VBZ RB VB DT VBN IN NN -RRB- DT NN MD RB VB VBN IN PRP VBZ RB VB NN IN DT JJ NN .
+Ok , this is probably the best laptop series ever devised by Apple .	O O O O O O O O O O O O O O	NNP , DT VBZ RB DT JJS NN NN RB VBN IN NNP .
+It is so speedy .	O O O O O	PRP VBZ RB JJ .
+I had my IWORKS , Itunes , Email , MS Office , network and printers set up and completely working perfectly within an hour .	O O O B-AS O B-AS O O O B-AS I-AS O O O O O O O O O O O O O O	PRP VBD PRP$ NNP , NNP , VB , NN NNP , NN CC NNS VBN RP CC RB VBG RB IN DT NN .
+But , Mac makes the switch from PC to Mac easy .	O O O O O O O O O O O O	CC , NNP VBZ DT NN IN NN TO NNP JJ .
+Took several hours with customer support before I could even start the PC out of the box .	O O O O B-AS I-AS O O O O O O O O O O O O	VBD JJ NNS IN NN NN IN PRP MD RB VB DT NN IN IN DT NN .
+Its ease of use and the top service from Apple - be it their phone assistance or bellying up to the genius bar - can not be beat .	O O O B-AS O O O B-AS O O O O O O B-AS I-AS O O O O O B-AS I-AS O O O O O O	PRP$ NN IN NN CC DT JJ NN IN NNP : VB PRP PRP$ NN NN CC VBG RP TO DT NN NN : MD RB VB VBN .
+For my burn thigh which has put a permanent mark on my skin -LRB- it happened 7 months ago -RRB- they offered me an ITouch 8Gig -LRB- you know it is a bit insulating when a company this rich , offer a loyal customer like me , a bottom of their product line as a gift for events like this -RRB- .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	IN PRP$ VBP NN WDT VBZ VBN DT JJ NN IN PRP$ NN -LRB- PRP VBD CD NNS IN -RRB- PRP VBD PRP DT NN NN -LRB- PRP VBP PRP VBZ DT NN VBG WRB DT NN DT JJ , VBP DT JJ NN IN PRP , DT NN IN PRP$ NN NN IN DT NN IN NNS IN DT -RRB- .
+The battery life also does n't keep up with the claim but still I think macbook is much ahead from the rest of the pack .	O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O	DT NN NN RB VBZ RB VB RP IN DT NN CC RB PRP VBP NN VBZ JJ RB IN DT NN IN DT NN .
+Windows also shuts the computer down for no reason without warning .	B-AS O O O O O O O O O O O	NNP RB VBZ DT NN RP IN DT NN IN NN .
+The built-in webcam is great for Skype and similar video-chat services .	O B-AS I-AS O O O O O O O O O	DT JJ NN VBZ JJ IN VB CC JJ NN NNS .
+-LRB- I found a 2GB stick for a bit under $ 50 -RRB- Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents .	O O O O O O O O O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	-LRB- PRP VBD DT NN NN IN DT NN IN $ CD -RRB- JJ CC JJ CC RB DT JJ JJ NN TO VB PRP VBN IN VBG IN DT NN IN DT NN IN NNS , CC IN DT NN VBG NN IN DT JJ NN NNS CC NNS .
+After about another month I had to send it in AGAIN to Acer for repairs .	O O O O O O O O O O O O O O O O	IN IN DT NN PRP VBD TO VB PRP IN RB TO NNP IN NNS .
+Honestly , this is absolutely wonderful .	O O O O O O O	RB , DT VBZ RB JJ .
+When I am at Starbucks between clients I get full bars on my HP and 1 bar on my Eee PC .	O O O O O O O O O O O O O O O O O O O O O O	WRB PRP VBP IN NNP IN NNS PRP VBP JJ NNS IN PRP$ NNP CC CD NN IN PRP$ NN NN .
+This is basically the best laptop I have ever had or used .	O O O O O O O O O O O O O	DT VBZ RB DT JJS NN PRP VBP RB VBN CC VBN .
+I left the place angrily .	O O O O O O	PRP VBD DT NN RB .
+I have no idea how to burn cd 's or to use the web cam , just for starters .	O O O O O O B-AS I-AS I-AS O O O O B-AS I-AS O O O O O	PRP VBP DT NN WRB TO VB NN POS CC TO VB DT NN NN , RB IN NNS .
+I got it back again and was told the motherboard had been replaced , so I was now on the SECOND motherboard within 3 months .	O O O O O O O O O B-AS O O O O O O O O O O O B-AS O O O O	PRP VBD PRP RB RB CC VBD VBN DT NN VBD VBN VBN , IN PRP VBD RB IN DT NNP NN IN CD NNS .
+The display on this computer is the best I 've seen in a very long time , the battery life is very long and very convienent .	O B-AS O O O O O O O O O O O O O O O O B-AS I-AS O O O O O O O	DT NN IN DT NN VBZ DT JJS PRP VBP VBN IN DT RB JJ NN , DT NN NN VBZ RB JJ CC RB JJ .
+We decided we would try to trade-in our old ones .	O O O O O O O O O O O	PRP VBD PRP MD VB TO NN PRP$ JJ NNS .
+That 's very possible , but since they do n't make Windows XP drivers for the sound card in this machine , I was stuck until Windows 7 came out .	O O O O O O O O O O O B-AS I-AS I-AS O O B-AS I-AS O O O O O O O O B-AS I-AS O O O	DT VBZ RB JJ , CC IN PRP VBP RB VB NNP NN NNS IN DT JJ NN IN DT NN , PRP VBD VBN IN NNP CD VBD RP .
+Now , I guess , I 'll have to unload my M6809 on some poor , hapless soul .	O O O O O O O O O O O O O O O O O O O	RB , PRP VBP , PRP MD VB TO VB PRP$ NN IN DT JJ , JJ NN .
+The big screen allows you to enjoy watching movies , pictures and etc !	O O B-AS O O O O O O O O O O O	DT JJ NN VBZ PRP TO VB VBG NNS , NNS CC FW .
+Features such as the Dashboard -LRB- allows you to view frequently used tools like a calculator , weather forecast , movie times , calendar , computer post its etc. .	B-AS O O O B-AS O O O O O O O O O O O O O O O O O O O O O O O O O	NNS JJ IN DT NN -LRB- VBZ PRP TO VB RB VBN NNS IN DT NN , NN NN , NN NNS , NN , NN NN PRP$ NN .
+I just took the broken cords into the Apple store and they gave me new ones .	O O O O O B-AS O O O O O O O O O O O	PRP RB VBD DT JJ NNS IN DT NNP NN CC PRP VBD PRP JJ NNS .
+Laptop is to be used like a Netbook .	O O O O O O O O O	NN VBZ TO VB VBN IN DT NNP .
+I connect a LaCie 2Big external drive via the firewire 800 interface , which is useful for Time Machine .	O O O B-AS I-AS I-AS I-AS O O B-AS I-AS I-AS O O O O O B-AS I-AS O	PRP VBP DT NN NN JJ NN IN DT NN CD NN , WDT VBZ JJ IN NNP NNP .
+In the first moth of owning this computer its hardrive failed which had to be replaced .	O O O O O O O O O B-AS O O O O O O O	IN DT JJ NN IN VBG DT NN PRP$ NN VBD WDT VBD TO VB VBN .
+The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the keyboard .	O O O O O O O O O O O O O O B-AS O O O O O B-AS O	DT JJ NN PRP VBP VBZ DT CD NN NNP FW VBZ RB JJR NNS IN DT NN IN DT NN .
+EITHER WAY , THE KEYBOARD IS UNSATISFACTORY .	O O O O B-AS O O O	NNP NNP , DT NN VBZ NNP .
+Anyone who is considering buying an Acer computer of any sort , I seriously suggest you look into buying a different brand .	O O O O O O O O O O O O O O O O O O O O O O O	NN WP VBZ VBG VBG DT NNP NN IN DT NN , PRP RB VBP PRP VB IN VBG DT JJ NN .
+I previously owned an HP desktop and a Dell laptop .	O O O O O O O O O O O	PRP RB VBD DT NNP NN CC DT NNP NN .
+I made the right decision .	O O O O O O	PRP VBD DT JJ NN .
+So I got another netbook which I love !	O O O O O O O O O	IN PRP VBD DT NN WDT PRP VBP .
+I am very happy I bought this Mac , well worth the extra money .	O O O O O O O O O O O O O O O	PRP VBP RB JJ PRP VBD DT NN , RB IN DT JJ NN .
+So think about factoring those things in when you purchase .	O O O O O O O O O O O	RB VB IN VBG DT NNS IN WRB PRP NN .
+As an owner of a Toshiba Satalite laptop computer things you should know before you buy .	O O O O O O O O O O O O O O O O O	IN DT NN IN DT NNP NNP JJ NN NNS PRP MD VB IN PRP VBP .
+I bought this laptop the moment unibody product came to the market .	O O O O O O O O O O O O O	PRP VBD DT NN DT NN JJ NN VBD TO DT NN .
+I baby my electronics so I know for a fact it was defective and not anything that I did to it .	O O O O O O O O O O O O O O O O O O O O O O	PRP NN PRP$ NNS IN PRP VBP IN DT NN PRP VBD JJ CC RB NN IN PRP VBD TO PRP .
+However , this will be my last as well .	O O O O O O O O O O	RB , DT MD VB PRP$ JJ RB RB .
+they respond : `` your dissatisfaction is noted '' ...	O O O O O O O O O O	PRP VBP : `` PRP$ NN VBZ VBN '' :
+No I am generous calling it slow .	O O O O O O O O	DT PRP VBP JJ VBG PRP JJ .
+I go to purchase it on line , and I find out that the device will not be available until almost two months later !	O O O O O O O O O O O O O O O O O O O O O O O O O	PRP VBP TO VB PRP IN NN , CC PRP VBP RP IN DT NN MD RB VB JJ IN RB CD NNS RB .
+and its really cheap and you wont regret buying it .	O O O O O O O O O O O	CC PRP$ RB JJ CC PRP VBP NN VBG PRP .
+Since I keyboard over 100 wpm , I look for a unit that has a comfortble keyboard -LRB- no keys sticking or lagging , strange configuration of `` extra key '' , etc. .	O O O O O O O O O O O O O O O O B-AS O O B-AS O O O O O B-AS I-AS I-AS I-AS I-AS I-AS O O O	IN PRP NN IN CD NN , PRP VBP IN DT NN WDT VBZ DT JJ NN -LRB- DT NNS VBG CC VBG , JJ NN IN `` JJ NN '' , FW .
+They need to stop outsoucing and send some complaint calls to US based customer service agents for those who live in the United states .	O O O O O O O O O O O O O B-AS I-AS I-AS O O O O O O O O O	PRP VBP TO VB VBG CC VB DT NN VBZ TO NNP VBN NN NN NNS IN DT WP VBP IN DT NNP NNS .
+The backlit keys are wonderful when you are working in the dark .	O B-AS I-AS O O O O O O O O O O	DT JJ NNS VBP JJ WRB PRP VBP VBG IN DT NN .
+I should have sent it back to them then .	O O O O O O O O O O	PRP MD VB VBN PRP RB TO PRP RB .
+I bought a HP Pavilion DV4-1222nr laptop and have had so many problems with the computer .	O O O O O O O O O O O O O O O O O	PRP VBD DT NNP NNP NN NN CC VB VBN RB JJ NNS IN DT NN .
+My battery went bad about a year and a half after having it and it cost around eighty to a hundred dollars !	O B-AS O O O O O O O O O O O O O O O O O O O O O	PRP$ NN VBD JJ IN DT NN CC DT NN IN VBG PRP CC PRP VBD IN CD TO DT CD NNS .
+I was informed that I need to call some 0900 number first .	O O O O O O O O O O O O O	PRP VBD VBN IN PRP VBP TO VB DT CD NN RB .
+The screen is nice and the images comes very clear , the keyboard and the fit just feels right .	O B-AS O O O O O O O O O O B-AS O O B-AS O O O O	DT NN VBZ JJ CC DT NNS VBZ RB JJ , DT NN CC DT NN RB VBZ NN .
+The most amazing part to me as a PC user is the startup and shutdown times - and the fact that you very rarely have to restart the thing .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	DT RBS JJ NN TO PRP IN DT NN NN VBZ DT NN CC NN NNS : CC DT NN IN PRP RB RB VB TO VB DT NN .
+Yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use .	O O O O O O O O O O O O O O O O O O O O O B-AS O	UH , DT NN VBD JJ NN , RBR JJ IN DT JJ NN , CC VBD RB NN NN IN NN .
+The price was very good , and the product is top quality .	O B-AS O O O O O O O O O B-AS O	DT NN VBD RB JJ , CC DT NN VBZ JJ NN .
+And i would recommend this to anypne looking for a new laptop .	O O O O O O O O O O O O O	CC FW MD VB DT TO VB VBG IN DT JJ NN .
+I highly recommend this product !	O O O O O O	PRP RB VB DT NN .
+The built in camera is very useful when chatting with other techs in remote buildings on our campus .	O B-AS I-AS I-AS O O O O O O O O O O O O O O O	DT VBN IN NN VBZ RB JJ WRB VBG IN JJ NNS IN JJ NNS IN PRP$ NN .
+However , I love this particular Mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad .	O O O O O O O O O O O O O B-AS O O O O B-AS O O B-AS I-AS O O B-AS I-AS O	RB , PRP VBP DT JJ NN IN PRP$ RB RB , JJ NN , CC VBZ JJ NNS IN DT VBN NN CC JJ NN NN .
+I 've had this laptop for about a month now .	O O O O O O O O O O O	PRP VBP VBD DT NN IN IN DT NN RB .
+Oh and if thats not bad enough it does n't come with a recovery cd so you can make one if you know how to or buy one if you buy it the cost is $ 25 for two cds .	O O O O O O O O O O O O O B-AS I-AS O O O O O O O O O O O O O O O O O O O O O O O O O O	UH CC IN NNS RB JJ RB PRP VBZ RB VBN IN DT NN NN IN PRP MD VB CD IN PRP VBP WRB TO CC VB CD IN PRP VBP PRP DT NN VBZ $ CD IN CD NNS .
+Returned laptop for a 4th repair and it came back but now would lock up and randomly reboot frequently making the laptop unusable .	O O O O O O O O O O O O O O O O O O O O O O O O	VBN NN IN DT JJ NN CC PRP VBD RB CC RB MD VB RP CC RB NN RB VBG DT NN JJ .
+I am most impressed with the programming , including the iPhoto .	O O O O O O B-AS O O O B-AS O	PRP VBP RBS JJ IN DT NN , VBG DT NNP .
+Awesome graphics !	O B-AS O	JJ NNS .
+This system came loaded with Windows 7 Starter .	O O O O O B-AS I-AS I-AS O	DT NN VBD VBN IN NNP CD NNP .
+the mouse is way way way to sensitve .	O B-AS O O O O O O O	DT NN VBZ NN NN NN TO NN .
+I did n't like one thing about it .	O O O O O O O O O	PRP VBD RB IN CD NN IN PRP .
+Called tech support and got the usual Acer `` We do n't support software but for $ $ $ we can help you '' I explained there was no software involved in booting .	O O O O O O O O O O O O O B-AS O O O O O O O O O O O O O O O B-AS O O B-AS O	VBN NN NN CC VBD DT JJ NNP `` PRP VBP RB VB NN CC IN $ $ $ PRP MD VB PRP '' PRP VBD EX VBD DT NN VBN IN NN .
+It ca n't get any better .	O O O O O O O	PRP MD RB VB DT JJR .
+But enough about that , I am an Apple convert for life .	O O O O O O O O O O O O O	CC RB IN DT , PRP VBP DT NNP VB IN NN .
+When I got it , I immediately noticed that it was quite heavy and thick and not really attractive .	O O O O O O O O O O O O O O O O O O O O	WRB PRP VBD PRP , PRP RB VBD IN PRP VBD RB JJ CC JJ CC RB RB JJ .
+The battery life is probably an hour at best .	O B-AS I-AS O O O O O O O	DT NN NN VBZ RB DT NN IN JJS .
