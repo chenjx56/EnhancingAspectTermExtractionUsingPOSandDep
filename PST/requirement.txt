@@ -1,0 +1,22 @@
+pyzmq >= 17.1.0  # python zmq
+cuda == 9.0
+boto==2.49.0
+boto3==1.9.212
+botocore==1.12.212
+Flask==1.1.1
+Flask-Compress==1.4.0
+Flask-Cors==3.0.8
+Flask-JSON == 0.3.3
+GPUtil == 1.4.0
+numpy == 1.17.0
+pandas == 0.25.0
+requests == 2.22.0
+termcolor == 1.1.0
+torch == 1.2.0
+torchvision == 0.4.0
+tqdm == 4.7.2
+urllib3 == 1.25.3
+wheel == 0.33.6
+zmq == 0.0.0
+jieba==0.39
+PyYAML 
